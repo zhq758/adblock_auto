@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: P00i9/Vvst+v25YNYnOJAw
+! Checksum: 42ODAY/uaygxCaSpnkLm0A
 ! Title: 自用去广告Adblock规则
-! Version: 20250104112317
-! Last modified: 2025-01-04 11:23:18
-! Total Count: 7586
+! Version: 20250104214714
+! Last modified: 2025-01-04 21:47:14
+! Total Count: 7590
 ###ADbox
 ###Ad-Container
 ###Ad-Content
@@ -2771,6 +2771,7 @@
 ##script + #coupletBox
 ##script + #rbbox
 ##script + #strl
+##script + .dbfh
 ##script + .p-screen-dialog
 ##script + .show-app
 ##script + .show-app2
@@ -4456,6 +4457,7 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 ://*.aiqu*com/da/$script,~third-party
 ://*.aj25*.bid/*.js$third-party
 ://*.biquge*/mm.js
+://*.fcdm233.*/piao/$script
 ://*.hh-tv.*/js/footer.js
 ://*.ijjxs.*/m.js
 ://*.kuaijuwu.*/js/cba/$script,~third-party
@@ -4492,6 +4494,7 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 ://*mp4*/js/wcount.js$script,~third-party
 ://*myyyw.cc/play/*php
 ://*myyyw.cc/static/node.js
+://*po18*/scripts/jquery-git.js
 ://*po18.*/astyle/wap.js$script
 ://*puzanny*/static/node.js
 ://*qiqidm*.*/js/*.js?ver=
@@ -7509,6 +7512,7 @@ zol.com.cn##[data-bottom-fixed] > img[style]
 ||xhzysh.com/runtime/ad$~third-party
 ||xiakeaa.com/css/js/tools.js
 ||xiangzishop.com^$third-party
+||xiaoshuotxt668.org^$image
 ||xinfubao.site^
 ||xinyumingad.com^$third-party
 ||xlyzjs.com$third-party
