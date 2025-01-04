@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 42ODAY/uaygxCaSpnkLm0A
+! Checksum: 5U8DtGUcZo0j8jNBi0ufAQ
 ! Title: 自用去广告Adblock规则
-! Version: 20250104214714
-! Last modified: 2025-01-04 21:47:14
-! Total Count: 7590
+! Version: 20250104220814
+! Last modified: 2025-01-04 22:08:14
+! Total Count: 7591
 ###ADbox
 ###Ad-Container
 ###Ad-Content
@@ -4476,11 +4476,11 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 ://*38kanshu.net/public/*.js
 ://*69hsw.*/static/69shuba/69.js$script
 ://*banzhu*/js/cdn.js$script,~third-party
+://*banzhu*/js/js4.js?$script,~third-party
 ://*biquge*/m.js
 ://*biquge*/mm.js$script
 ://*dianjiangxin.*/js/mc.js?
 ://*dilidili*.*/js/*.js?ver=
-://*diyibanzhu*/js/cdn.js$script,~third-party
 ://*dm*/static/js/toper.js$~third-party
 ://*ee-tv.*/js/footer.js
 ://*freeok.*/asdasdad.js$script
@@ -5719,7 +5719,7 @@ pornhub.com##div[class="video-wrapper"] > .clear.hd:has(.adsbytrafficjunky)
 pornhub.com##div[id^="customSkin"]
 pornhub.com##img[srcset]
 pornhub.com,pornhub.net,pornhub.org##.realsex
-pornhub.com,pornhub.org,pornhub.net###abAlert
+pornhub.com,pornhub.net,pornhub.org,tube8.com,tube8.es,tube8.fr###abAlert
 pornhub.com,pornhub.org,pornhub.net###adBlockAlert
 pornhub.com,pornhub.org,pornhub.net###customSkin.backgroundImg
 pornhub.com,pornhub.org,pornhub.net###customSkinCTA
@@ -5752,6 +5752,7 @@ pornhub.com,pornhubthbh7ap3u.onion,redtube.com,spankbang.com,tube8.com,tube8.es,
 pornhub.com,redtube.com,tube8.com,tube8.es,tube8.fr#@#[src^="bLob:"]
 pornhub.com,redtube.com,tube8.com,tube8.es,tube8.fr,youjizz.com,youporn.com,youporngay.com##[style*="blob:"]:not(video)
 pornhub.com,tube8.com,tube8.es,tube8.fr,xvideos.com,youjizz.com,youporngay.com##img[src*="blob:" i]:not(video)
+pornhub.com,tube8.fr,tube8.es,tube8.com###adBlockAlertWrap
 pornhuber.love##.adBottomRow
 pornhuber.love##div:not([id]):not([class]):not([style]):has(.adTextList)
 pornlib.com###spot_video_livecams
