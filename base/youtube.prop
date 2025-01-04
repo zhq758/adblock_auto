@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: uBVcs1f7PyzuaLXn3PG6bw
+! Checksum: KL7H4IFUoiA+SF/NHxCFcw
 ! Title: YouTube 广告拦截
-! Version: 20241228215543
-! Last modified: 2024-12-28 21:55:43
-! Total Count: 133
+! Version: 20250104112318
+! Last modified: 2025-01-04 11:23:18
+! Total Count: 134
 *_ad_$media,third-party,domain=youtube.com
 @@||ad.doubleclick.net/*/adi/com.ytbc/$domain=youtube.com
 @@||pubads.g.doubleclick.net/gampad/ads?ad_rule=0&d_imp=1&gdfp_req=1&impl=ifr$domain=youtube.com
@@ -19,6 +19,7 @@
 _rectangle_ads.
 _reklama_$domain=~youtube.com
 filmvilag.me,liderendeportes.com,serieskao.tv,freefilm.to,ac24.cz,nsfwyoutube.com,jpblow.info,hesgoal.com,filmisub.com,igg-games.com,ruwhite.info,slones.info,ukhello.info,uaclips.com,thodkyaat.com,kzclip.com,onlymen.cz,ultimasnoticias.com.ve,freeserial.to,ibb.co##pp
+m.youtube.com##.is-extra-compact:has(.yt-mini-game-card-view-model)
 nsfwyoutube.com##.ads
 nsfwyoutube.com##img[src*="data"]
 youtube.com###YtKevlarVisibilityIdentifier

@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: MQQaLXQurxRNcB3bdJY6XQ
+! Checksum: P00i9/Vvst+v25YNYnOJAw
 ! Title: 自用去广告Adblock规则
-! Version: 20250104014654
-! Last modified: 2025-01-04 01:46:54
-! Total Count: 7584
+! Version: 20250104112317
+! Last modified: 2025-01-04 11:23:18
+! Total Count: 7586
 ###ADbox
 ###Ad-Container
 ###Ad-Content
@@ -4455,7 +4455,9 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 ://*.aiqu*8*.com/*/*.js$~third-party
 ://*.aiqu*com/da/$script,~third-party
 ://*.aj25*.bid/*.js$third-party
+://*.biquge*/mm.js
 ://*.hh-tv.*/js/footer.js
+://*.ijjxs.*/m.js
 ://*.kuaijuwu.*/js/cba/$script,~third-party
 ://*.mbw*.com/6666/$image
 ://*.po18*/astyle/wap.js$script,~third-party
@@ -4472,8 +4474,8 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 ://*38kanshu.net/public/*.js
 ://*69hsw.*/static/69shuba/69.js$script
 ://*banzhu*/js/cdn.js$script,~third-party
-://*biquge100*/mm.js$script
-://*biquge100.*/m.js
+://*biquge*/m.js
+://*biquge*/mm.js$script
 ://*dianjiangxin.*/js/mc.js?
 ://*dilidili*.*/js/*.js?ver=
 ://*diyibanzhu*/js/cdn.js$script,~third-party
