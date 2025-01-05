@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 5U8DtGUcZo0j8jNBi0ufAQ
+! Checksum: 8oW2JLQZq1+Aei+uOAieDQ
 ! Title: 自用去广告Adblock规则
-! Version: 20250104220814
-! Last modified: 2025-01-04 22:08:14
-! Total Count: 7591
+! Version: 20250105110621
+! Last modified: 2025-01-05 11:06:21
+! Total Count: 7598
 ###ADbox
 ###Ad-Container
 ###Ad-Content
@@ -1559,6 +1559,8 @@
 ##.mrec-scrollable-cont
 ##.mrf-adv__wrapper
 ##.mx-auto > .grid + .modal
+##.my-2.md\:hidden
+##.my-2.md\:my-3
 ##.myplayer_ima-ad-container
 ##.naicon.btn.btn-raised
 ##.nonepc.mad
@@ -1647,6 +1649,7 @@
 ##.storyAd
 ##.story__top__ad
 ##.stripper > a[href*="istripper"] > img
+##.suspend[style="width:auto;height:80px"]
 ##.swiper#bottomFixed
 ##.swiper-wrapper.gpwggaoh
 ##.swipercctv
@@ -2621,6 +2624,7 @@
 ##img[alt="海角社区"]
 ##img[alt="涩里番"]
 ##img[alt="淫荡猫"]
+##img[alt="澳门新葡京"]
 ##img[alt="美女直播大秀"]
 ##img[alt="草榴短视频"]
 ##img[alt="萌萝社"]
@@ -2813,6 +2817,7 @@
 ##topadblock
 ##ul > li > a[href*=".pojuko.buzz/"]
 ##ul > li > a[href][data-id][data-type][data-position][target="_self"]
+##ul.md\:grid-cols-1 > li > a.checkNum
 ##ul[style="margin:0px; padding:0px;overflow:hidden;width:100%;"]
 ##video[poster^="https://code.yykalopyy.com/"]
 $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.xyz
@@ -3756,6 +3761,7 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 /config/json/cctv.json?v=1$~third-party
 /css/ad.
 /css/assets.html?r=0$domain=topfapgirlspics.com
+/css/click_*.js$script
 /css/js/tools.js$script,~third-party,~stylesheet
 /cu.php?s=$popup
 /ddbd/*f.js$~third-party,script
@@ -7418,6 +7424,7 @@ zol.com.cn##[data-bottom-fixed] > img[style]
 ||traffichaus.com^
 ||trafficjunky.com^
 ||trafficjunky.net^
+||trafficmanager.net^$domain=395tv.net
 ||trandgid.com^$third-party
 ||tryoe.com^$third-party
 ||ts.grmnmwv.cn^
