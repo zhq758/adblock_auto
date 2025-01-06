@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Checksum: ZvF7w6Eju/JVX4rD103afQ
-! Title: 混合规则精简版(更新日期2025-01-06 00:12:07)
-! Version: 20250106001207
+! Checksum: TerEeydlD3U1f4g2dsomIw
+! Title: 混合规则精简版(更新日期2025-01-06 08:48:52)
+! Version: 20250106084852
 ! Expires: 12 hours (update frequency)
-! Last modified: 2025-01-06 00:12:07
-! Total Count: 50351
-! Blocked Filters: 50351
+! Last modified: 2025-01-06 08:48:52
+! Total Count: 50356
+! Blocked Filters: 50356
 ! Description: 合并于各种知名的Adblock规则，适用于移动端轻量的浏览器，例如 VIA / Rian / B仔浏览器
 ! Homepage: https://lingeringsound.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
@@ -3238,7 +3238,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 |javascript:*window.location
 !<<<<<通配符规则 结束>>>>>
 
-!<<<<<域名规则>>>>>33482
+!<<<<<域名规则>>>>>33487
 |http*://*?$third-party,domain=forums.socialmediagirls.com|pornhub.com|redtube.com|tube8.com|youporn.com|youporngay.com
 |http://$image,third-party,domain=pornhub.com|redtube.com|redtube.net|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com|you-porn.com|youpornru.com|youporn.fyi
 |https://m.frgls.com/js/*.js?v=
@@ -20798,6 +20798,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||historicalbeam.com^$third-party
 ||historyactorabsolutely.com^
 ||hisurnhuh.com^
+||hitalsli.com^
 ||hitbip.com^
 ||hitchprivilege.com^
 ||hitchun.com^
@@ -22544,6 +22545,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||jjj*.com/static/js/common.js
 ||jjjgame.com/images/ad11.jpg
 ||jjmrmeovo.world^
+||jjplaqyo.icu^
 ||jjpp.lmtjapi.com^
 ||jjvpbstg.com^
 ||jjwxc.net/jjPopup.php
@@ -23596,6 +23598,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||lcd.aivote.com^
 ||lcefsf.icu^
 ||lclimil.top^
+||lcvwdn.icu^
 ||lcxw.cn/d/js/thea
 ||lcxw.cn/i/*dl.js
 ||lczk.cn^$third-party
@@ -25551,6 +25554,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||myunion1.tupians.com^
 ||myvideo.ge/delivery/*.php?*vast
 ||myvideos.club/api/
+||myvidster.com/ads/
 ||myvidster.com/js/myv_ad_camp2.php
 ||myweb.hinet.net/menu.htm
 ||mywondertrip.com^
@@ -32561,6 +32565,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||titsintops.com/phpBB2/nb/
 ||titulky.com/mybanalter/
 ||tivan.naver.com^
+||tixoilll.com^
 ||tiypa.com^
 ||tizerclik.com^
 ||tjaard11.xyz^
