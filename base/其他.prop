@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: kKnA1lN35t/Sq9JzDzNrHg
+! Checksum: eGgFfDHO5XtTOWyIT/J5Eg
 ! Title: 自用去广告Adblock规则
-! Version: 20250105204817
-! Last modified: 2025-01-05 20:48:17
-! Total Count: 7608
+! Version: 20250107192147
+! Last modified: 2025-01-07 19:21:47
+! Total Count: 7611
 ###ADbox
 ###Ad-Container
 ###Ad-Content
@@ -3153,6 +3153,7 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 .info/bokan/bokan.js$script
 .js?type=adult&v=$domain=netflav.com
 .la/8WaadBLH/*.js
+.live/iis.*.1*.json?$third-party
 .live/j/*/*?$third-party
 .live/js/gg.js$script
 .live/k/*/*?$third-party
@@ -3276,6 +3277,7 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 .xyz/godfehrrg*_*.js?$third-party
 .xyz/hm.js?
 .xyz/hx/*/*.gif$third-party,image
+.xyz/iis.*.1*.json?$third-party
 .xyz/iutfkdfnshsdfk.js$third-party
 .xyz/jque*.js?
 .xyz/js/adlm$third-party,script
@@ -3742,6 +3744,7 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 /asdasdad.js$script,~third-party
 /asset/*.min.js?*=*&$domain=vcdn.io|suzihaza.com|ns21.online|diasfem.com|izleorg3.org|nezuko-ah.nl|dfmagazine.co.uk|javcl.me|bazavox.com|avhost.xyz|asianclub.tv|javlove.club|javip.pro|videogreen.xyz|ujav.me|mavplayer.xyz|vcdn2.space|xxxjaa.xyz|mavlecteur.com|vidcloud.*|javmvp.com|mm9842.com|fplayer.info|ondembed.xyz|fakyutube.com|streamabc.xyz|hentai4.me|animepl.xyz|gdstream.net|rubicstreaming.com|layarkacaxxi.icu|mycloudzz.com|playerjavhd.com|cutl.xyz|myvideoplayer.monster|cinemaemcasa.xyz|luxubu.review|cinegrabber.com|obaplayer.xyz|yuamikami.xyz|cloudrls.com|javpornhd.online|watch-jav-english.live|zojav.com|javenglish.me|vidplay.ch|vanfem.com|vcdn-stream.xyz|av4asia.com|javsubbed.xyz|xsub.cc|mavavid.com|baldrfilms.xyz|streamm4u.club|m4uhd.club
 /assets/ad-$domain=~flowus.cn
+/assets/js/se.js$script,~third-party
 /assets/publi*/$script,domain=btmovi.kim|colamanhua.com|cppg.cc|cppg.com|cppg.xyz|cqjschungao.com|dydytt.net|eeexun.com|fuwen123.com|haitangdushu.com|heshang123.com|iyungong.com|ledlmw.com|lengmen.org|lengmenbook.com|lengmenread.com|lookmht.com|mobidushu.com|myfeiyanqing.com|myhaitang.net|mylengmen.com|mylewen.com|myshenye.com|newhaitang.com|newpopo.com|nmddd.com|peakread.com|qianlimaerp.com|rourouwu.info|sadhub.org|shenyedushu.com|soosadfun.com|sqruitu.com|tangsanshu.info|tinghao8.com|tinghaodebook.com|toosadfun.com|xhzysh.com|ziyungong.org|zongcai666.com|tangsanshu.la|lewenlook.com|nosadfun.com|shenyelook.com|hetang123.com|tinghaolook.com|sadnofun.com|bookhaitang.com|lengmen.cc|baimakanshu.com|dayu778.com|solengmen.com
 /assets/public/*.1.js$script,~third-party
 /assets/public/*.2.js$script,~third-party
