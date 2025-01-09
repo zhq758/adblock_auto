@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: akvLx+iFadzoXZk8AZWxCQ
+! Checksum: nrxH4jLpSSDtEHpBbmJayg
 ! Title: 自用去广告Adblock规则
-! Version: 20250108160046
-! Last modified: 2025-01-08 16:00:46
-! Total Count: 7615
+! Version: 20250109112755
+! Last modified: 2025-01-09 11:27:55
+! Total Count: 7627
 ###ADbox
 ###Ad-Container
 ###Ad-Content
@@ -132,6 +132,7 @@
 ###bb_banner
 ###billboard_desk
 ###billboard_mob
+###birdVideoRecommend
 ###bl_mobile_float
 ###blkAds1
 ###blkAds2
@@ -301,6 +302,8 @@
 ###floatingAdContainer
 ###footads
 ###footer-banner
+###footer-scrollimages-ad
+###fxied-box-bird1
 ###gads_middle
 ###game-ad
 ###gamead
@@ -510,6 +513,8 @@
 ###textlink-advertisement
 ###textsponsor
 ###top-ads
+###top-linktext-ad
+###top-scroll-sixgrid-ad
 ###topBanners
 ###top_ad
 ###topstuff > #tads
@@ -883,6 +888,7 @@
 ##.bigads
 ##.bing-ads-wrapper
 ##.bing-native-ad
+##.birdTacker.reported
 ##.block-ads-yahoo
 ##.block-ads1
 ##.block-ads2
@@ -895,6 +901,7 @@
 ##.block-advertisement
 ##.block-advertisement-banner-block
 ##.block-advertising
+##.block_app > .block_app_item
 ##.body > script + div[style*="135px;"]
 ##.bodyads
 ##.bordered-ad
@@ -920,6 +927,7 @@
 ##.cailyzad
 ##.catflix[style]
 ##.cctv_banner_dv
+##.cell > .reported
 ##.center-ad
 ##.center-div.sponsor
 ##.colBoxAdframe
@@ -941,6 +949,7 @@
 ##.content-advert
 ##.content-advertisment
 ##.cpcad.nopc
+##.custom_link-wrapper.banner-grid-container
 ##.dartiframe
 ##.dbhf
 ##.detail-list-title > a.text_span.gotoclick
@@ -997,6 +1006,7 @@
 ##.floating_ads
 ##.foot-dp-fix
 ##.footads
+##.footer-adv-items
 ##.footer-advertisements
 ##.full-ave-pl
 ##.full-bns-block
@@ -1251,6 +1261,7 @@
 ##.inPlayerGGdiv
 ##.inarticlead
 ##.index-center-tc-index2.index-center-tc > a
+##.info-bottom.tx-flex-hc
 ##.innerBanner
 ##.instream_ad
 ##.j-cctv-click
@@ -3736,7 +3747,6 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 /api/LM/Report?placeUUID=$third-party
 /api/ad/*
 /api/adplogger/*
-/api/blockdata$domain=sohu.com
 /api/models/vast?
 /api/spots/*$domain=yomovies.*|speedostream.com|watchomovies.com|gofilms4u.pro|pornleech.io|hentaihand.com|filmlinks4u.pro|uniqueten.net|ultraten.net|topcryptoz.net|allcryptoz.net|analdin.com|supjav.com|crazyporn.xxx|hog.tv|porntry.com|love4porn.com|freeadultcomix.com|hog.mobi|sextb.net|pornpapa.com
 /api/spots/*?*=$third-party
@@ -4625,6 +4635,7 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 @@/adbar/*$domain=outlook.live.com
 @@/api/ad/*$domain=pinduoduo.com
 @@/api/ads?$domain=nmkjxy.com
+@@/api/blockdata$domain=sohu.com
 @@/api/models?$domain=tik.porn
 @@/api/v2/models-online?$domain=tik.porn
 @@/index.m3u8
@@ -5460,6 +5471,7 @@ m.bilibili.com##.mplayer-fullscreen-call-app
 m.bilibili.com##.mplayer-widescreen-callapp
 m.bilibili.com##[class*="-openapp"]
 m.bilibili.com#@#div > div:not([style]):not([id]) > div[style="position: relative;"]:not([id])
+m.dayi.org.cn##div[class*="container"]:not([id]) + div + div:not([class]):not([id]):not([style])
 m.douban.com##.app-link
 m.douban.com##.download-app
 m.douban.com##.green.btn
