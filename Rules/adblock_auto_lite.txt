@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Checksum: GACFo/ACp1YNygsVRSSOow
-! Title: 混合规则精简版(更新日期2025-01-09 06:57:44)
-! Version: 20250109065744
+! Checksum: xQXil5Jlmcblb/knBuaU2w
+! Title: 混合规则精简版(更新日期2025-01-09 08:44:39)
+! Version: 20250109084439
 ! Expires: 12 hours (update frequency)
-! Last modified: 2025-01-09 06:57:44
-! Total Count: 50825
-! Blocked Filters: 50825
+! Last modified: 2025-01-09 08:44:39
+! Total Count: 50834
+! Blocked Filters: 50834
 ! Description: 合并于各种知名的Adblock规则，适用于移动端轻量的浏览器，例如 VIA / Rian / B仔浏览器
 ! Homepage: https://lingeringsound.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
@@ -3246,7 +3246,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 |javascript:*window.location
 !<<<<<通配符规则 结束>>>>>
 
-!<<<<<域名规则>>>>>33944
+!<<<<<域名规则>>>>>33953
 |http*://*?$third-party,domain=forums.socialmediagirls.com|pornhub.com|redtube.com|tube8.com|youporn.com|youporngay.com
 |http://$image,third-party,domain=pornhub.com|redtube.com|redtube.net|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com|you-porn.com|youpornru.com|youporn.fyi
 |https://m.frgls.com/js/*.js?v=
@@ -13551,6 +13551,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||blasphemebelfry.com^
 ||blastcahs.com^
 ||blazonstowel.com^
+||blbtibqk.icu^
 ||blcdog.com^
 ||blciqbk.icu^
 ||bld.mobi^
@@ -18768,6 +18769,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||faulterdeplume.com^
 ||faultycanvas.com^$third-party
 ||fausamoawhisi.net^
+||fauseepetoozuk.xyz^
 ||fawhotoads.net^
 ||faxingw.cn/js/*0
 ||faxingw.cn/js/*ad
@@ -23699,6 +23701,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||koublid.top^
 ||koudaiyundong.com^$third-party
 ||koufqy.xyz^
+||koupuchoust.net^
 ||kovvild.com^
 ||kowhinauwoulsas.net^
 ||koyi.pub/wp-content/plugins/dh-anti-adblocker/
@@ -25925,6 +25928,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||mymembermatchmagic.life^
 ||mymqcy.xyz^
 ||myolnyr5bsk18.com^
+||myosoteruins.com^
 ||myperfect2give.com^
 ||mypianku.net/ajax/MyJs/
 ||mypopadpro.com^
@@ -26580,6 +26584,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||nychinaren.com/houbei/
 ||nycp-hlb.dvgtm.akadns.net^
 ||nyfstb.xyz^
+||nyjelh.icu^
 ||nylghaudentin.com^
 ||nylonnickel.xyz^
 ||nymphdate.com^
@@ -32181,6 +32186,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||suburbgetconsole.com^
 ||successfulscent.com^$third-party
 ||sucloud.xyz/js/tou.js
+||sucreexpos.com^
 ||suddensidewalk.com^$third-party
 ||suddensoda.com^$third-party
 ||suddenvampire.com^
@@ -32534,6 +32540,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||tapnative.com^$third-party
 ||tapone.jp^
 ||taporn.com/d/
+||taposalett.top^
 ||tappx.com^
 ||taproximo.com^
 ||taprtopcldfa.co^
@@ -36193,6 +36200,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||xuexiwa.com^$script,third-party
 ||xufyxhiu.icu^
 ||xuhabkmwro.com^
+||xukanvyl.com^
 ||xuldtcip.icu^
 ||xulizui6.com^
 ||xunsfr.xyz^
@@ -36665,6 +36673,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||youyiya.com/Tpl/mobile/js/you
 ||youzhan.org/img/aliyun-
 ||yovoads.com^
+||yowdenfalcial.com^
 ||yowlnibble.shop^
 ||yp868.com/js/54h/
 ||ypa.focusoftime.com^$third-party
