@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: AG0/vPg2GvrPy/CLfaHOGw
+! Checksum: viwuNDOfsTq4u6Fv6fl97A
 ! Title: 自用去广告Adblock规则
-! Version: 20250109144751
-! Last modified: 2025-01-09 14:47:51
-! Total Count: 7628
+! Version: 20250109215157
+! Last modified: 2025-01-09 21:51:57
+! Total Count: 7634
 ###ADbox
 ###Ad-Container
 ###Ad-Content
@@ -515,6 +515,8 @@
 ###top-ads
 ###top-linktext-ad
 ###top-scroll-sixgrid-ad
+###top-sixgrid-ad-1
+###top-sixgrid-ad-2
 ###topBanners
 ###top_ad
 ###topstuff > #tads
@@ -3094,6 +3096,8 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 .com:*/vj3/$third-party
 .com:*/vj4/$third-party
 .com:*/vj5/$third-party
+.com:*0*/wap_*_*_*$other,third-party
+.com:*0*/wap_*_*_*$~image,~stylesheet,third-party
 .com:18*/*.js?v=17$third-party
 .com:26579/*/*.json
 .com:28816/*js?v=17$third-party
@@ -3247,6 +3251,7 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 .vip/facaishang.js$script
 .vip/facaishen*.js$script,~third-party
 .vip/happyxia.js$script
+.vip:*/ab/rtcv.js$~third-party
 .xin/blxn_*.js?
 .xyz/*.gif?*16$third-party
 .xyz/*.gif?*17$third-party
@@ -5578,6 +5583,7 @@ mimibiquge.com##[style="margin:0;padding:0;outline:0"]
 mimibiquge.com,mpo18.com##script + style + div[id]
 miobt.com##.gg_canvas
 miobt.com##.gg_canvas-hidden
+missav.com,missav123.com,missav789.com,missav888.com,myav.com,thisav.com##+js(nowoif)
 missav.com,missav888.com,missav123.com,missav789.com,thisav.com##.list-disc > li:has(> a[href^="https://bit.ly/"])
 missav.com,missav888.com,missav123.com,missav789.com,thisav.com##.text-nord14
 missav.com,missav888.com,missav123.com,missav789.com,thisav.com##.under_player
