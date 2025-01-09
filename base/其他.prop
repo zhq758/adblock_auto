@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: viwuNDOfsTq4u6Fv6fl97A
+! Checksum: NAKOgpwdJLFrt7/OPeZLNg
 ! Title: 自用去广告Adblock规则
-! Version: 20250109215157
-! Last modified: 2025-01-09 21:51:57
-! Total Count: 7634
+! Version: 20250109232741
+! Last modified: 2025-01-09 23:27:41
+! Total Count: 7643
 ###ADbox
 ###Ad-Container
 ###Ad-Content
@@ -2419,6 +2419,7 @@
 ##div[id="alert_windows"][class*="q-dialog fullscreen"]
 ##div[id="showImages"][style="width: 100%; position: fixed; bottom: 0px; left: 0px; z-index: 2147483647; display: block;"]
 ##div[id="videoMask"]
+##div[id][style] > span:not([class]):not([id]) > img[style^="width:100%;height:13"]
 ##div[id^="M"][id*="Composite"]
 ##div[id^="adrotate_widgets-"]
 ##div[id^="ads250_250-widget-"]
@@ -3086,6 +3087,7 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 .com:*/sc/*?n=$third-party
 .com:*/sc/*?x=$third-party
 .com:*/stats/*/*?*=*&host=$third-party
+.com:*/tjjs/?*=$third-party
 .com:*/vh1/$third-party
 .com:*/vh2/$third-party
 .com:*/vh3/$third-party
@@ -4018,6 +4020,7 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 /js/rourouwu.js$script
 /js/sp_ad.js$script
 /js/tongji.js?v=
+/js/wap2-jm-ms-ld.js?ver=
 /js/wap2-jm-ms.js?ver=$~third-party,script
 /json/ads/*
 /juicyads_
@@ -4484,6 +4487,7 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 ://*.*.*:*/vj*/$domain=omofun.buzz|omofun.link|omofun.live|omofun.top|omofuns.buzz|omofuns.link|omofuns.live|omofuns.top
 ://*.*.xyz/*/*-*-*-*/$third-party
 ://*.*.xyz:*/*/*-*-*-*/$third-party
+://*.*/*mk?ssid=$third-party
 ://*.*/js/js4.js?v=$~third-party
 ://*.*27txt.com/*/*.js$~third-party
 ://*.*27txt.com/xi.js$~third-party
@@ -4519,6 +4523,7 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 ://*biquge*/mm.js$script
 ://*dianjiangxin.*/js/mc.js?
 ://*dilidili*.*/js/*.js?ver=
+://*dm*/js/*.js?ver=
 ://*dm*/static/js/toper.js$~third-party
 ://*ee-tv.*/js/footer.js
 ://*freeok.*/asdasdad.js$script
@@ -5092,6 +5097,7 @@ diantaiwang.com##a[href^="https://s.click.taobao.com/"][target="_blank"]
 diantaiwang.com##img[src^="/js/imgs"]
 dippens.net,mei222.com,myfriendjeff.net,tjk3.com##.app,#htmlContenthtml,.dbfh,.zdhf
 dippens.net,mei222.com,myfriendjeff.net,tjk3.com##script + [class$="hf"]
+dm4.cc##.adv
 dm513.cc,cooing.cc##[style*="129px"]
 dm590.com,hentaipaw.com##.external
 dm88.me,dmh8.me,dm99.me##.padding-0 > ul[style]
@@ -5166,6 +5172,8 @@ freepornvideos.xxx,galleryepic.com#@#img[width="0"][height="0"]
 fril.jp,mercari.com,yahoo.co.jp##.furima-assist-ad-wrapper
 fsfs8.com,ssy87.com##img[onclick$=".remove()"]
 fsfs8.com,ssy87.com,ssy87.com##div.m[style]
+fvvfu.com##.gotoTop
+fvvfu.com##div.createjs
 gamcore.com##[class*="adn-"]
 game2.baifumeiba.com###gotoPlay
 games.yahoo.co.jp###floating_banner
@@ -6480,6 +6488,7 @@ yydscomic.com##[onclick*="/user/buy"]
 yydscomic.com##div[style^="width: 100%;background-color: black;color: white;padding:"]
 yydstv.net##body > div[class][style]
 yydy.cc##a[onclick^="window"] > img[id][width="1"],a[style*="width:99%"][style*="z-index:100000"][style*="block"]
+yyjnhg.com##.container.text-center
 yz.m.sm.cn##[id^="dl-banner-"]
 zgpingshu.com##a[href^="http://cy.aiboxs.cn/"][target="__blank"]
 zhaosw.com##div.recommend
