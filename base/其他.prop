@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: C65qUdepYrN5wVAyqL9RtA
+! Checksum: waCzXrYBLthKwpcCIl7Erg
 ! Title: 自用去广告Adblock规则
-! Version: 20250110201055
-! Last modified: 2025-01-10 20:10:56
-! Total Count: 7660
+! Version: 20250111020230
+! Last modified: 2025-01-11 02:02:31
+! Total Count: 7665
 ###ADbox
 ###Ad-Container
 ###Ad-Content
@@ -2946,6 +2946,7 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 .cn/zh/*/*.gif$third-party,image
 .cn:*/c.php?s=
 .cn:*/d/*?t=
+.cn:*/effect.php?type=$third-party
 .cn:*/mnrt/*.json
 .cn:*/sc/*?c=$third-party
 .cn:*/sc/*?n=$third-party
@@ -3919,6 +3920,7 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 /gexternalad.
 /gg.php
 /gg/*960X120.gif$third-party,image
+/ggads/*.php$third-party
 /gonggao/gg.js
 /gpt.min.js
 /gpt_ads-
@@ -4194,6 +4196,8 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 /static/js/top.js$domain=ciligui.org|ciligui.cc|ciligui.com|ciligui.live|ciligui.buzz|ciligui.cn|ciligui.xyz
 /static/resources/*/*.gif$domain=18-comic.work|18-comicblade.art|18-comicblade.club|18-comicblade.org|18-comicblade.xyz|18-comicfreedom.org|18-comicfreedom.xyz|18-comicstellar.art|18-comicstellar.xyz|18comic-erdtree.xyz|18comic.org|18comic.vip|jm-comic1.cc|jm-comic2.cc|jmcomic.me|jmcomic1.city|jmcomic1.group|jmcomic1.me|jmcomic1.win|jmcomic2.me
 /static/resources/lp.php$domain=18-comic.work|18-comicblade.art|18-comicblade.club|18-comicblade.org|18-comicblade.xyz|18-comicfreedom.org|18-comicfreedom.xyz|18-comicstellar.art|18-comicstellar.xyz|18comic-erdtree.xyz|18comic.org|18comic.vip|jm-comic1.cc|jm-comic2.cc|jmcomic.me|jmcomic1.city|jmcomic1.group|jmcomic1.me|jmcomic1.win|jmcomic2.me
+/statics/js/dddd.js$~third-party
+/statics/js/ding.js$~third-party,script
 /t_j/tongji.js
 /tempads/*
 /template/*/adm/*
@@ -5747,6 +5751,7 @@ pornbest.com,pornbest.net,pornbest.org,porncam.cc,porncam.com,porncam.sex,pornfi
 pornbest.com,pornbest.net,pornbest.org,porncam.cc,porncam.com,porncam.sex,pornfind.com,pornfind.net,pornfind.org,pornfind.sex,pornhk.org,pornlulu.com,pornlulu.net,ptt.com,ptt.net,ptt.sex##div[style]:has(> script[src$="/ad-provider.js"])
 pornbest.com,pornbest.net,pornbest.org,pornfind.com,pornfind.net,pornfind.org,pornfind.sex,pornhk.org,pornlulu.com,pornlulu.net,ptt.com,ptt.net,ptt.sex##img[src*="/images/friend"]
 pornboss.org###menu-menue-1 > li:has(> a[href^="http://toplist.raidrush.ws/"])
+pornclipsguru.com##.under_video
 porndoe.com##[class^="-banner"],[href*="//ads"],[href^="/redirect"]
 porndoe.com##div.-ad-top-wrap
 porndrake.com##.sicce-300x250
