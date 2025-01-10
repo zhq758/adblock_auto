@@ -128,6 +128,10 @@ bilibili\.com##\.is-rcmd[[:space:]]>[[:space:]]div:only-child$
 ^##div\[class\][[:space:]]>[[:space:]]span[[:space:]]\+[[:space:]]img\[src\*\=\"\.xyz\"\]$
 ^\.xyz\/ty\/\*-\*-\*\.\$third-party,~image,~script$
 ^\/image\/20\*-\*-\*\/\*\/\$other,~image$
+! apkmirror误杀
+^\|\|html-load\.com\^
+! 搜狐误杀
+^\/api\/blockdata\$domain\=sohu\.com$
 
 
 
