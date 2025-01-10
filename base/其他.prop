@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ++VCh4bVGVaq7O2nIdRt8A
+! Checksum: THkBq0h8WpToCb9qNf11xw
 ! Title: 自用去广告Adblock规则
-! Version: 20250110113358
-! Last modified: 2025-01-10 11:33:58
-! Total Count: 7646
+! Version: 20250110144818
+! Last modified: 2025-01-10 14:48:18
+! Total Count: 7653
 ###ADbox
 ###Ad-Container
 ###Ad-Content
@@ -2090,6 +2090,7 @@
 ##a[href="/goto.php?url=hth"]
 ##a[href="/ht.html"]
 ##a[href="/lht.html"]
+##a[href="/runtime/baidu.html"]
 ##a[href="/static/xzgg/index.html"]
 ##a[href="http://52199.vip"]
 ##a[href="http://555x.com"]
@@ -4610,6 +4611,7 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 ://nr.*.*/*.js?17$third-party,script
 ://onvideo.ssrcdn.com/bs2/onVideo/skyfall/media/*.mp3$third-party
 ://p.qlogo.cn/qqmail_head/*
+://pic*.com/upload/*.js$third-party
 ://pic.*.*/*0*.txt$third-party
 ://pic.*.cn/*/*.js$third-party,script
 ://pic.*.com/*.txt$third-party
@@ -5637,6 +5639,7 @@ my.yahoo.com##li[id^="ad-"]
 mydrivers.com#@#a[href*="/bp.ashx"]
 myyyw.cc##[href="/play/player.php"]
 myyyw.cc##div[style="margin:0 auto;"]
+mzcin.com##[class*="download"]
 n6h7m.com##a[href="/pwa/lottery"],img[src*="://ad.xmmnsl.com"],a[referrerpolicy="unsafe-url"][target="_blank"],.float-ad
 netflav.com##.ads_head_banner_container
 netflav.com##.ads_video_overlay_mobile
@@ -7257,6 +7260,9 @@ zol.com.cn##[data-bottom-fixed] > img[style]
 ||mylengmen.com/assets/public/$script
 ||myyyw.cc/play/jpg.php
 ||myyyw.cc/play/tu.php
+||mzcin.com/m.js
+||mzcin.com/t.js
+||mzcin.com/w.js
 ||nereserv.com^
 ||net.huaduys.net/guding*.js
 ||netapd.gdxinya.com^
@@ -7569,6 +7575,7 @@ zol.com.cn##[data-bottom-fixed] > img[style]
 ||xiakeaa.com/css/js/tools.js
 ||xiangzishop.com^$third-party
 ||xiaoshuotxt668.org^$image
+||xigua1100.com/foots.js
 ||xinfubao.site^
 ||xinyumingad.com^$third-party
 ||xlyzjs.com$third-party
