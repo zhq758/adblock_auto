@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: NAKOgpwdJLFrt7/OPeZLNg
+! Checksum: ++VCh4bVGVaq7O2nIdRt8A
 ! Title: 自用去广告Adblock规则
-! Version: 20250109232741
-! Last modified: 2025-01-09 23:27:41
-! Total Count: 7643
+! Version: 20250110113358
+! Last modified: 2025-01-10 11:33:58
+! Total Count: 7646
 ###ADbox
 ###Ad-Container
 ###Ad-Content
@@ -1941,6 +1941,7 @@
 ##[style^="display: inline-block;"][style*="margin:"] > a[target="_blank"][href][title]
 ##[style^="display:block;left:0;right:0;position:fixed;border-left:1px"]
 ##a > img.lazy[class*="imgad"]
+##a > img[src^="/apijs/image/"]
 ##a#ad-link
 ##a.copy[onclick] > picture
 ##a.downurl[target="_blank"][referrerpolicy="no-referrer"]
@@ -3757,6 +3758,7 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 /api/models/vast?
 /api/spots/*$domain=yomovies.*|speedostream.com|watchomovies.com|gofilms4u.pro|pornleech.io|hentaihand.com|filmlinks4u.pro|uniqueten.net|ultraten.net|topcryptoz.net|allcryptoz.net|analdin.com|supjav.com|crazyporn.xxx|hog.tv|porntry.com|love4porn.com|freeadultcomix.com|hog.mobi|sextb.net|pornpapa.com
 /api/spots/*?*=$third-party
+/apijs/lunbo/$script
 /apijs/lunbo/lunbodi.js?v=
 /apijs/lunbo/lunboding.js?v=
 /apijs/lunbovipdaka/*.js$~third-party
@@ -6882,6 +6884,7 @@ zol.com.cn##[data-bottom-fixed] > img[style]
 ||difficult-help.com^$third-party
 ||dilidili*.com/js/wap2-jm-ms.js$script
 ||dizhi.men/js/*ad*.js$third-party,script
+||dizhi.men/js/sp.js
 ||dl.btii.cn^
 ||documentaryselfless.com^
 ||doubleverify.com^$third-party
