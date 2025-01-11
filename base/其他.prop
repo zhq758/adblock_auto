@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: waCzXrYBLthKwpcCIl7Erg
+! Checksum: ye/RgQ0j5ihFuTZjjmIo8w
 ! Title: 自用去广告Adblock规则
-! Version: 20250111020230
-! Last modified: 2025-01-11 02:02:31
-! Total Count: 7665
+! Version: 20250111130821
+! Last modified: 2025-01-11 13:08:21
+! Total Count: 7670
 ###ADbox
 ###Ad-Container
 ###Ad-Content
@@ -2741,6 +2741,7 @@
 ##img[src*="zhanlangimg.dingjiancdn.com"][src$=".gif"]
 ##img[src*="新葡京送"]
 ##img[src="/apijs/image/960x100.gif"]
+##img[src="/play/tu.php"]
 ##img[src][style*="width:100%;height:auto;"][id^="hengfu"]
 ##img[src^="//"][src*="/safu/safu.php?"]
 ##img[src^="/6666/"][alt]
@@ -3305,6 +3306,7 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 .xyz/iis.*.1*.json?$third-party
 .xyz/iutfkdfnshsdfk.js$third-party
 .xyz/jque*.js?
+.xyz/js.php?z=*=$third-party
 .xyz/js/adlm$third-party,script
 .xyz/js/gg.js$script
 .xyz/kallss?$third-party
@@ -4628,6 +4630,7 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 ://s*.nccontrol.com.cn$third-party
 ://s.*srv.com/*.php?idzone=$third-party
 ://shiold*.zhaosw.com$script
+://static.*xx.com/static/js/a*.js?v=$third-party
 ://tj.*.icu/*.js?17$script,third-party
 ://tpic.*.cn/*.js$third-party
 ://tpic.*.cn/*.txt$third-party
@@ -6967,6 +6970,7 @@ zol.com.cn##[data-bottom-fixed] > img[style]
 ||fw.privateadx.com^
 ||g.aidinghz.com^
 ||g.biqu.se^
+||g.gtimg.cn^
 ||g.shommaipl.com^$third-party
 ||ga-ads.com^
 ||gadscc.xyz^
@@ -7667,5 +7671,6 @@ zol.com.cn##[data-bottom-fixed] > img[style]
 ||zone1.bestbdsm24.com^
 ||zone1.bestporn24.com^
 ||zvela.filegram.to^
+||zyc003.com/static/nodes.js
 ||zz.bdstatic.com^
 ~esetnod32.ru##.b-banner
