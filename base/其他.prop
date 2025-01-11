@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 0zRnGrMqyrUK6Nte/gOyYw
+! Checksum: nrPznlx0fJcfgvaevkkE6g
 ! Title: 自用去广告Adblock规则
-! Version: 20250111193548
-! Last modified: 2025-01-11 19:35:48
-! Total Count: 7674
+! Version: 20250111194250
+! Last modified: 2025-01-11 19:42:51
+! Total Count: 7677
 ###ADbox
 ###Ad-Container
 ###Ad-Content
@@ -4199,6 +4199,8 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 /static/js/fad.js$domain=ciligui.org|ciligui.cc|ciligui.com|ciligui.live|ciligui.buzz|ciligui.cn|ciligui.xyz
 /static/js/fad.js$script
 /static/js/top.js$domain=ciligui.org|ciligui.cc|ciligui.com|ciligui.live|ciligui.buzz|ciligui.cn|ciligui.xyz
+/static/node.js$~third-party
+/static/nodes.js$~third-party
 /static/resources/*/*.gif$domain=18-comic.work|18-comicblade.art|18-comicblade.club|18-comicblade.org|18-comicblade.xyz|18-comicfreedom.org|18-comicfreedom.xyz|18-comicstellar.art|18-comicstellar.xyz|18comic-erdtree.xyz|18comic.org|18comic.vip|jm-comic1.cc|jm-comic2.cc|jmcomic.me|jmcomic1.city|jmcomic1.group|jmcomic1.me|jmcomic1.win|jmcomic2.me
 /static/resources/lp.php$domain=18-comic.work|18-comicblade.art|18-comicblade.club|18-comicblade.org|18-comicblade.xyz|18-comicfreedom.org|18-comicfreedom.xyz|18-comicstellar.art|18-comicstellar.xyz|18comic-erdtree.xyz|18comic.org|18comic.vip|jm-comic1.cc|jm-comic2.cc|jmcomic.me|jmcomic1.city|jmcomic1.group|jmcomic1.me|jmcomic1.win|jmcomic2.me
 /statics/js/dddd.js$~third-party
@@ -7675,6 +7677,7 @@ zol.com.cn##[data-bottom-fixed] > img[style]
 ||zone1.bestbdsm24.com^
 ||zone1.bestporn24.com^
 ||zvela.filegram.to^
+||zyc003.com/static/node.js
 ||zyc003.com/static/nodes.js
 ||zz.bdstatic.com^
 ~esetnod32.ru##.b-banner
