@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 0EtjbF1NNb8Cdeiy+sdiKg
+! Checksum: 6qHPgSKjBzjDoNyNLLPHKg
 ! Title: 自用去广告Adblock规则
-! Version: 20250113081411
-! Last modified: 2025-01-13 08:14:11
-! Total Count: 7680
+! Version: 20250113175908
+! Last modified: 2025-01-13 17:59:08
+! Total Count: 7683
 ###ADbox
 ###Ad-Container
 ###Ad-Content
@@ -2783,6 +2783,7 @@
 ##ins.adsbygoogle[data-ad-slot]
 ##ins[id][style][status="done"]
 ##li > a[data-uuid]
+##li > a[href^="/"][href$=".php"][target="_blank"][rel="nofollow"]
 ##li.adcls
 ##li[class="dataic"] > a[href*="/?channelCode="][target]
 ##li[class="dataic"] > div > a[href][name="点击播放"]
@@ -4478,7 +4479,7 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 69vj.com##[href^="https://b2pk.com/b/a/d/ck.php"]
 69xx.one,69xx487.xyz,88av.one,8mav.cc,av411.xyz,cable2055.cc,theav.xyz,thep178.com,theporn.cc,weav.xyz,x69av.cc,x88av.cc,x99av.cc##[class]:has(>a>.q-responsive)
 7itv.com##*[style*="display"][style*="block"],*[style*="position"][style*="fixed"],*[style*="bottom:"],[class$="_b"]
-7mmtv.sx,91porn.best,adultdeepfakes.com,kemono.su,missav.com,missav123.com,missav789.com,missav888.com,pornbest.com,pornbest.net,pornbest.org,porncam.cc,porncam.com,porncam.sex,pornfind.com,pornfind.net,pornfind.org,pornfind.sex,pornhk.org,pornlulu.com,pornlulu.net,ptt.com,ptt.net,ptt.sex,thisav.com,yourlust.com##[class^="root--"]
+7mmtv.sx,91porn.best,adultdeepfakes.com,kemono.su,missav.com,missav123.com,missav789.com,missav888.com,pornbest.com,pornbest.net,pornbest.org,porncam.cc,porncam.com,porncam.sex,pornfind.com,pornfind.net,pornfind.org,pornfind.sex,pornhk.org,pornlulu.com,pornlulu.net,ptt.com,ptt.net,ptt.sex,simplyhentai.org,thisav.com,yourlust.com##[class^="root--"]
 85tube.com,camhub.cc,camhub.world,fuckit.cc,thothd.com,watchporn.to#@#.ads-iframe
 91porn.best##div[style*="center"]:has(script[src$="/ad-provider.js"])
 91porn.best,pornbest.com,pornbest.net,pornbest.org,pornfind.com,pornfind.net,pornfind.org,pornfind.sex,pornhk.org,pornlulu.com,pornlulu.net,ptt.com,ptt.net,ptt.sex##div.row.links
@@ -6488,7 +6489,9 @@ yitongqinba.com##.visible-xs
 youku.com##.clipboard
 youngpornvideos.com##.sidebar div[class]:has(> a[href^="https://a.bestcontentoperation.top/"])
 youporn.com##.playWrapper > #videoWrapper + div[class*=" "]:has(> div[id]:only-child > .adsbytrafficjunky)
+youporn.com##.removeAdLink
 youporn.com##aside:has(a.ad-remove)
+youporn.com##div:has(> .adsbytrafficjunky)
 youporn.com,you-porn.com,youporn.*##.right-aside
 youporn.com,youporn.*##.ad-remove + .responsiveIframe
 youporn.com,youporn.*##.playWrapper > #videoWrapper + div[class*=" "]:has(> div[id]:only-child > .adsbytrafficjunky)
