@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Bsk+t9V7cU+UV8nJq7uaAg
+! Checksum: 0EtjbF1NNb8Cdeiy+sdiKg
 ! Title: 自用去广告Adblock规则
-! Version: 20250112010911
-! Last modified: 2025-01-12 01:09:11
-! Total Count: 7678
+! Version: 20250113081411
+! Last modified: 2025-01-13 08:14:11
+! Total Count: 7680
 ###ADbox
 ###Ad-Container
 ###Ad-Content
@@ -5132,6 +5132,7 @@ dmzj.com,idmzj.com##.bottomDown
 dmzj.com,idmzj.com##[class$="close"][href="javascript:;"]
 dnaav.com##div[id^="dnaav_b"]
 douban.com##iframe[src*="//at4.doubanio.com"]
+douyin.com#@#div[style^="display:flex;flex-direction:column"] > [style*="display:flex;"]
 duckduckgo.com##.footer:has(a[href^="https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android"])
 duckduckgo.com##.module--carousel-products
 duckduckgo.com##.module--carousel-toursactivities
@@ -7237,6 +7238,7 @@ zol.com.cn##[data-bottom-fixed] > img[style]
 ||m.ad-expo.com/*/*.js?v=
 ||m.biqooge.com/js/wap.js
 ||ma3ion.com^$third-party
+||maccms.la^$third-party
 ||magsrv.com^$third-party
 ||mail-ads.google.com^
 ||mail.kguapp.com^
