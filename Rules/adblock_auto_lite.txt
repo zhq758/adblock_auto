@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Checksum: cLpUQ7N4xvelj+GgTQwyfw
-! Title: 混合规则精简版(更新日期2025-01-14 00:14:01)
-! Version: 20250114001401
+! Checksum: rY41BQSb2z+Bkjxw3/jyRw
+! Title: 混合规则精简版(更新日期2025-01-14 08:43:36)
+! Version: 20250114084336
 ! Expires: 12 hours (update frequency)
-! Last modified: 2025-01-14 00:14:01
-! Total Count: 51684
-! Blocked Filters: 51684
+! Last modified: 2025-01-14 08:43:36
+! Total Count: 51700
+! Blocked Filters: 51700
 ! Description: 合并于各种知名的Adblock规则，适用于移动端轻量的浏览器，例如 VIA / Rian / B仔浏览器
 ! Homepage: https://lingeringsound.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
@@ -3279,7 +3279,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 |javascript:*window.location
 !<<<<<通配符规则 结束>>>>>
 
-!<<<<<域名规则>>>>>34720
+!<<<<<域名规则>>>>>34736
 |http*://*?$third-party,domain=forums.socialmediagirls.com|pornhub.com|redtube.com|tube8.com|youporn.com|youporngay.com
 |http://$image,third-party,domain=pornhub.com|redtube.com|redtube.net|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com|you-porn.com|youpornru.com|youporn.fyi
 |https://m.frgls.com/js/*.js?v=
@@ -9741,6 +9741,10 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||a.91nets.cn^
 ||a.91zhongkao.com^
 ||a.aahen.site^
+||a.abbyads.com/iframe.php?spot=$domain=qwiketube.com
+||a.abbyads.com/im.php?spot=$domain=qwiketube.com
+||a.abbyads.com/push.php?spot=$domain=qwiketube.com
+||a.abbyads.com/slider.php?spot=$domain=qwiketube.com
 ||a.adtng.com^
 ||a.applvn.com^
 ||a.armystar.com^
@@ -13654,6 +13658,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||bea-s.dinghuoche.com^
 ||beacher56.xyz^
 ||beakexcursion.com^
+||beakpee.com^
 ||bealafulup.com^
 ||bealanews.com^
 ||beamobserver.com^
@@ -15817,6 +15822,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||cliffaffectionateowners.com^
 ||cliffnsc.xyz^
 ||climatedetaindes.com^
+||cliphotnews.*/uploads/images/*.gif
 ||cliplamppostillegally.com^
 ||clipperroutesevere.com^
 ||clips4sale.com^$domain=mrdeepfakes.com
@@ -16054,6 +16060,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||codesocang.com/js/a.js
 ||codesocang.com/plus/*baoyue
 ||cododeerda.net^
+||codsdnursjrclse.com^
 ||coefficienttolerategravel.com^
 ||coercejavgg124.fun^
 ||coffee2play.com^
@@ -17011,6 +17018,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||d3e192e8ea.85a90880b9.com^
 ||d3edbb478c.com^
 ||d3ej838ds58re9.cloudfront.net^
+||d3eksfxlf7bv9h.cloudfront.net^
 ||d3eub2e21dc6h0.cloudfront.net^
 ||d3f1wcxz2rdrik.cloudfront.net^
 ||d3f4nuq5dskrej.cloudfront.net^
@@ -20922,6 +20930,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||gp123.cc/20*ad/
 ||gpiagk.xyz^
 ||gpmzkg.xyz^
+||gpodxdmnivc.com^
 ||gpowow.xyz^
 ||gpqkeq.xyz^
 ||gpsecureads.com^
@@ -21166,6 +21175,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||guiltlessbasketball.com^$third-party
 ||guitarchina.com/1/*.gif
 ||guitarjavgg124.fun^
+||gukmodukuleqasfo.com^
 ||gulf.moneroocean.stream^
 ||guli21.com/PNEW/
 ||guli21.com/js/ggdm
@@ -23842,6 +23852,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||jsyliea.top^
 ||jsztl.com/img/particular/tbyhq.jpg
 ||jtbo*.nqxvevk.cn^
+||jtegqwmjfxu.site^
 ||jtezxmpb.xyz^
 ||jthotb.icu^
 ||jtimiya.top^
@@ -25155,6 +25166,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||lpmugcevks.com^
 ||lppgjf.xyz^
 ||lptrak.com^
+||lqgenuq-j.life^
 ||lqglqq.com^$third-party
 ||lqlwjr.icu^
 ||lr-in.com^
@@ -26717,6 +26729,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||naughtyblog.org/wp-content/images/k2s/
 ||naughtymachinima.com/images/banners/
 ||naupsakiwhy.com^
+||naupsithizeekee.com^
 ||nautijutheest.net^
 ||nautil.us/wp-content/themes/*/block-js/subscribe-cta-script.js
 ||nauzaphoay.net^
@@ -29336,6 +29349,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||ptelsudsew.net^
 ||ptersudisurvey.top^
 ||ptexognouh.xyz^
+||ptichoolsougn.net^
 ||ptirgaux.com^
 ||ptistyvymi.com^
 ||ptlwm.com^
@@ -33313,6 +33327,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||tcmap.com.cn/js/b_
 ||tcp.topcomicporno.net^
 ||tcppu.com^
+||tcreativeideasa.com^
 ||tcvjhwizmy.com^
 ||tcz.pl/*/reklama*.php
 ||td.easysavemore.com^
@@ -37429,6 +37444,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||yourporngod.com/cdn-cgi/apps/head/*.js
 ||yourprize.tegronews.com^
 ||yourtopwords.com^
+||yourtthig.com^
 ||yourwebbars.com^
 ||yousuu.com/safe/index.html
 ||youth.cn/images/c.js
@@ -42594,7 +42610,7 @@ miohentai.com##.sidebar > .new-ntv
 mirchi9.com##a[target="_blank"].m9-mobile-only > img
 mirtesen.ru##.footer-ad-block
 mirtesen.ru,kino-teatr.ru###aio_passback
-missav.*,missav.ai,missav.com,missav.ws,missav123.com,missav789.com,missav888.com,myav.com,thisav.com##.under_player
+missav.*,missav.com,missav123.com,missav789.com,missav888.com,myav.com,thisav.com##.under_player
 missav.com,missav888.com,missav123.com,missav789.com,thisav.com##.list-disc > li:has(> a[href^="https://bit.ly/"])
 missav.com,missav888.com,missav123.com,missav789.com,thisav.com##.text-nord14
 missav.com,missav888.com,missav123.com,missav789.com,thisav.com##[href*="//bit.ly/"]
