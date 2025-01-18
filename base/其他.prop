@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 6qHPgSKjBzjDoNyNLLPHKg
+! Checksum: /aSydMLNAtgU8XhRwXEsdQ
 ! Title: 自用去广告Adblock规则
-! Version: 20250113175908
-! Last modified: 2025-01-13 17:59:08
-! Total Count: 7683
+! Version: 20250118151215
+! Last modified: 2025-01-18 15:12:15
+! Total Count: 7692
 ###ADbox
 ###Ad-Container
 ###Ad-Content
@@ -3151,6 +3151,8 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 .fun/$domain=123dua.com|qiqidu.net
 .fun/*.jss?17*&r=0$third-party
 .fun/*/17*/*.css?r=0$third-party
+.fun/TA*.js?17$third-party
+.fun/by*.js?17$third-party
 .gif$domain=kpl037.com|yydy.cc
 .gif$third-party,domain=037hdmovie.com|kpl037.com|lfwx2.com|likeav2.buzz|likeav2.cc|likeav2.com|likeav2.live|likeav2.xyz|po18co.app|po18co.cn|po18co.com|po18wen.app|po18wen.cn|po18wen.com|www-xnxx-com.mom|yydy.cc
 .html?channelCode=$third-party
@@ -4204,6 +4206,7 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 /static/nodes.js$~third-party
 /static/resources/*/*.gif$domain=18-comic.work|18-comicblade.art|18-comicblade.club|18-comicblade.org|18-comicblade.xyz|18-comicfreedom.org|18-comicfreedom.xyz|18-comicstellar.art|18-comicstellar.xyz|18comic-erdtree.xyz|18comic.org|18comic.vip|jm-comic1.cc|jm-comic2.cc|jmcomic.me|jmcomic1.city|jmcomic1.group|jmcomic1.me|jmcomic1.win|jmcomic2.me
 /static/resources/lp.php$domain=18-comic.work|18-comicblade.art|18-comicblade.club|18-comicblade.org|18-comicblade.xyz|18-comicfreedom.org|18-comicfreedom.xyz|18-comicstellar.art|18-comicstellar.xyz|18comic-erdtree.xyz|18comic.org|18comic.vip|jm-comic1.cc|jm-comic2.cc|jmcomic.me|jmcomic1.city|jmcomic1.group|jmcomic1.me|jmcomic1.win|jmcomic2.me
+/staticjs/hm.js
 /statics/js/dddd.js$~third-party
 /statics/js/ding.js$~third-party,script
 /t_j/tongji.js
@@ -4592,6 +4595,7 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 ://gp.logicmind.*/*.dx$third-party
 ://hf.*.com/*m-2697$third-party,other
 ://hongosi.xn--*.cc$third-party
+://hongosi.xn--*.com/*/mvp*.js$third-party
 ://hongosi.xn--*.com/mvp*.js$third-party
 ://im.ifengsong888.com/*.gif
 ://im.ifengsong888.com/*.jpg
@@ -6079,6 +6083,7 @@ sports.yahoo.com##div[id^="mrt-node-"][id$="-Ad"]
 sports.yahoo.com##div[id^="sda-"]
 sqruitu.com##embed[id][src*="://"][src*=".z"][src$="="]
 sspai.com###btn-call-app
+sthuojia.net##div[id]:not([class]):not([style])
 stopgame.ru#@#iframe[width="240"][height="400"]
 sunshinewaay.cn##img[class$="BnImg"]
 supjav.com##.movv-ad
@@ -6223,6 +6228,8 @@ wenda.so.com##a[href^="http://e.so.com/search/eclk?"]
 wendangwang.com##[onclick="CloseAD();"]
 wenwen.sogou.com##.recommend-list
 wenwen.sogou.com##.sgui-hint.sgui-item
+whentai.com##.bg-inject
+whentai.com##video[autoplay="autoplay"]
 wnjlkqe.info##a[href] > img[style="width: 100%;"]
 wr.de,wp.de,nrz.de#@#.ad
 wuzhuiso.com###appMiddleBanner
@@ -7115,6 +7122,7 @@ zol.com.cn##[data-bottom-fixed] > img[style]
 ||itshang.com/*/*/tools.js$script
 ||ixsw.org/*/*.js
 ||iyxdm.one/js/bottom_dk.js
+||izhongwen.cc/staticjs/hm.js
 ||jads.co^$third-party
 ||jalosoul.com^
 ||javhd.com/banners-mainpage/
@@ -7612,6 +7620,7 @@ zol.com.cn##[data-bottom-fixed] > img[style]
 ||xn--2quv4et7i4yno8fbua.xn--fiqs8s^
 ||xn--2qux23cs4e63q.com^
 ||xn--49s928hlshoya.cn^
+||xn--czru2dx3eszw3lat53b.com^
 ||xn--dpq21dn8asxam8v16q0j5c.com^
 ||xn--ehqtmg6j43yj5pkhhsirlhp.com^
 ||xn--gov-x68dy61b.club^
