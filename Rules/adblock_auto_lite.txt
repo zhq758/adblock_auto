@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Checksum: 5XARe2FiImTJyAS2yjuxNw
-! Title: 混合规则精简版(更新日期2025-01-18 00:13:24)
-! Version: 20250118001325
+! Checksum: JPaMZEEPa8Q70FZrKTelMA
+! Title: 混合规则精简版(更新日期2025-01-18 08:41:56)
+! Version: 20250118084156
 ! Expires: 12 hours (update frequency)
-! Last modified: 2025-01-18 00:13:25
-! Total Count: 51761
-! Blocked Filters: 51761
+! Last modified: 2025-01-18 08:41:56
+! Total Count: 51780
+! Blocked Filters: 51780
 ! Description: 合并于各种知名的Adblock规则，适用于移动端轻量的浏览器，例如 VIA / Rian / B仔浏览器
 ! Homepage: https://lingeringsound.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
@@ -3271,7 +3271,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 |javascript:*window.location
 !<<<<<通配符规则 结束>>>>>
 
-!<<<<<域名规则>>>>>34789
+!<<<<<域名规则>>>>>34808
 |http*://*?$third-party,domain=forums.socialmediagirls.com|pornhub.com|redtube.com|tube8.com|youporn.com|youporngay.com
 |http://$image,third-party,domain=pornhub.com|redtube.com|redtube.net|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com|you-porn.com|youpornru.com|youporn.fyi
 |https://m.frgls.com/js/*.js?v=
@@ -12497,6 +12497,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||apologizingrigorousmorally.com^
 ||aporasal.net^
 ||aporodiko.com^
+||apostilprinks.com^
 ||app-g.39.net/NNN/
 ||app-liv.jp/js/sp/detect_adblock.js
 ||app.adjust.net.in^
@@ -13149,6 +13150,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||backchina.com/banners/
 ||backgrounds.wetransfer.net$image
 ||backseatrunners.com^
+||backstage.bada.io/vueController/getAmazonCustomAds
 ||backsweka.com^
 ||bad996.com/dakaads.js
 ||badding.oss-ap-southeast-1.aliyuncs.com^
@@ -14004,6 +14006,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||bleachmx.fr/wp-content/plugins/yeptmixnsykgrb/bjns-fcknj.js
 ||bleachscarecrow.com^$third-party
 ||bleandworldw.org^
+||blearspellaea.shop^
 ||bleedlight.com^$third-party
 ||blehcourt.com^
 ||blendedbird.com^
@@ -16005,6 +16008,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||coinzilla.io^$third-party
 ||coinzillatag.com^$third-party
 ||coivl.net/trangchu/js/adblock.js
+||cokcok.stream/public/vast.php
 ||cokepompositycrest.com^
 ||cokerymyocele.shop^
 ||colamanga.com/sw.js
@@ -17197,6 +17201,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||daweijita.com/2014/08/ad_head
 ||dawirax.com^
 ||dawnfilthscribble.com^
+||daybookclags.com^
 ||dayfund.*/images/uds/
 ||daymodern.com^$third-party
 ||daynews.co/cdn-cgi/apps/
@@ -21193,6 +21198,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||gynax.com^
 ||gypperywyling.com^
 ||gypsitenevi.com^
+||gypsumsnocks.com^
 ||gyqifa.com^$third-party
 ||gytlingpaint.top^
 ||gyunce.xyz^
@@ -21869,6 +21875,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||honorableland.com^$third-party
 ||honourprecisionsuited.com^
 ||hoo1luha.com^
+||hoodingluster.com^
 ||hoodoosdonsky.com^
 ||hoodrunner.kiloo.com/newonlinesettings.php?platform=android
 ||hoofexcessively.com^
@@ -23051,6 +23058,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||itad.linetv.tw^
 ||itadapi.ithome.com.tw^
 ||itakrid.icu^
+||italitecasbah.com^
 ||itavcn.com/images/2012/ad_
 ||itavcn.com/images/2013/ad_
 ||itavcn.com/images/2014/ad_
@@ -23614,6 +23622,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||joptodsougegauw.com^
 ||joqowqyaarewj.top^
 ||jordan.qunis.ru^
+||josiepigroot.com^
 ||josieunethical.com^
 ||josjrhtot.com^
 ||jotterswirrah.com^
@@ -25744,6 +25753,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||media-412.com^
 ||media-imdb.com/images/*/imdbads/js/collections/admobileweb-*._*_.js
 ||media-serving.com^
+||media.cokcok.vip/assets/images/$image
 ||media.kasperskydaily.com/wp-content/uploads/sites/*/protect-your-smartphone-V1-category-*-1030x175.png
 ||media.kasperskydaily.com/wp-content/uploads/sites/*/protect-your-smartphone-V1-sidebar-*.png
 ||media.mediadirectory.net/js/code.min.js
@@ -27920,6 +27930,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||oxbbzxqfnv.com^
 ||oxkqeu.xyz^
 ||oxkyaq.xyz^
+||oxlipbegan.com^
 ||oxmvcg.xyz^
 ||oxnkahofpki.com^
 ||oxoucm.xyz^
@@ -30592,6 +30603,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||rising.cn/rxbox/
 ||rising.cn^*/pic-ad/
 ||rising.com.cn/weblog/
+||rissoidkyaung.com^
 ||ritzykey.com^$third-party
 ||ritzyrepresentative.com^$third-party
 ||ritzyveil.com^$third-party
@@ -31403,6 +31415,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||selfishsnake.com^$third-party
 ||selfpua.com^
 ||selfpuc.com^
+||sellisteatin.com^
 ||selornews.com^
 ||semhgk.xyz^
 ||semilikeman.com^
@@ -31647,6 +31660,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||shaggyselectmast.com^
 ||shaggytank.com^$third-party
 ||shainsie.com^
+||shaissugritit.net^
 ||shaitakroaks.net^
 ||shaiwourtijogno.net^
 ||shakegoldfish.com^$third-party
@@ -32041,6 +32055,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||slippersphoto.com^
 ||slipperydeliverance.com^
 ||slit.cn/slimages/
+||slitingfears.com^
 ||slk594.com^
 ||slkkbnsgn.com^
 ||slockertummies.com^
@@ -33729,6 +33744,8 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||timesofindia.indiatimes.com/affiliate_new.cms?$domain=gadgetsnow.com
 ||timot-cvk.info^
 ||tina.notifysrv.com^
+||tineye.com/api/v1/affiliate
+||tineye.com/api/v1/keyword_search/
 ||ting13.cc/public/tingshu/foor.js
 ||tingchina.com/images/aibaoliang.gif
 ||tingchina.com/js/*220-
@@ -35479,6 +35496,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||vokayatus.com^
 ||vokut.com^
 ||vokzqgjp.icu^
+||volapiepalped.com^
 ||volatileprofit.com^$third-party
 ||volform.online^
 ||volgreal.com^$third-party
@@ -35710,6 +35728,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||wasabii.com.tw/float/*.js
 ||washbanana.com^$third-party
 ||washington.notifysrv.com^
+||wasoolekretche.xyz^
 ||wasp-182b.com^
 ||waspilysagene.com^
 ||waspishoverhear.com^
