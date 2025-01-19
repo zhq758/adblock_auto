@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Checksum: VvjjJQ+vA/Ttg6Mg57iQGA
-! Title: 混合规则精简版(更新日期2025-01-19 08:46:47)
-! Version: 20250119084647
+! Checksum: nPvrAM3UOooq06Gcm9bzlg
+! Title: 混合规则精简版(更新日期2025-01-19 16:13:10)
+! Version: 20250119161310
 ! Expires: 12 hours (update frequency)
-! Last modified: 2025-01-19 08:46:47
-! Total Count: 50880
-! Blocked Filters: 50880
+! Last modified: 2025-01-19 16:13:10
+! Total Count: 50894
+! Blocked Filters: 50894
 ! Description: 合并于各种知名的Adblock规则，适用于移动端轻量的浏览器，例如 VIA / Rian / B仔浏览器
 ! Homepage: https://lingeringsound.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
@@ -1600,6 +1600,7 @@ $websocket,domain=4archive.org|allthetests.com|boards2go.com|colourlovers.com|fa
 /admanager.js$script
 /admanager.min.js$script
 /admitad.js$script
+/adpartner.min.js$script
 /adplayer.$script,domain=~adplayer.pro
 /adpopup.js$script
 /adpreview?
@@ -1930,7 +1931,6 @@ $websocket,domain=4archive.org|allthetests.com|boards2go.com|colourlovers.com|fa
 /channel/downApk*&appName=antv$~third-party
 /chatIndex?kefu_id=$~third-party
 /chunyu*.html?channelCode=$~third-party
-/click.php?key=*&zone_id=
 /click/zone?
 /click?adv=
 /clientapi/app/getinfo?appid=*&android=true$third-party
@@ -1964,7 +1964,6 @@ $websocket,domain=4archive.org|allthetests.com|boards2go.com|colourlovers.com|fa
 /deadblocker/*
 /deliverad/fc.js$script
 /delivery/apu.php$script,subdocument
-/delivery/lg.php$script,subdocument
 /detroitchicago/anaheim.js$script
 /detroitchicago/augusta.js$script
 /detroitchicago/boise.js$script
@@ -2675,6 +2674,7 @@ $websocket,domain=4archive.org|allthetests.com|boards2go.com|colourlovers.com|fa
 /site=*/viewid=*/size=
 /size=*/random=*/viewid=
 /sl/assetlisting/?
+/slider_ad.js$script
 /sm/getcode?apiKey=
 /smallfr*/*$subdocument,domain=babeimpact.com|decorativemodels.com|sexykittenporn.com
 /smartlinks.epl?
@@ -3277,7 +3277,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 |javascript:*window.location
 !<<<<<通配符规则 结束>>>>>
 
-!<<<<<域名规则>>>>>33917
+!<<<<<域名规则>>>>>33931
 |http*://*?$third-party,domain=forums.socialmediagirls.com|pornhub.com|redtube.com|tube8.com|youporn.com|youporngay.com
 |http://$image,third-party,domain=pornhub.com|redtube.com|redtube.net|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com|you-porn.com|youpornru.com|youporn.fyi
 |https://m.frgls.com/js/*.js?v=
@@ -7217,6 +7217,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||4b6994dfa47cee4.com^
 ||4bfx0u.com^
 ||4br.lycheenews.com^
+||4ce.fun^
 ||4cx5.icu^
 ||4d33a4adbc.com^
 ||4d3f87f705.com^
@@ -16620,6 +16621,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||d26yfyk0ym2k1u.cloudfront.net^
 ||d27gtglsu4f4y2.cloudfront.net^
 ||d27tbpngbwa8i.cloudfront.net^
+||d28quk6sxoh2w5.cloudfront.net^
 ||d28u86vqawvw52.cloudfront.net^
 ||d29bsjuqfmjd63.cloudfront.net^
 ||d29lduyskr59p4.cloudfront.net^
@@ -16780,6 +16782,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||d5r.icu^
 ||d6.mobaders.com^
 ||d67p.com/love/
+||d6cto2pyf2ks.cloudfront.net^
 ||d7dza8s7j2am6.cloudfront.net^
 ||d830x8j3o1b2k.cloudfront.net^
 ||d84bc26d.site^
@@ -17906,6 +17909,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||dumskaya.net/js/appbanner/
 ||dun8qk8.lkmxqq.com^
 ||dunnung.com/wp-content/uploads/*/*/*.gif
+||dunsathelia.click^
 ||duo*.top/Runtime/js/psData.js
 ||duomai.com^$third-party
 ||duouoo.com/vss/right-ssd.js
@@ -23183,6 +23187,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||joltidiotichighest.com^
 ||jomtingi.net^
 ||joocophoograumo.net^
+||joograika.xyz^
 ||joomisomushisuw.net^
 ||joomxer.fun^
 ||joozoowoak.net^
@@ -24347,6 +24352,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||lighthousemissingdisavow.com^
 ||lightimpregnable.com^
 ||lightningbarrelwretch.com^
+||lightningcast.net^
 ||lightningly.co^
 ||lightssyrupdecree.com^
 ||lighttalon.com^
@@ -24951,6 +24957,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||macd.cn/macd-topads.html
 ||macfans.org/vip/
 ||machineseeker.com/data/ofni/
+||machogodynamis.com^
 ||macmost.com/wp-content/themes/*/awpop-subscribe-*.js
 ||macoms.la^
 ||macos.space^
@@ -25020,6 +25027,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||maiysw.xyz^
 ||majesticmountainrange.com^$third-party
 ||majile.vip^
+||major-video.click^
 ||major.dvanadva.ru^
 ||majorcharacter.com^
 ||majoriklink.com^
@@ -26646,6 +26654,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||nubileforward.com^
 ||nudapp.com^
 ||nude-gals.com/images^
+||nudedworld.com^$third-party
 ||nudgeworry.com^
 ||nuevonoelmid.com^
 ||nuhgpx.xyz^
@@ -28511,6 +28520,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||preview.bloblohub.com^
 ||previousplayground.com^$third-party
 ||prevuesthurl.com^
+||prewarcar.com/*-banners/
 ||prf.hn^$third-party
 ||prfctmney.com^
 ||prfwhite.com^
@@ -30083,6 +30093,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||royallycuprene.com^
 ||rozamimo9za10.com^
 ||rpeutxu.icu^
+||rpfuvj.icu^
 ||rpninf.xyz^$third-party
 ||rprinc6etodn9kunjiv.com^
 ||rprwjt.xyz^
@@ -30721,6 +30732,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||selfishsnake.com^$third-party
 ||selfpua.com^
 ||selfpuc.com^
+||sellisteatin.com^
 ||selornews.com^
 ||semhgk.xyz^
 ||semilikeman.com^
@@ -33631,6 +33643,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||tuttotech.net/wp-content/plugins/ta2022-plugin-adblock/
 ||tutudao.net/js/gg*.js
 ||tutvp.com^
+||tuvrutsnf.com^
 ||tuwan.com/events/courseiframe?
 ||tuwan.com/myad/
 ||tuxpfiok.icu^
@@ -35935,6 +35948,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||xhsdwjes.xyz^
 ||xhubsxmg.xyz^
 ||xhulafpup.com^
+||xhvid.com/*/vast?
 ||xhymsq.com/data/attachment/portal/
 ||xhzjidgc.xyz^
 ||xhzysh.com/runtime/ad$~third-party
