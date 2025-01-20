@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: rsV9cT++dpdC9AU2bNgO/Q
+! Checksum: QjEtquMsU7HZy26Kg0md5Q
 ! Title: 自用去广告Adblock规则
-! Version: 20250119223723
-! Last modified: 2025-01-19 22:37:23
-! Total Count: 7704
+! Version: 20250120134704
+! Last modified: 2025-01-20 13:47:04
+! Total Count: 7712
 ###ADbox
 ###Ad-Container
 ###Ad-Content
@@ -2163,6 +2163,7 @@
 ##a[href^="http://www.lovetoytw.com/"][onclick]
 ##a[href^="https://adthree.top"]
 ##a[href^="https://adultfriendfinder.com"]
+##a[href^="https://aibozhu.com"]
 ##a[href^="https://apk1.led-rymx.com"]
 ##a[href^="https://apk2.led-rymx.com"]
 ##a[href^="https://app.kmtgsopq.com?agentId="][target="_blank"]
@@ -2755,6 +2756,7 @@
 ##img[src^="//"][src*="/safu/safu.php?"]
 ##img[src^="/6666/"][alt]
 ##img[src^="/images/friend/"][loading="lazy"]
+##img[src^="/scripts/ad/"]
 ##img[src^="/uploads/aidou/adlist/"]
 ##img[src^="https://888bb111ww.com/"]
 ##img[src^="https://888xx222kk.com/"]
@@ -4035,6 +4037,7 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 /js/home/ad/ad.
 /js/jads.js$script
 /js/jads.js?
+/js/kaixin.js$script
 /js/new-kk-27k.js?$~third-party,script
 /js/pfadll*.js
 /js/profit.js$~third-party
@@ -4189,6 +4192,7 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 /sad3.js?$third-party
 /sbar.json?key=
 /scripts/AdService_
+/scripts/ad/hyou.js
 /scripts/ads/*
 /sdk/push_web/?zid=
 /search/ads?
@@ -4572,6 +4576,7 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 ://*po18.*/astyle/wap.js$script
 ://*puzanny*/static/node.js
 ://*qiqidm*.*/js/*.js?ver=
+://*tianxibook*/*/0*1.js$script,~third-party
 ://*ting13.*/public/tingshu/foor.js$script
 ://*xhamster*.com/*/vast?
 ://*xhamster*.desi/*/vast?
@@ -6121,6 +6126,7 @@ theporn.cc##div[id*="theporn"][style*="margin"] > div > span
 theyarehuge.com##div[data-nosnippet]
 thicca.com##div.happy-inside-player
 thicca.com##div:not([class]):not([id]):has(.adsbyexoclick)
+tianxibook.com##[onclick^="window.open"]
 tianyancha.com##[class^="download-"]
 tianyancha.com##[id^="banner_mobile_"]
 tieba.baidu.com##.fengchao-banner-defensive
@@ -7623,6 +7629,7 @@ zol.com.cn##[data-bottom-fixed] > img[style]
 ||xiangzishop.com^$third-party
 ||xiaoshuotxt668.org^$image
 ||xigua1100.com/foots.js
+||xiguasuwu.com/static/m.js
 ||xinfubao.site^
 ||xinyumingad.com^$third-party
 ||xlyzjs.com$third-party
@@ -7699,6 +7706,7 @@ zol.com.cn##[data-bottom-fixed] > img[style]
 ||yy4480qpgyy.com^
 ||yyefao.com^
 ||yzwtbdtq.xyz^
+||zhenhaomai.com/static/m.js
 ||zkappsart.com^$third-party,xmlhttprequest
 ||zle.com/tongjijs/$script
 ||zone1.bestbdsm24.com^
