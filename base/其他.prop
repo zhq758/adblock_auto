@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: cw3qV7sDYsueXVmCMSiXhQ
+! Checksum: 4If2DPta+Rs1ZbfoigJq6w
 ! Title: 自用去广告Adblock规则
-! Version: 20250121171027
-! Last modified: 2025-01-21 17:10:27
-! Total Count: 7731
+! Version: 20250121201132
+! Last modified: 2025-01-21 20:11:32
+! Total Count: 7743
 ###ADbox
 ###Ad-Container
 ###Ad-Content
@@ -1028,6 +1028,7 @@
 ##.gg_pc
 ##.gg_sj
 ##.ggads
+##.ggmg
 ##.gmr-bannerpopup
 ##.goads
 ##.goafrica-ad
@@ -4166,6 +4167,9 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 /popupads.js$script
 /prod/go.html?$popup
 /prod/redirect.html?lu=$popup
+/production/*/openjs/*.js$script,third-party
+/production/*/production/*.js$script,third-party
+/production/*source/*.js$script,third-party
 /public/adf*.js?v=
 /redbaiduct.com?s=$third-party
 /redirect-ads.php
@@ -4209,7 +4213,11 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 /securepubads.
 /show?bver=$popup
 /sign?v=$domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.xyz
+/site/*_*/static/*/p*.js$script,third-party
 /smartpop/*$popup
+/source/*/openjs/*.js$script,third-party
+/source/*/production/*.js$script,third-party
+/source/*/source/*.js$script,third-party
 /splash.php?cat=&idzone=*
 /static/*ds/ttss.js$script,~third-party
 /static/js/fad.js$domain=ciligui.org|ciligui.cc|ciligui.com|ciligui.live|ciligui.buzz|ciligui.cn|ciligui.xyz
@@ -5072,6 +5080,7 @@ boyloves.fun,boylov.xyz,boylove.today,boylove.cc,boylove1.cc,boylove3.cc,boylove
 boyloves.fun,boylov.xyz,boylove.today,boylove.cc,boylove1.cc,boylove3.cc,boylove5.cc,boylove.mobi##img[src^="//boyloves"][src*="/static_pc/nb/"][src*=".php?"]
 boyloves.fun,boylov.xyz,boylove.today,boylove.cc,boylove1.cc,boylove3.cc,boylove5.cc,boylove.mobi##video
 bqg33.com##a[href][target="_blank"],font[color="red"]
+bqg369.com##a[href="https://aibozhu.com"]
 btnull.com,btnull.org,btnull.to,btnull.si,btnull.in,btnull.nu,btnull.fun##[href$=".apk"]
 btnull.com,btnull.org,btnull.to,btnull.si,btnull.in,btnull.nu,btnull.fun##[style*="position: fixed; bottom:"][style*="z-index: 99999;"]
 btsj6.com##em > strong
@@ -6971,6 +6980,7 @@ zol.com.cn##[data-bottom-fixed] > img[style]
 ||dwadwere.xyz^
 ||dxqck.com^
 ||dydytt.net/js3
+||dygangs.org/*/tj.js
 ||dytt8.*/js*/$script
 ||dytt8.com/js*/$script
 ||dytt8.com/jsdy/$script
@@ -7689,6 +7699,7 @@ zol.com.cn##[data-bottom-fixed] > img[style]
 ||yahoo.com/m/gemini_api/
 ||yahoo.com/pdarla/
 ||yahoo.com/sdarla/
+||yanbaike.com^
 ||yazhouse*.com/images/gg/$image
 ||ybayck.xyz^
 ||yber.fourlaile.com^$third-party
@@ -7708,6 +7719,7 @@ zol.com.cn##[data-bottom-fixed] > img[style]
 ||yinghuavideo.com/bar/
 ||yitongqinba.com/js/aa/$script
 ||yitongqinba.com/js/xin/$script
+||yiyiqu.com/*/youk/*.js$script
 ||ym.oaclrst.cn^$third-party
 ||yomeno.xyz^
 ||youporn.com^$script,subdocument,domain=youporn.com|youporngay.com
