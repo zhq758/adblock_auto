@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: QjEtquMsU7HZy26Kg0md5Q
+! Checksum: E2u5czf3uGFLv1f/NpIAKw
 ! Title: 自用去广告Adblock规则
-! Version: 20250120134704
-! Last modified: 2025-01-20 13:47:04
-! Total Count: 7712
+! Version: 20250120201334
+! Last modified: 2025-01-20 20:13:34
+! Total Count: 7714
 ###ADbox
 ###Ad-Container
 ###Ad-Content
@@ -5521,6 +5521,7 @@ live.bilibili.com##.vip-icon
 lovedan.net##[style^="display: block; z-index: 2147483646;"],[style$="!important;"],[style*="0vw;"],[class^="tsgg"],[id*="ggsj"]
 luoqiuzw.com##.show-app2
 m.123dua.com###upload-container
+m.99.com.cn##.jump_a
 m.bilibili.com##.home-float-openapp.launch-app-btn
 m.bilibili.com##.large.openapp-dialog
 m.bilibili.com##.m-float-openapp.launch-app-btn
@@ -7484,6 +7485,7 @@ zol.com.cn##[data-bottom-fixed] > img[style]
 ||srv.dropkickmedia.com$third-party
 ||ss.zuixinyiqi.com^
 ||ssestherssa.com^$third-party
+||ssl.libaishuo.com^$third-party
 ||ssl.qhres2.com/ssl/
 ||static.ufile.cc^$script,third-party
 ||stats.autohome.com.cn^
