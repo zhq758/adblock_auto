@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: kRpnUgqommb+vzrEyjS1sg
+! Checksum: ELoyL5/XfuHfkrNlu8ve3g
 ! Title: 自用去广告Adblock规则
-! Version: 20250122194449
-! Last modified: 2025-01-22 19:44:50
-! Total Count: 7747
+! Version: 20250122223342
+! Last modified: 2025-01-22 22:33:42
+! Total Count: 7750
 ###ADbox
 ###Ad-Container
 ###Ad-Content
@@ -2925,6 +2925,7 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 .cc/gu1ding.js$script,~third-party
 .cc/js/footer.js$~third-party,script
 .cc/o.js$third-party,script
+.cc/static/js/footer.js$~third-party,script
 .cc/static/movie/js/gd.js
 .cc/static/movie/js/pbzz.js
 .cc/t1j.js$~third-party,script
@@ -5052,8 +5053,8 @@ bing.com##li[class^="sa_sg"][stype="PN"]
 bing.com##li[data-idx]:has(#mm-ebad)
 bing.com##main[aria-label="Search Results"] > #b_pole:has(#cu_polebanner #cu_poleMSPromoText)
 bing.com,openai.com,google.com,google.com.hk,baidu.com,yandex.ru,so.com,yandex.com,ecnu.cf,aust.cf,fsoufsou.com,tld.cf,duckduckgo.com,gooo.azurewebsites.net,sogou.com,tiangong.cn,bilibili.com,csdn.net,chatglm.cn#@#.gpt-container
-biquge365.net,cqshuda.com,fofoyy.com,hantv8.com,omofun.buzz,omofun.link,omofun.live,omofun.top,omofuns.buzz,omofuns.link,omofuns.live,omofuns.top,txtduo.org,yhdm9.cc##^script:has-text(new Function)
-biquge365.net,cqshuda.com,fofoyy.com,hantv8.com,omofun.buzz,omofun.link,omofun.live,omofun.top,omofuns.buzz,omofuns.link,omofuns.live,omofuns.top,txtduo.org,yhdm9.cc##script:has-text(new Function)
+biquge365.net,cbh1.cc,cbh2.cc,cbh3.cc,cbh5.cc,cqshuda.com,dldl1.cc,dldl2.cc,dldl3.cc,dldl4.cc,dldl5.cc,douluo.cc,fofoyy.com,hantv8.com,omofun.buzz,omofun.link,omofun.live,omofun.top,omofuns.buzz,omofuns.link,omofuns.live,omofuns.top,txtduo.org,yhdm9.cc##^script:has-text(new Function)
+biquge365.net,cbh1.cc,cbh2.cc,cbh3.cc,cbh5.cc,cqshuda.com,dldl1.cc,dldl2.cc,dldl3.cc,dldl4.cc,dldl5.cc,douluo.cc,fofoyy.com,hantv8.com,omofun.buzz,omofun.link,omofun.live,omofun.top,omofuns.buzz,omofuns.link,omofuns.live,omofuns.top,txtduo.org,yhdm9.cc##script:has-text(new Function)
 biquge365.net,fofoyy.com,omofun.buzz,omofun.link,omofun.live,omofun.top,omofuns.buzz,omofuns.link,omofuns.live,omofuns.top,txtduo.org,yhdm9.cc##^script:has-text(navigator.platform)
 biquge365.net,fofoyy.com,omofun.buzz,omofun.link,omofun.live,omofun.top,omofuns.buzz,omofuns.link,omofuns.live,omofuns.top,txtduo.org,yhdm9.cc##script:has-text(navigator.platform)
 biquge365.net,fofoyy.com,omofun.buzz,omofun.link,omofun.live,omofun.top,omofuns.buzz,omofuns.link,omofuns.live,omofuns.top,yhdm9.cc,txtduo.org##^script:has-text(.substr\(10\))
@@ -5100,6 +5101,8 @@ cartoon18.com##.exo-native-widget
 cartoon18.com,pornbest.com,pornbest.net,pornbest.org,porncam.cc,porncam.com,porncam.sex,pornfind.com,pornfind.net,pornfind.org,pornfind.sex,pornhk.org,pornlulu.com,pornlulu.net,ptt.com,ptt.net,ptt.sex##.no-gutters
 carview.yahoo.co.jp###ydn-bot
 carview.yahoo.co.jp###ydn-contents-top-text
+cbh1.cc,cbh2.cc,cbh3.cc,cbh5.cc##^script:has-text(new Date)
+cbh1.cc,cbh2.cc,cbh3.cc,cbh5.cc##script:has-text(new Date)
 cenyou.net##.modown-ad
 cenyou.net##div[class*="push"]
 che168.com##.talkprice.liaoliao.float-zixun
@@ -5119,6 +5122,7 @@ colamanhua.com,colamanga.com#@#.ADLeader
 colamanhua.com,colamanga.com#@#.gg_950
 colamanhua.com,ddgys.com,ddg66.com,ddg44.com,ddg33.com,dadagui.me,colamanga.com##[class$="i"][style*="bottom"],[class$="h"][style*="bottom"],[class$="_b"],[class$="c"][style*="bottom"]
 comgk.com,okdyy.com##a[ontouchstart],a[onclick],[class^="cvbcvxvb"],[href*="baidujkdjklvvsbvk.com"]
+cooing.cc,dm513.cc,zhuiju2.cc##[style*="129px"]
 cool18.com##.center:has([href*="touyi"])
 coolapk.com#@#[class$="ad-box"]
 coolapk.com#@#[id$="ad-box"]
@@ -5158,7 +5162,6 @@ diantaiwang.com##img[src^="/js/imgs"]
 dippens.net,mei222.com,myfriendjeff.net,tjk3.com##.app,#htmlContenthtml,.dbfh,.zdhf
 dippens.net,mei222.com,myfriendjeff.net,tjk3.com##script + [class$="hf"]
 dm4.cc##.adv
-dm513.cc,cooing.cc##[style*="129px"]
 dm590.com,hentaipaw.com##.external
 dm88.me,dmh8.me,dm99.me##.padding-0 > ul[style]
 dm88.me,dmh8.me,dm99.me##[style^="display: block;"]
