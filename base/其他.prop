@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 4If2DPta+Rs1ZbfoigJq6w
+! Checksum: dOc2bk8mPUriQPsv2qPUiA
 ! Title: 自用去广告Adblock规则
-! Version: 20250121201132
-! Last modified: 2025-01-21 20:11:32
-! Total Count: 7743
+! Version: 20250122124942
+! Last modified: 2025-01-22 12:49:43
+! Total Count: 7745
 ###ADbox
 ###Ad-Container
 ###Ad-Content
@@ -4963,6 +4963,8 @@ baidu.com,xvideos.com##[class$="-ads"]
 baijiahao.baidu.com##.infinite-scroll-component__outerdiv
 baijiahao.baidu.com##.undefined
 baike.baidu.com###J-superLayer-main
+baike.baidu.com##.J-brand-recommend-list-container
+baike.baidu.com##.brand-bottom-content-container
 baike.baidu.com##.invoke-baiduApp-img
 baike.baidu.com##.squareAni.square.super-layer-promote
 baike.baidu.com##[class="qtqy-container"]
