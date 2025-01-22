@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: dOc2bk8mPUriQPsv2qPUiA
+! Checksum: kRpnUgqommb+vzrEyjS1sg
 ! Title: 自用去广告Adblock规则
-! Version: 20250122124942
-! Last modified: 2025-01-22 12:49:43
-! Total Count: 7745
+! Version: 20250122194449
+! Last modified: 2025-01-22 19:44:50
+! Total Count: 7747
 ###ADbox
 ###Ad-Container
 ###Ad-Content
@@ -1778,6 +1778,7 @@
 ##[class$="-ad-container"]
 ##[class$="_ad-container"]
 ##[class$="_advert"]
+##[class$="_b"][data-group*="photo"][data-show="ok"]
 ##[class$="ads-banners"]
 ##[class$="ads-box"]
 ##[class$="ads-container"]
@@ -7291,6 +7292,7 @@ zol.com.cn##[data-bottom-fixed] > img[style]
 ||lppgjf.xyz^
 ||lqglqq.com^$third-party
 ||lskjwica.cn^
+||ltadmycmy.com^
 ||lwksxs.com^$third-party
 ||lwonclbench.com^$third-party
 ||lworihhcab.com^
