@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: KL7H4IFUoiA+SF/NHxCFcw
+! Checksum: q59LpTriURzcA1PbB1oe4A
 ! Title: YouTube 广告拦截
-! Version: 20250104112318
-! Last modified: 2025-01-04 11:23:18
+! Version: 20250124003104
+! Last modified: 2025-01-24 00:31:04
 ! Total Count: 134
 *_ad_$media,third-party,domain=youtube.com
 @@||ad.doubleclick.net/*/adi/com.ytbc/$domain=youtube.com
@@ -137,4 +137,4 @@ youtube.com#@#.video-ads
 ||youtube.com/pagead/
 ||youtube.com/ptracking?
 ||youtube.com^$domain=1link.vip
-||youtube.com^$domain=tejtime24.com|thevouz.in|
+||youtube.com^$domain=tejtime24.com|thevouz.in
