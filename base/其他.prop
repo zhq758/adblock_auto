@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ELoyL5/XfuHfkrNlu8ve3g
+! Checksum: s4EusGv1Q0Qv149XqrshWA
 ! Title: 自用去广告Adblock规则
-! Version: 20250122223342
-! Last modified: 2025-01-22 22:33:42
-! Total Count: 7750
+! Version: 20250123200226
+! Last modified: 2025-01-23 20:02:26
+! Total Count: 7752
 ###ADbox
 ###Ad-Container
 ###Ad-Content
@@ -2456,6 +2456,7 @@
 ##div[id^="yandex_rtb"]
 ##div[linkurl^="https://xchina.click/"]
 ##div[onclick*="window.location.href"][onclick*=".biqu"][onclick*="app"]
+##div[onclick^="this.style.display=\"none\";window.open"][onclick*="17"]
 ##div[onclick^="window.location.href"][onclick*=".bcebos."]
 ##div[onclick^="window.location.href"][onclick*="apps.apple.com/cn/"]
 ##div[style*="line-height"][style*="100vw"][style*="0px"][style*="/"][style*="background: url"][style$="no-repeat; position: relative;"]
@@ -7177,6 +7178,7 @@ zol.com.cn##[data-bottom-fixed] > img[style]
 ||izhongwen.cc/staticjs/hm.js
 ||jads.co^$third-party
 ||jalosoul.com^
+||javascript.trafficmanager.net^$script,third-party
 ||javhd.com/banners-mainpage/
 ||javhd.com/sb/
 ||javhdporn.net/wp-content/themes/kingtube/assets/js/fun.js
@@ -7567,7 +7569,7 @@ zol.com.cn##[data-bottom-fixed] > img[style]
 ||traffichaus.com^
 ||trafficjunky.com^
 ||trafficjunky.net^
-||trafficmanager.net^$domain=395tv.net
+||trafficmanager.net^$domain=395tv.net|kkkkyy.cc
 ||trandgid.com^$third-party
 ||tryoe.com^$third-party
 ||ts.grmnmwv.cn^
