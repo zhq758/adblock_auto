@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Checksum: D7SlBMllI8m4lDIi5zTi0g
-! Title: 混合规则精简版(更新日期2025-01-25 00:13:15)
-! Version: 20250125001316
+! Checksum: kqVIpwwOv1HM2z4Dku1BGQ
+! Title: 混合规则精简版(更新日期2025-01-25 08:42:29)
+! Version: 20250125084229
 ! Expires: 12 hours (update frequency)
-! Last modified: 2025-01-25 00:13:16
-! Total Count: 51214
-! Blocked Filters: 51214
+! Last modified: 2025-01-25 08:42:29
+! Total Count: 51227
+! Blocked Filters: 51227
 ! Description: 合并于各种知名的Adblock规则，适用于移动端轻量的浏览器，例如 VIA / Rian / B仔浏览器
 ! Homepage: https://lingeringsound.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
@@ -3269,7 +3269,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 |javascript:*window.location
 !<<<<<通配符规则 结束>>>>>
 
-!<<<<<域名规则>>>>>34205
+!<<<<<域名规则>>>>>34218
 |http*://*?$third-party,domain=forums.socialmediagirls.com|pornhub.com|redtube.com|tube8.com|youporn.com|youporngay.com
 |http://$image,third-party,domain=pornhub.com|redtube.com|redtube.net|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com|you-porn.com|youpornru.com|youporn.fyi
 |https://m.frgls.com/js/*.js?v=
@@ -11756,6 +11756,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||aeeg5idiuenbi7erger.com^
 ||aeelookithdifyf.com^
 ||aeffe3nhrua5hua.com^
+||aemghfxq.com^
 ||aerialmistaken.com^
 ||aerodynomach.com^
 ||aerolla.net/0.js
@@ -17000,6 +17001,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||d980ed.xyz^
 ||d98aab83ee.3103cf02ec.com^
 ||d9leupuz17y6i.cloudfront.net^
+||d9r4lqt28t1fm.cloudfront.net^
 ||da-ads.com^
 ||da-fan-shu.cn/images/kuaijie.jpg
 ||da.daji.com^
@@ -17403,7 +17405,11 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||dev-reporting.bloblohub.com^
 ||dev.appboy.com^
 ||dev.bloblohub.com^
+||dev.to/bb/sidebar_left^
 ||dev.to/billboards/sidebar_left^
+||dev.to^*/bb/post_body_bottom^
+||dev.to^*/bb/post_comments^
+||dev.to^*/bb/post_sidebar^
 ||dev.to^*/billboards/post_body_bottom^
 ||dev.to^*/billboards/post_comments^
 ||dev.to^*/billboards/post_sidebar^
@@ -18030,6 +18036,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||dsda21.fun^
 ||dsdsa33.fun^
 ||dsdsg44.fun^
+||dseveralmefarketi.com^
 ||dsfh2.icu^
 ||dsfvmx.click^
 ||dsg.reifporn.de^
@@ -18762,6 +18769,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||eporner.com/dot/
 ||eporner.com/event.php
 ||eporner.com^$subdocument,~third-party
+||epreswsentativ.com^
 ||eprice.com.tw/img/tw_m/ad/
 ||eptougry.net^
 ||epvjljye.com^
@@ -20289,6 +20297,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||gffedashb6.fun^
 ||gfjn5.xyz^
 ||gfpvvwf.xyz^
+||gfrekjhrlc.com^
 ||gfstrck.com^
 ||gftefmt.icu^
 ||gfx.radiozet.pl/design/radiozet/javascript/lib/radioSponsor.js
@@ -24856,6 +24865,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||louxoxo.com^
 ||love.furenkeji.com^
 ||loveameng.top^
+||lovedenimori.com^
 ||lovek01.com/gif/97-
 ||lovelybingo.com^
 ||lovelydrum.com^
@@ -26638,6 +26648,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||nfyowjhcgb.com^
 ||ngfruitiesmatc.info^
 ||ngineet.cfd^
+||ngplansforourco.com^
 ||ngshospicalada.com^
 ||ngsinspiringtga.info^
 ||ngxzkaxf.icu^
@@ -34181,6 +34192,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||ukkiftx.icu^
 ||ukoffzeh.com^
 ||ukqibzitix.com^
+||ukuleqasforsale.com^
 ||ukworlowedonh.com^
 ||uldaens.com^
 ||ulifestyle.com.hk/*/*app-popup-modal.min.js
@@ -34674,6 +34686,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||vespymedia.com^
 ||vesti.lv/www/imgget/imgjs.php?
 ||vesti.ru/js/push/
+||vestrydual.top^
 ||vesuvinaqueity.top^
 ||veta.naver.com^
 ||vetchesthiever.com^
