@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: m6CVteLJ4mwcHqmgt7iLgw
-! Title: 混合规则精简版(更新日期2025-01-26 00:11:39)
-! Version: 20250126001139
+! Checksum: HkL7FjyP9qjkw18MpwNTHw
+! Title: 混合规则精简版(更新日期2025-01-26 08:44:40)
+! Version: 20250126084441
 ! Expires: 12 hours (update frequency)
-! Last modified: 2025-01-26 00:11:39
+! Last modified: 2025-01-26 08:44:41
 ! Total Count: 51346
 ! Blocked Filters: 51346
 ! Description: 合并于各种知名的Adblock规则，适用于移动端轻量的浏览器，例如 VIA / Rian / B仔浏览器
