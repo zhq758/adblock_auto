@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 3w6Soxgl219rJntNjioQ5Q
+! Checksum: oyU21vnGaQwBofr+y78NWA
 ! Title: 自用去广告Adblock规则
-! Version: 20250127143546
-! Last modified: 2025-01-27 14:35:46
-! Total Count: 7762
+! Version: 20250128010900
+! Last modified: 2025-01-28 01:09:01
+! Total Count: 7763
 ###ADbox
 ###Ad-Container
 ###Ad-Content
@@ -6892,6 +6892,7 @@ zol.com.cn##[data-bottom-fixed] > img[style]
 ||cf.jaacdn.net/static/js/f7b73.dcc98.js
 ||cgovyjnmdtauwdhek.com^
 ||chiluyingxiao.com^$third-party
+||chinapornoxxx.com/banner.js
 ||chinatimes.com/Scripts/bennerad.
 ||chinatimes.com/ads/
 ||chinatimes.com/analytics/
