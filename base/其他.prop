@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: PFeU6cPzTOMu7/JHzhWGKA
+! Checksum: 3w6Soxgl219rJntNjioQ5Q
 ! Title: 自用去广告Adblock规则
-! Version: 20250127121750
-! Last modified: 2025-01-27 12:17:50
+! Version: 20250127143546
+! Last modified: 2025-01-27 14:35:46
 ! Total Count: 7762
 ###ADbox
 ###Ad-Container
@@ -5059,8 +5059,8 @@ bing.com##li[class^="sa_sg"][stype="PN"]
 bing.com##li[data-idx]:has(#mm-ebad)
 bing.com##main[aria-label="Search Results"] > #b_pole:has(#cu_polebanner #cu_poleMSPromoText)
 bing.com,openai.com,google.com,google.com.hk,baidu.com,yandex.ru,so.com,yandex.com,ecnu.cf,aust.cf,fsoufsou.com,tld.cf,duckduckgo.com,gooo.azurewebsites.net,sogou.com,tiangong.cn,bilibili.com,csdn.net,chatglm.cn#@#.gpt-container
-biquge365.net,cbh1.cc,cbh2.cc,cbh3.cc,cbh5.cc,cqshuda.com,dldl1.cc,dldl2.cc,dldl3.cc,dldl4.cc,dldl5.cc,douluo.cc,fofoyy.com,hantv8.com,omofun.buzz,omofun.link,omofun.live,omofun.top,omofuns.buzz,omofuns.link,omofuns.live,omofuns.top,txtduo.org,yhdm9.cc##^script:has-text(new Function)
-biquge365.net,cbh1.cc,cbh2.cc,cbh3.cc,cbh5.cc,cqshuda.com,dldl1.cc,dldl2.cc,dldl3.cc,dldl4.cc,dldl5.cc,douluo.cc,fofoyy.com,hantv8.com,omofun.buzz,omofun.link,omofun.live,omofun.top,omofuns.buzz,omofuns.link,omofuns.live,omofuns.top,txtduo.org,yhdm9.cc##script:has-text(new Function)
+biquge365.net,cbh1.cc,cbh2.cc,cbh3.cc,cbh5.cc,cdm7.cc,cqshuda.com,dldl1.cc,dldl2.cc,dldl3.cc,dldl4.cc,dldl5.cc,douluo.cc,fcmv.cc,fofoyy.com,hantv8.com,hjtv.cc,hjtv2.cc,hjw1.cc,hjw2.cc,mjtt1.cc,omofun.buzz,omofun.link,omofun.live,omofun.top,omofuns.buzz,omofuns.link,omofuns.live,omofuns.top,txtduo.org,xcmv.cc,yhdm9.cc,zhenbuka.cc##^script:has-text(new Function)
+biquge365.net,cbh1.cc,cbh2.cc,cbh3.cc,cbh5.cc,cdm7.cc,cqshuda.com,dldl1.cc,dldl2.cc,dldl3.cc,dldl4.cc,dldl5.cc,douluo.cc,fcmv.cc,fofoyy.com,hantv8.com,hjtv.cc,hjtv2.cc,hjw1.cc,hjw2.cc,mjtt1.cc,omofun.buzz,omofun.link,omofun.live,omofun.top,omofuns.buzz,omofuns.link,omofuns.live,omofuns.top,txtduo.org,xcmv.cc,yhdm9.cc,zhenbuka.cc##script:has-text(new Function)
 biquge365.net,dandanzan.club,fofoyy.com,omofun.buzz,omofun.link,omofun.live,omofun.top,omofuns.buzz,omofuns.link,omofuns.live,omofuns.top,txtduo.org,yhdm9.cc##^script:has-text(navigator.platform)
 biquge365.net,dandanzan.club,fofoyy.com,omofun.buzz,omofun.link,omofun.live,omofun.top,omofuns.buzz,omofuns.link,omofuns.live,omofuns.top,txtduo.org,yhdm9.cc##script:has-text(navigator.platform)
 biquge365.net,fofoyy.com,omofun.buzz,omofun.link,omofun.live,omofun.top,omofuns.buzz,omofuns.link,omofuns.live,omofuns.top,yhdm9.cc,txtduo.org##^script:has-text(.substr\(10\))
@@ -5107,8 +5107,8 @@ cartoon18.com##.exo-native-widget
 cartoon18.com,pornbest.com,pornbest.net,pornbest.org,porncam.cc,porncam.com,porncam.sex,pornfind.com,pornfind.net,pornfind.org,pornfind.sex,pornhk.org,pornlulu.com,pornlulu.net,ptt.com,ptt.net,ptt.sex##.no-gutters
 carview.yahoo.co.jp###ydn-bot
 carview.yahoo.co.jp###ydn-contents-top-text
-cbh1.cc,cbh2.cc,cbh3.cc,cbh5.cc##^script:has-text(new Date)
-cbh1.cc,cbh2.cc,cbh3.cc,cbh5.cc##script:has-text(new Date)
+cbh1.cc,cbh2.cc,cbh3.cc,cbh5.cc,cdm7.cc,fcmv.cc,hjtv.cc,hjtv2.cc,hjw1.cc,hjw2.cc,mjtt1.cc,xcmv.cc,zhenbuka.cc##^script:has-text(new Date)
+cbh1.cc,cbh2.cc,cbh3.cc,cbh5.cc,cdm7.cc,fcmv.cc,hjtv.cc,hjtv2.cc,hjw1.cc,hjw2.cc,mjtt1.cc,xcmv.cc,zhenbuka.cc##script:has-text(new Date)
 cenyou.net##.modown-ad
 cenyou.net##div[class*="push"]
 che168.com##.talkprice.liaoliao.float-zixun
