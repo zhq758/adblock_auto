@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: hY4HVkd6O7PJJHbcL+3Khw
+! Checksum: PFeU6cPzTOMu7/JHzhWGKA
 ! Title: 自用去广告Adblock规则
-! Version: 20250125152506
-! Last modified: 2025-01-25 15:25:06
-! Total Count: 7756
+! Version: 20250127121750
+! Last modified: 2025-01-27 12:17:50
+! Total Count: 7762
 ###ADbox
 ###Ad-Container
 ###Ad-Content
@@ -5051,6 +5051,8 @@ bing.com##a.sb_meta[href^="http://advertise.bingads.microsoft.com"]
 bing.com##a[h$=",Ads"]
 bing.com##a[href*="/aclick?ld="]
 bing.com##div[aria-label$="ProductAds"]
+bing.com##div[data-ans*="BrandZoneAds"]
+bing.com##li:has([data-ans*="BrandZoneAds"])
 bing.com##li[class="b_algo"]:has(.b_attribution[data-partnertag]+p[class])
 bing.com##li[class="sa_hd"][role="option"]
 bing.com##li[class^="sa_sg"][stype="PN"]
@@ -6650,6 +6652,7 @@ zol.com.cn##[data-bottom-fixed] > img[style]
 ||5uxmusq.cn^
 ||5vkyqkc.cn^
 ||5wxw.com^$third-party
+||705dm.com/color.js
 ||777bbb666www.com^
 ||888bb111ww.com^
 ||888xx222kk.com^
@@ -6922,6 +6925,7 @@ zol.com.cn##[data-bottom-fixed] > img[style]
 ||clunkyentirelinked.com^
 ||cmx.autohome.com.cn^
 ||cn4.animehdl.net^
+||cn46.com/color.js
 ||cnnywz.cn^$third-party
 ||cnt.xhamster.com^
 ||code.yykalopyy.com^$third-party
@@ -7136,6 +7140,7 @@ zol.com.cn##[data-bottom-fixed] > img[style]
 ||hruk.prikupok.icu^
 ||hstjjg.com/show/$script
 ||htjs.demshen.com^
+||huakai2025.com/color.js
 ||huayiyuan.hk^
 ||hubiazhi.com^
 ||humble-gap.com^$third-party
@@ -7339,6 +7344,7 @@ zol.com.cn##[data-bottom-fixed] > img[style]
 ||mobixc.manlisgx.fun^
 ||mobixc.ognlaigk.fun^
 ||mobixc.wqnggnse.fun^
+||momentdd.com/color.js
 ||mopak.ionksfefe.xyz^
 ||mopinion.com^
 ||mouton.foramscoypou.com^
