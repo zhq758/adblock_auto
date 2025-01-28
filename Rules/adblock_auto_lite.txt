@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Checksum: nJGAEQNKlIiwMCNboxRQBA
-! Title: 混合规则精简版(更新日期2025-01-28 00:14:03)
-! Version: 20250128001403
+! Checksum: oX/bcPxuWNr36HXKwx+sFA
+! Title: 混合规则精简版(更新日期2025-01-28 08:43:34)
+! Version: 20250128084335
 ! Expires: 12 hours (update frequency)
-! Last modified: 2025-01-28 00:14:03
-! Total Count: 52019
-! Blocked Filters: 52019
+! Last modified: 2025-01-28 08:43:35
+! Total Count: 52041
+! Blocked Filters: 52041
 ! Description: 合并于各种知名的Adblock规则，适用于移动端轻量的浏览器，例如 VIA / Rian / B仔浏览器
 ! Homepage: https://lingeringsound.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
@@ -3267,7 +3267,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 |javascript:*window.location
 !<<<<<通配符规则 结束>>>>>
 
-!<<<<<域名规则>>>>>35006
+!<<<<<域名规则>>>>>35028
 |http*://*?$third-party,domain=forums.socialmediagirls.com|pornhub.com|redtube.com|tube8.com|youporn.com|youporngay.com
 |http://$image,third-party,domain=pornhub.com|redtube.com|redtube.net|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com|you-porn.com|youpornru.com|youporn.fyi
 |https://m.frgls.com/js/*.js?v=
@@ -4087,6 +4087,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||0399.reminews.com^
 ||0399.tegronews.com^
 ||03b5f525af.com^
+||03eea1b6dd.com
 ||0400.jemonews.com^
 ||0400.reminews.com^
 ||0401.gofenews.com^
@@ -4596,6 +4597,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||0be9f5cb61.32ae2295ab.com^
 ||0byv9mgbn0.com^
 ||0c0b6e3f.xyz^
+||0c6be7f968.com^
 ||0cf.io^
 ||0d785fd7.xyz^
 ||0dwm.icu^
@@ -6728,6 +6730,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||360.cn/popup/popinfo/
 ||3600.jemonews.com^
 ||3600.lookinews.com^
+||36006ca3dd.com^
 ||3601880.xyz^
 ||360640.com^
 ||360buyimg.com/babel/jfs/t1/209256/22/21888/60206/627b7a6aEa5f2d78b/219868beb169203f.jpg
@@ -10491,6 +10494,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||ab1n.net^
 ||ab56a2a85e.572a8a28b5.com^
 ||abadit5rckb.com^
+||abattuehagbuts.com^
 ||abazelfan.com^
 ||abbao.cn^*adblock
 ||abbasidquippy.shop^
@@ -12517,6 +12521,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||ajs.selecttopoff.com^
 ||ajs.statelinear.com^
 ||ajscdn.com^
+||ajtcuhodwjup.com^
 ||ajtdumo.cn^$third-party
 ||ajump2.com^
 ||ajxx98.online^
@@ -13736,6 +13741,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||b903c2.xyz^
 ||b9282.vip^
 ||b9f25b.site^
+||b9f26bbf80.com^
 ||ba0bf98c.xyz^
 ||ba31f372b1.6d0ce9a973.com^
 ||ba3b545f57.43541f6026.com^
@@ -14856,6 +14862,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||bqiapp.com/api/config/ad?
 ||bqnxff.xyz^
 ||bqsnmpwxwd.buzz^
+||bqtnnnrqysv.com^
 ||br1.guesswhatnews.com^
 ||br3.lookinews.com^
 ||br3azil334nutsz.com^
@@ -15142,6 +15149,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||bwurserv.top^
 ||bwz4e.icu^
 ||bxacmsvmxb.com^
+||bxejfqxxm.com^
 ||bxheifoe.icu^
 ||bxlmrl.xyz^
 ||bxmazls.icu^
@@ -16012,6 +16020,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||chinamedevice.cn/cnbanner/zjmz.gif
 ||chinanews.com/ad2019/wujiu_ad.jpg
 ||chinanews.com/shipin/sptp.xml
+||chinapornoxxx.com/banner.js
 ||chinapress.com.my/public/static_resources/img/*636x105.
 ||chinapress.com.my/public/static_resources/img/600x337
 ||chinaqking.com/images/newPage/JLW.jpg
@@ -16069,6 +16078,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||chonaesor.com^
 ||chong-wu.net^
 ||chongdiantou.com/wp-content/uploads/2019/02/pzb.jpg
+||choodrawiwa.net^
 ||choogeet.net^
 ||choomsiesurvey.top^
 ||chooncv.icu^
@@ -17845,6 +17855,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||defybrick.com^
 ||deghooda.net^
 ||degreechariot.com^$third-party
+||degreewhether.com^
 ||dehua.ixinfan.com^
 ||deksoarguph.net^
 ||delegatediscussion.com^$third-party
@@ -19187,6 +19198,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||empdat.com^
 ||emptyescort.com^$third-party
 ||empusacooner.com^
+||emqcjvva.com^
 ||emsservice.de^
 ||emumuendaku.info^
 ||emxdgt.com^
@@ -21071,6 +21083,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||gloogruk.com^
 ||gloorsie.com^
 ||glorifyfactor.com^
+||glorious-dependent.pro^
 ||gloriousbeef.com^$third-party
 ||glossydollyknock.com^
 ||glougloowhoumt.net^
@@ -25032,6 +25045,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||ledollull.com^
 ||leebegruwech.com^
 ||leegreemula.net^
+||leekoleesasar.net^
 ||leeleo.top^$third-party
 ||leesaushoah.net^
 ||leetaipt.net^
@@ -26409,6 +26423,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||mkaff.com^
 ||mkcsjgtfej.com^
 ||mkd88.cc/16.32.jpg
+||mkehcocw.com^
 ||mkiterx.top^
 ||mkjsqrpmxqdf.com^
 ||mkkvprwskq.com^
@@ -26881,6 +26896,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||mycartoonsexgames.com/thumbs/*/$image
 ||mycdn.co^
 ||myckdom.com^
+||mycljbrbwx.com^
 ||mycodes.net/js/$image
 ||mycodes.net/js/*.js
 ||mycodes.net/js/hf_txt.js
@@ -27640,6 +27656,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||oapsoulreen.net^
 ||oaqrui.xyz^
 ||oaraiwephoursou.net^
+||oardaptaunga.net^
 ||oarsoathaihoamt.net^
 ||oartauksak.net^
 ||oartylkbt.com^
@@ -28429,6 +28446,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||parrecleftne.xyz^
 ||parserskiotomy.com^
 ||parsimoniouspolice.com^$third-party
+||parteonroll.xyz^
 ||participateconsequences.com^
 ||partner-ads.com^$third-party
 ||partner-app.softwareselect.com^
@@ -31979,6 +31997,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||sheeltaibu.net^
 ||sheeme.com^$third-party
 ||sheeshumte.net^
+||shelfcandler.shop^
 ||shelfoka.com^
 ||shellcat.ru^$third-party
 ||shemalesofhentai.com^
@@ -34394,6 +34413,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||trinity.notifysrv.com^
 ||trip.com/partners/ad/
 ||tripsisvellums.com^
+||tripstraveltips.com/wp-content/uploads/ccdfea/aabacb.
 ||tristoshink.online/libs/check.js
 ||tritebadge.com^$third-party
 ||tritethunder.com^$third-party
@@ -35885,6 +35905,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||wargfybaqc.com^
 ||warilycommercialconstitutional.com^
 ||warkop4dx.com^
+||warlike-abroad.pro^
 ||warliketruck.com^
 ||warlockstallioniso.com^
 ||warmafterthought.com^$third-party
@@ -36136,6 +36157,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||whaijoorgoo.com^
 ||whainsairgi.net^
 ||whairtoa.com^
+||whaleplayful.com^
 ||whampamp.com^
 ||wharrownecia.com^
 ||whatfinger.com^$third-party
