@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Checksum: 6Udr4wSZzJPxhwvDvTnDNg
-! Title: 混合规则精简版(更新日期2025-01-29 16:14:55)
-! Version: 20250129161455
+! Checksum: 2jjH5r8zNET1broFxYKdbg
+! Title: 混合规则精简版(更新日期2025-01-30 00:14:09)
+! Version: 20250130001409
 ! Expires: 12 hours (update frequency)
-! Last modified: 2025-01-29 16:14:55
-! Total Count: 51644
-! Blocked Filters: 51644
+! Last modified: 2025-01-30 00:14:09
+! Total Count: 51659
+! Blocked Filters: 51659
 ! Description: 合并于各种知名的Adblock规则，适用于移动端轻量的浏览器，例如 VIA / Rian / B仔浏览器
 ! Homepage: https://lingeringsound.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
@@ -3264,7 +3264,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 |javascript:*window.location
 !<<<<<通配符规则 结束>>>>>
 
-!<<<<<域名规则>>>>>34632
+!<<<<<域名规则>>>>>34647
 |http*://*?$third-party,domain=forums.socialmediagirls.com|pornhub.com|redtube.com|tube8.com|youporn.com|youporngay.com
 |http://$image,third-party,domain=pornhub.com|redtube.com|redtube.net|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com|you-porn.com|youpornru.com|youporn.fyi
 |https://m.frgls.com/js/*.js?v=
@@ -9002,6 +9002,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||7amz.com^
 ||7anfpatlo8lwmb.com^
 ||7app.top^
+||7b5f77dbb5.com^
 ||7b862b8642.e3202e1cad.com^
 ||7br.lycheenews.com^
 ||7ca78m3csgbrid7ge.com^
@@ -9024,6 +9025,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||7mmtv.tv/u_banner/
 ||7ng6v3lu3c.execute-api.us-east-1.amazonaws.com^
 ||7scs.com/Public/img/list-
+||7tc.fun^
 ||7vin.lycheenews.com^
 ||7vviw.cyou^
 ||7x7n.com/static/image/888.jpg
@@ -13207,6 +13209,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||astuff.clicknplay.to^
 ||aswpsdkeu.com^$third-party
 ||aswpsdkus.com^$third-party
+||asxvkswpni.com^
 ||asyy6.com/dm/
 ||at*.doubanio.com^
 ||at.adtech.redventures.io^
@@ -17889,6 +17892,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||directlycoldnesscomponent.com^
 ||directrankcl.com^
 ||directrev.com^
+||directsnap.click^
 ||directtrck.com^
 ||direfuldesk.com^$third-party
 ||dirty.games^
@@ -20682,6 +20686,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||ggwan.com^$third-party,domain=~linghit.com
 ||ggxwb.miguvideo.com^
 ||ghabnq.xyz^
+||ghairqin.com^
 ||ghcaoaefmj.com^
 ||gheqien.com^
 ||gherkax.com^
@@ -22101,6 +22106,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||hotadultvids.com^
 ||hotapi-va.isnssdk.com^
 ||hotavxxx.com/images/*96
+||hotbbuvifu.cc^
 ||hotbonus.loopanews.com^
 ||hotbraraja.cc^
 ||hotchatdate.com^
@@ -24321,6 +24327,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||kitabislicuri.com^
 ||kitchiepreppie.com^
 ||kitesquirrel.com^$third-party
+||kitschchizzel.com^
 ||kiuee8.com^
 ||kiwhopoardeg.net^
 ||kiwi8.top/media/plugins/jquery_confirm/
@@ -27224,6 +27231,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||nstoodthestatu.info^
 ||nsultingcoe.net^
 ||nsw2u.com^
+||ntativesathyasesum.com^
 ||ntdtv.com/assets/themes/ntd/js/article_ads.js
 ||ntimg.cn/original/images/www_ads.jpg
 ||ntiutox.icu^
@@ -29917,6 +29925,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||quataloden.com^
 ||quaternnerka.com^
 ||qudajie.com^
+||queasytonight.com^
 ||quebecormedia.com/*/lib/cheezwhiz/*index.js
 ||quesid.com^
 ||quest4play.xyz/blast.js
@@ -30375,6 +30384,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||res.pinpai8.cn^
 ||res.vps234.com/resources/images/hosting-promotion/
 ||resalag.com^
+||rescueaccredited.com^
 ||resentreaccotia.com^
 ||resertol.co.in^
 ||residelikingminister.com^
@@ -30835,6 +30845,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||runningdestructioncleanliness.com^
 ||runoob.com/images/re/
 ||runslin.com^
+||runsycloyne.top^
 ||runtnc.net^
 ||rupmlh.cn^
 ||ruqaks.com^
@@ -31808,6 +31819,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||sikapo.top^
 ||sikaq.top^
 ||sikncs.com^
+||sikoip.cfd^
 ||silebu.xyz^
 ||silentinevitable.com^
 ||siliconslow.com^$third-party
@@ -34572,6 +34584,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||uk0.icu^
 ||uk08i.top^
 ||ukankingwithea.com^
+||ukedrevenue.com^
 ||ukeesait.top^
 ||ukgzavrhc.com^
 ||ukitert.top^
@@ -34707,6 +34720,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||unseenreport.com^
 ||unshellbrended.com^
 ||unskilfulwalkerpolitician.com^
+||unsloghpouffes.shop^
 ||unsnareparroty.com^
 ||unsoothippi.top^
 ||unspeakablepurebeings.com^
@@ -37252,6 +37266,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||ylkdbbvy.xyz^
 ||yllaris.com^
 ||yllix.com^
+||yloooqjefv.com^
 ||ylplrhum.xyz^
 ||ylrjnhxi.xyz^
 ||ylwrdnrw.xyz^
