@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: lNNAfuTUikzT24nFjkWckQ
+! Checksum: d2Lv5TpPimRMWpGfE3lgsA
 ! Title: 自用去广告Adblock规则
-! Version: 20250130113258
-! Last modified: 2025-01-30 11:32:58
-! Total Count: 7767
+! Version: 20250130120021
+! Last modified: 2025-01-30 12:00:21
+! Total Count: 7768
 ###ADbox
 ###Ad-Container
 ###Ad-Content
@@ -4426,6 +4426,10 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 1amateurporn.com##[class^="native-"]:has([real-href*="/safu/safu.php?"])
 1amateurporn.com##img[src*="/safu/safu.php?"]
 1anime.me##[class*="ads"],[style*="z-index:"][style*="2000000000"],[style*="z-index:"][style*="5000000"],img[src*="//hgilaryph.com/"],body[style^="padding"] > [style*="130px"],img[width="30"][height="60"]
+1dm9.cc,biquge365.net,cbh1.cc,cbh2.cc,cbh3.cc,cbh5.cc,cdm7.cc,cqshuda.com,dldl1.cc,dldl2.cc,dldl3.cc,dldl4.cc,dldl5.cc,douluo.cc,fcmv.cc,fofoyy.com,hantv8.com,hjtv.cc,hjtv2.cc,hjw1.cc,hjw2.cc,mjtt1.cc,omofun.buzz,omofun.link,omofun.live,omofun.top,omofuns.buzz,omofuns.link,omofuns.live,omofuns.top,txtduo.org,xcmv.cc,yhdm28.com,yhdm9.cc,yinghuadm.cn,zhenbuka.cc##^script:has-text(new Function)
+1dm9.cc,biquge365.net,cbh1.cc,cbh2.cc,cbh3.cc,cbh5.cc,cdm7.cc,cqshuda.com,dldl1.cc,dldl2.cc,dldl3.cc,dldl4.cc,dldl5.cc,douluo.cc,fcmv.cc,fofoyy.com,hantv8.com,hjtv.cc,hjtv2.cc,hjw1.cc,hjw2.cc,mjtt1.cc,omofun.buzz,omofun.link,omofun.live,omofun.top,omofuns.buzz,omofuns.link,omofuns.live,omofuns.top,txtduo.org,xcmv.cc,yhdm28.com,yhdm9.cc,yinghuadm.cn,zhenbuka.cc##script:has-text(new Function)
+1dm9.cc,cbh1.cc,cbh2.cc,cbh3.cc,cbh5.cc,cdm7.cc,fcmv.cc,hjtv.cc,hjtv2.cc,hjw1.cc,hjw2.cc,mjtt1.cc,xcmv.cc,yhdm28.com,yinghuadm.cn,zhenbuka.cc##^script:has-text(new Date)
+1dm9.cc,cbh1.cc,cbh2.cc,cbh3.cc,cbh5.cc,cdm7.cc,fcmv.cc,hjtv.cc,hjtv2.cc,hjw1.cc,hjw2.cc,mjtt1.cc,xcmv.cc,yhdm28.com,yinghuadm.cn,zhenbuka.cc##script:has-text(new Date)
 1shorten.com,antiscan.me,app.stream2watch.sx,aylink.co,bets.pl,blogmado.com,cryptofuns.ru,dooseries.org,downturk.net,filma24.*,filmeserialehd.biz,flacdl.com,flashx.net,gdrivez.xyz,gitlink.pro,illink.net,kvador.com,manga168.com,modsfire.com,plawarn-manga.net,pornstash.in,privatemoviez.*,spaste.com,speed4up.com,tlin.me,tweetycoin.com,uploadflix.org,uploadraja.com,vezionlinefilme.com,xxx888porn.com##center > a[target="_blank"] > img
 1v1.lol,accuweather.com,aim400kg.com,airport-charles-de-gaulle.com,alison.com,ancient.eu,apornotube.net,appleinsider.com,appsious.com,barchart.com,bgr.in,bitsofco.de,bombhopper.io,businessinsider.com,citra-emu.org,clevelandclinic.org,crn.com,dcode.fr,defensesystems.com,delfi.lt,dvdsreleasedates.com,dynamicwallpaper.club,earlygame.com,ehow.com,elophant.com,epson-event-manager-utility.en.lo4d.com,ertyu.org,filehippo.com,flightglobal.com,forvo.com,getdaytrends.com,gifcandy.net,gingersoftware.com,gmanetwork.com,gradesaver.com,gtplanet.net,hiperdex.com,history.com,howchoo.com,ibc.org,icefilms.info,indiatvnews.com,infobyip.com,instadp.com,investopedia.com,ipaddress.com,javascripttutorial.net,jungle.lol,justfall.lol,lilymanga.com,macleans.ca,mangafox.la,martech.org,mobafire.com,movieweb.com,mtlblog.com,myhoustonmajic.com,mysqltutorial.org,mywebtimes.com,narcity.com,ndtv.com,nejm.org,newatlas.com,newsd.in,nytimes.com,nytimes3xbfgragh.onion,online-audio-converter.com,online-video-cutter.com,outsider.com,owfire.com,pairom.com,pdf.io,phoneky.com,picmix.com,pinkvilla.com,politico.eu,pornhd.com,prosettings.net,psdetch.com,pythontutorial.net,r3sub.com,ranker.com,readingrockets.org,saavn.com,samistream.com,satelite.io,servers.fivem.net,sexhoundlinks.com,soundclouddownloader.org,sqlservertutorial.net,supersextube.pro,techlusive.in,tempostorm.com,thehentaiworld.com,thelayoff.com,theurbanlist.com,thurrott.com,trafficland.com,tricksplit.io,tripadvisor.*,tvweb.com,updatestar.com,uptodown.com,whatsmydns.net,winporn.net,worldstarhiphop.com,worms.lol,www-technologyreview-com.cdn.ampproject.org,yokibu.com,zipi.com##body .ad
 2345.com##.pic:has(a[href^="http://g.wan."])
@@ -5063,8 +5067,6 @@ bing.com##li[class^="sa_sg"][stype="PN"]
 bing.com##li[data-idx]:has(#mm-ebad)
 bing.com##main[aria-label="Search Results"] > #b_pole:has(#cu_polebanner #cu_poleMSPromoText)
 bing.com,openai.com,google.com,google.com.hk,baidu.com,yandex.ru,so.com,yandex.com,ecnu.cf,aust.cf,fsoufsou.com,tld.cf,duckduckgo.com,gooo.azurewebsites.net,sogou.com,tiangong.cn,bilibili.com,csdn.net,chatglm.cn#@#.gpt-container
-biquge365.net,cbh1.cc,cbh2.cc,cbh3.cc,cbh5.cc,cdm7.cc,cqshuda.com,dldl1.cc,dldl2.cc,dldl3.cc,dldl4.cc,dldl5.cc,douluo.cc,fcmv.cc,fofoyy.com,hantv8.com,hjtv.cc,hjtv2.cc,hjw1.cc,hjw2.cc,mjtt1.cc,omofun.buzz,omofun.link,omofun.live,omofun.top,omofuns.buzz,omofuns.link,omofuns.live,omofuns.top,txtduo.org,xcmv.cc,yhdm9.cc,zhenbuka.cc##^script:has-text(new Function)
-biquge365.net,cbh1.cc,cbh2.cc,cbh3.cc,cbh5.cc,cdm7.cc,cqshuda.com,dldl1.cc,dldl2.cc,dldl3.cc,dldl4.cc,dldl5.cc,douluo.cc,fcmv.cc,fofoyy.com,hantv8.com,hjtv.cc,hjtv2.cc,hjw1.cc,hjw2.cc,mjtt1.cc,omofun.buzz,omofun.link,omofun.live,omofun.top,omofuns.buzz,omofuns.link,omofuns.live,omofuns.top,txtduo.org,xcmv.cc,yhdm9.cc,zhenbuka.cc##script:has-text(new Function)
 biquge365.net,dandanzan.club,fofoyy.com,omofun.buzz,omofun.link,omofun.live,omofun.top,omofuns.buzz,omofuns.link,omofuns.live,omofuns.top,txtduo.org,yhdm9.cc##^script:has-text(navigator.platform)
 biquge365.net,dandanzan.club,fofoyy.com,omofun.buzz,omofun.link,omofun.live,omofun.top,omofuns.buzz,omofuns.link,omofuns.live,omofuns.top,txtduo.org,yhdm9.cc##script:has-text(navigator.platform)
 biquge365.net,fofoyy.com,omofun.buzz,omofun.link,omofun.live,omofun.top,omofuns.buzz,omofuns.link,omofuns.live,omofuns.top,yhdm9.cc,txtduo.org##^script:has-text(.substr\(10\))
@@ -5111,8 +5113,6 @@ cartoon18.com##.exo-native-widget
 cartoon18.com,pornbest.com,pornbest.net,pornbest.org,porncam.cc,porncam.com,porncam.sex,pornfind.com,pornfind.net,pornfind.org,pornfind.sex,pornhk.org,pornlulu.com,pornlulu.net,ptt.com,ptt.net,ptt.sex##.no-gutters
 carview.yahoo.co.jp###ydn-bot
 carview.yahoo.co.jp###ydn-contents-top-text
-cbh1.cc,cbh2.cc,cbh3.cc,cbh5.cc,cdm7.cc,fcmv.cc,hjtv.cc,hjtv2.cc,hjw1.cc,hjw2.cc,mjtt1.cc,xcmv.cc,zhenbuka.cc##^script:has-text(new Date)
-cbh1.cc,cbh2.cc,cbh3.cc,cbh5.cc,cdm7.cc,fcmv.cc,hjtv.cc,hjtv2.cc,hjw1.cc,hjw2.cc,mjtt1.cc,xcmv.cc,zhenbuka.cc##script:has-text(new Date)
 cenyou.net##.modown-ad
 cenyou.net##div[class*="push"]
 che168.com##.talkprice.liaoliao.float-zixun
@@ -6637,6 +6637,7 @@ zol.com.cn##[data-bottom-fixed] > img[style]
 ||18-comicstellar.*/exads
 ||18-comicstellar.*/media/albums/*?$media
 ||18-comicstellar.*/templates/frontend/airav/js/*1_2df4.js
+||2021.sunxinshao.com^$script
 ||2021welcome.com^$third-party
 ||2022welcome.com^$third-party
 ||2023welcome.com^$third-party
