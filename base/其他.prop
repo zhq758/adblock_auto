@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: CvthFkR0RDn+Frum1wUm2w
+! Checksum: G42+AbcuRVt7VD09gJFLXg
 ! Title: 自用去广告Adblock规则
-! Version: 20250131011024
-! Last modified: 2025-01-31 01:10:24
-! Total Count: 7786
+! Version: 20250131030200
+! Last modified: 2025-01-31 03:02:01
+! Total Count: 7793
 ###ADbox
 ###Ad-Container
 ###Ad-Content
@@ -4532,7 +4532,7 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 69vj.com##[href^="https://b2pk.com/b/a/d/ck.php"]
 69xx.one,69xx487.xyz,88av.one,8mav.cc,av411.xyz,cable2055.cc,theav.xyz,thep178.com,theporn.cc,weav.xyz,x69av.cc,x88av.cc,x99av.cc##[class]:has(>a>.q-responsive)
 7itv.com##*[style*="display"][style*="block"],*[style*="position"][style*="fixed"],*[style*="bottom:"],[class$="_b"]
-7mmtv.sx,91porn.best,adultdeepfakes.com,kemono.su,missav.com,missav123.com,missav789.com,missav888.com,pornbest.com,pornbest.net,pornbest.org,porncam.cc,porncam.com,porncam.sex,pornfind.com,pornfind.net,pornfind.org,pornfind.sex,pornhk.org,pornlulu.com,pornlulu.net,ptt.com,ptt.net,ptt.sex,simplyhentai.org,thisav.com,yourlust.com##[class^="root--"]
+7mmtv.sx,91porn.best,adultdeepfakes.com,kemono.su,missav.ai,missav.com,missav.ws,missav123.com,missav789.com,missav888.com,pornbest.com,pornbest.net,pornbest.org,porncam.cc,porncam.com,porncam.sex,pornfind.com,pornfind.net,pornfind.org,pornfind.sex,pornhk.org,pornlulu.com,pornlulu.net,ptt.com,ptt.net,ptt.sex,simplyhentai.org,thisav.com,yourlust.com##[class^="root--"]
 85tube.com,camhub.cc,camhub.world,fuckit.cc,thothd.com,watchporn.to#@#.ads-iframe
 91porn.best##div[style*="center"]:has(script[src$="/ad-provider.js"])
 91porn.best,pornbest.com,pornbest.net,pornbest.org,pornfind.com,pornfind.net,pornfind.org,pornfind.sex,pornhk.org,pornlulu.com,pornlulu.net,ptt.com,ptt.net,ptt.sex##div.row.links
@@ -4605,6 +4605,7 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 ://*iyxdm.*/js/bottom_dk.js
 ://*jiezhong.*/js/f*.js$~third-party
 ://*lakanshu.*/layjs/$script,~third-party
+://*missav*/pop?url=
 ://*mp4*/js/foot.js$script,~third-party
 ://*mp4*/js/wcount.js$script,~third-party
 ://*myyyw.cc/play/*php
@@ -5691,18 +5692,22 @@ mimibiquge.com##[style="margin:0;padding:0;outline:0"]
 mimibiquge.com,mpo18.com##script + style + div[id]
 miobt.com##.gg_canvas
 miobt.com##.gg_canvas-hidden
-missav.com,missav123.com,missav789.com,missav888.com,myav.com,thisav.com##+js(nowoif)
-missav.com,missav888.com,missav123.com,missav789.com,thisav.com##.list-disc > li:has(> a[href^="https://bit.ly/"])
-missav.com,missav888.com,missav123.com,missav789.com,thisav.com##.text-nord14
-missav.com,missav888.com,missav123.com,missav789.com,thisav.com##.under_player
-missav.com,missav888.com,missav123.com,missav789.com,thisav.com##[href*="//bit.ly/"]
-missav.com,missav888.com,missav123.com,missav789.com,thisav.com##^script:has-text(htmlAds)
-missav.com,missav888.com,missav123.com,missav789.com,thisav.com##a[rel*="sponsored"]
-missav.com,missav888.com,missav123.com,missav789.com,thisav.com##div[class*="lg:hidden"]
-missav.com,missav888.com,missav123.com,missav789.com,thisav.com##div[class^="flex justify-center"]
-missav.com,missav888.com,missav123.com,missav789.com,thisav.com##iframe[src*="://creative.live.missav.com/widgets/"]
-missav.com,missav888.com,missav123.com,missav789.com,thisav.com##img[src^="https://static.missav"][data-src^="https://static.missav"][alt][class="lozad"][data-loaded="true"]
-missav.com,missav888.com,missav123.com,missav789.com,thisav.com##script:has-text(htmlAds)
+missav.ai,missav.city,missav.com,missav.loan,missav.today,missav.wiki,missav.ws,missav123.com,missav789.com,missav888.com,thisav.com##.list-disc > li:has(> a[href^="https://bit.ly/"])
+missav.ai,missav.city,missav.com,missav.loan,missav.today,missav.wiki,missav.ws,missav123.com,missav789.com,missav888.com,thisav.com##.text-nord14
+missav.ai,missav.city,missav.com,missav.loan,missav.today,missav.wiki,missav.ws,missav123.com,missav789.com,missav888.com,thisav.com##.under_player
+missav.ai,missav.city,missav.com,missav.loan,missav.today,missav.wiki,missav.ws,missav123.com,missav789.com,missav888.com,thisav.com##[href*="//bit.ly/"]
+missav.ai,missav.city,missav.com,missav.loan,missav.today,missav.wiki,missav.ws,missav123.com,missav789.com,missav888.com,thisav.com##^script:has-text(htmlAds)
+missav.ai,missav.city,missav.com,missav.loan,missav.today,missav.wiki,missav.ws,missav123.com,missav789.com,missav888.com,thisav.com##a[rel*="sponsored"]
+missav.ai,missav.city,missav.com,missav.loan,missav.today,missav.wiki,missav.ws,missav123.com,missav789.com,missav888.com,thisav.com##div[class*="lg:hidden"]
+missav.ai,missav.city,missav.com,missav.loan,missav.today,missav.wiki,missav.ws,missav123.com,missav789.com,missav888.com,thisav.com##div[class^="flex justify-center"]
+missav.ai,missav.city,missav.com,missav.loan,missav.today,missav.wiki,missav.ws,missav123.com,missav789.com,missav888.com,thisav.com##iframe[src*="://creative.live.missav"]
+missav.ai,missav.city,missav.com,missav.loan,missav.today,missav.wiki,missav.ws,missav123.com,missav789.com,missav888.com,thisav.com##img[src^="https://static.missav"][data-src^="https://static.missav"][alt][class="lozad"][data-loaded="true"]
+missav.ai,missav.city,missav.com,missav.loan,missav.today,missav.wiki,missav.ws,missav123.com,missav789.com,missav888.com,thisav.com##script:has-text(htmlAds)
+missav.ai,missav.com,missav.ws,missav123.com,missav789.com,missav888.com,myav.com,thisav.com##+js(nowoif)
+missav.ai,missav.com,missav.ws,missav123.com,missav789.com,missav888.com,thisav.com,missav.ai,missav.city,missav.loan,missav.today,missav.wiki,missav.ws,missav123.com,missav888.com,missav.ai,missav.city,missav.loan,missav.today,missav.wiki,missav.ws,missav123.com,missav888.com##.lg\:block
+missav.ai,missav.com,missav.ws,missav123.com,missav789.com,missav888.com,thisav.com,missav.ai,missav.city,missav.loan,missav.today,missav.wiki,missav.ws,missav123.com,missav888.com,missav.ai,missav.city,missav.loan,missav.today,missav.wiki,missav.ws,missav123.com,missav888.com##.lg\:hidden
+missav.ai,missav.com,missav.ws,missav123.com,missav789.com,missav888.com,thisav.com,missav.ai,missav.city,missav.loan,missav.today,missav.wiki,missav.ws,missav123.com,missav888.com,missav.ai,missav.com,missav.ws,missav123.com,missav789.com,missav888.com,myav.com##[x-show$="video_details'"] > div > .list-disc
+missav.ai,missav.com,missav.ws,missav123.com,missav789.com,missav888.com,thisav.com,missav.ai,missav.city,missav.loan,missav.today,missav.wiki,missav.ws,missav123.com,missav888.com,missav.ai,missav.com,missav.ws,missav123.com,missav789.com,missav888.com,myav.com,missav.ai,missav.ws##div[style="width: 300px; height: 250px;"]
 mobile.baidu.com##div[class*="card-recommend"]
 mobile.baidu.com##div[class^="detail-banner-"]
 moegirl.org.cn##.n-button
@@ -7357,7 +7362,9 @@ zol.com.cn##[data-bottom-fixed] > img[style]
 ||mdqikg.xyz^
 ||merwds.qwuidbn.com^$third-party
 ||miaozhen.com^$third-party
+||missav.ai/pop?url=
 ||missav.com/pop?url=
+||missav.ws/pop?url=
 ||missav123.com/pop?url=
 ||missav789.com/pop?url=
 ||misterbangingfancied.com^$third-party
