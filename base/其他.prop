@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: l0tlIU9daCWGdnHovFTnTg
+! Checksum: mOXlQGt9MD4MeMhqVbzclw
 ! Title: 自用去广告Adblock规则
-! Version: 20250131003558
-! Last modified: 2025-01-31 00:35:58
-! Total Count: 7769
+! Version: 20250131010424
+! Last modified: 2025-01-31 01:04:24
+! Total Count: 7787
 ###ADbox
 ###Ad-Container
 ###Ad-Content
@@ -3821,6 +3821,9 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 /cnzz/tongji.php
 /code/native.js?h=$script
 /config/json/cctv.json?v=1$~third-party
+/cpa/dl.js
+/cpa/gg.js
+/cpa/qq*.js
 /css/ad.
 /css/assets.html?r=0$domain=topfapgirlspics.com
 /css/click_*.js$script
@@ -3955,6 +3958,7 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 /gptprebidnative/*
 /gs/hengfu_$script
 /gtm.js?$popup
+/gu*ding.js$script,~third-party
 /html/ads/*
 /html/ads_
 /html/sponsors/*
@@ -3987,7 +3991,9 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 /js/aahome.htm
 /js/ad.js?slot=
 /js/ad_jyshe.js$third-party,script
+/js/adb.js
 /js/adb.js$third-party
+/js/adbs.js
 /js/adh5.js$~third-party
 /js/adlmb.js$third-party,script
 /js/ads.js?v=
@@ -4237,6 +4243,7 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 /staticjs/hm.js
 /statics/js/dddd.js$~third-party
 /statics/js/ding.js$~third-party,script
+/statics/js/guding.js
 /statics/js/guding.js$~third-party,script
 /t_j/tongji.js
 /tempads/*
@@ -4272,6 +4279,9 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 /templete/*/wap/js/sjgg.js$script
 /templets/*/js/couplet-ad.
 /templets/yycms3/img/*
+/tj/tj.js
+/tj/ts.js
+/tong*ji.js
 /tongji.js
 /tongji.js?
 /top-ad-
@@ -4374,6 +4384,12 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 /xxgg/xsggs.js
 /xxgg/zhhads*.js
 /yep.gif$domain=abellalist.com|doseofporn.com|freyalist.com|lizardporn.com|moozporn.com|zehnporn.com
+/yhys/bfwz*.js
+/yhys/dht.js
+/yhys/qq*.js
+/yhys/tj.js
+/yhys/xq.js
+/yhys/xqy.js
 /ylnew/*.js$image
 /zcredirect?$popup
 /zcvisitor/*$popup
@@ -4572,6 +4588,7 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 ://*.xn--*.net/y*.js$third-party,script
 ://*.yinghua*.*/bar$script,~third-party
 ://*38kanshu.net/public/*.js
+://*6080*/js/ad.js
 ://*69hsw.*/static/69shuba/69.js$script
 ://*banzhu*/js/cdn.js$script,~third-party
 ://*banzhu*/js/js4.js?$script,~third-party
@@ -7044,6 +7061,7 @@ zol.com.cn##[data-bottom-fixed] > img[style]
 ||fg.knlk2md.cn^$third-party
 ||fhn.hnw6.icu^
 ||fileinvite.top^
+||fjyftech.com/js/bottom.js
 ||fkxl.xyz^
 ||fluentfixing.com^
 ||fourier.alibaba.com^
