@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: nMIBoTn1wmwN5Widzjuw1Q
+! Checksum: amwPgaxKSz4x4Tg5QGTQIw
 ! Title: 自用去广告Adblock规则
-! Version: 20250131112917
-! Last modified: 2025-01-31 11:29:17
-! Total Count: 7794
+! Version: 20250131131750
+! Last modified: 2025-01-31 13:17:50
+! Total Count: 7795
 ###ADbox
 ###Ad-Container
 ###Ad-Content
@@ -5693,10 +5693,11 @@ mimibiquge.com##[style="margin:0;padding:0;outline:0"]
 mimibiquge.com,mpo18.com##script + style + div[id]
 miobt.com##.gg_canvas
 miobt.com##.gg_canvas-hidden
+missav.ai,missav.city,missav.com,missav.loan,missav.pw,missav.today,missav.wiki,missav.ws,missav123.com,missav789.com,missav888.com,thisav.com##.d-lg-none
+missav.ai,missav.city,missav.com,missav.loan,missav.pw,missav.today,missav.wiki,missav.ws,missav123.com,missav789.com,missav888.com,thisav.com##[href*="//bit.ly/"]
 missav.ai,missav.city,missav.com,missav.loan,missav.today,missav.wiki,missav.ws,missav123.com,missav789.com,missav888.com,thisav.com##.list-disc > li:has(> a[href^="https://bit.ly/"])
 missav.ai,missav.city,missav.com,missav.loan,missav.today,missav.wiki,missav.ws,missav123.com,missav789.com,missav888.com,thisav.com##.text-nord14
 missav.ai,missav.city,missav.com,missav.loan,missav.today,missav.wiki,missav.ws,missav123.com,missav789.com,missav888.com,thisav.com##.under_player
-missav.ai,missav.city,missav.com,missav.loan,missav.today,missav.wiki,missav.ws,missav123.com,missav789.com,missav888.com,thisav.com##[href*="//bit.ly/"]
 missav.ai,missav.city,missav.com,missav.loan,missav.today,missav.wiki,missav.ws,missav123.com,missav789.com,missav888.com,thisav.com##^script:has-text(htmlAds)
 missav.ai,missav.city,missav.com,missav.loan,missav.today,missav.wiki,missav.ws,missav123.com,missav789.com,missav888.com,thisav.com##a[rel*="sponsored"]
 missav.ai,missav.city,missav.com,missav.loan,missav.today,missav.wiki,missav.ws,missav123.com,missav789.com,missav888.com,thisav.com##div[class*="lg:hidden"]
