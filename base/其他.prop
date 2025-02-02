@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: kMQzYYkxlOC9HsRVbzcsVA
+! Checksum: 99pmB5Ok41ZjidIiOeNcCw
 ! Title: 自用去广告Adblock规则
-! Version: 20250201121644
-! Last modified: 2025-02-01 12:16:45
-! Total Count: 7795
+! Version: 20250202150256
+! Last modified: 2025-02-02 15:02:56
+! Total Count: 7800
 ###ADbox
 ###Ad-Container
 ###Ad-Content
@@ -2218,6 +2218,8 @@
 ##a[referrerpolicy="unsafe-url"][target="_blank"]
 ##a[rel="nofollow"][href][target="_blank"] > div[class^="q-responsive"]
 ##a[rel="nofollow"][href][target="_blank"] > img[rel="nofollow"][height][width][style]
+##a[rel="nofollow"][target="_blank"] > img[style="width:100%;height:120px;margin-bottom:0.5px;"]
+##a[rel="nofollow"][target="_blank"] > img[style="width:100%;height:60px;margin-bottom:0.5px;"]
 ##a[style*="width:99%"][style*="z-index:100000"][style*="block"]
 ##a[style="position:fixed;bottom:5px;width:100%;height:130px;;z-index:10000;display:block;"]
 ##a[target=" _blank"] > img[src$=".gif"][style*="width:100%"]
@@ -2228,6 +2230,7 @@
 ##a[target="_blank"][href*="/jump-"] > img[src][style]
 ##a[target="_blank"][href="/adjump/acg_show_right.html"]
 ##a[target="_blank"][href^="https://365fun.sng.link"]
+##a[title="Sjzb"][style]
 ##ad-shield-ads
 ##ad-slot
 ##amp-ad
@@ -5942,6 +5945,10 @@ quotes.sina.cn##.app-footer-sina
 quotes.sina.cn##.js-app-header
 quotes.sina.cn##[class*="callup"]
 quotes.sina.cn##[class*="wb-btn-wrap"]
+rapidtai.com,taiav.com,taimadou.com,taisinba.com##.movie-card:has(img[alt*="廣告"])
+rapidtai.com,taiav.com,taimadou.com,taisinba.com##.tai-box-mobile
+rapidtai.com,taiav.com,taimadou.com,taisinba.com##.top-phonehome
+rapidtai.com,taiav.com,taimadou.com,taisinba.com##button[onclick*="this.parentNode.parentNode.removeChild"]
 renren.pro##[class^="adj"],a[target="_blank"] > img[src$=".gif"]
 rockmods.net,rockmods.com##^script:has-text(AdBlock)
 rockmods.net,rockmods.com##script:has-text(AdBlock)
@@ -6174,8 +6181,6 @@ sv.baidu.com##.open-button-wrap
 sxyprn.com##.tbd
 sxyprn.com##div[class$="bd"]
 sxyprn.net##.tbd,.cbd
-taisinba.com,taimadou.com,rapidtai.com,taiav.com##.top-phonehome
-taisinba.com,taimadou.com,rapidtai.com,taiav.com##button[onclick*="this.parentNode.parentNode.removeChild"]
 taotu.org##img[src*="/adimages/"]
 tasexy.com##[id^="sexy_b"]
 tbssp66.top##.app,a[rel="external nofollow noopener"][target="_blank"][data-original]
