@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 04ilmOhTnU22gZlJT7u3lA
+! Checksum: e8lMQU0xjsOHHMU1i6siRA
 ! Title: 自用去广告Adblock规则
-! Version: 20250203140616
-! Last modified: 2025-02-03 14:06:16
-! Total Count: 7803
+! Version: 20250203195448
+! Last modified: 2025-02-03 19:54:48
+! Total Count: 7806
 ###ADbox
 ###Ad-Container
 ###Ad-Content
@@ -2130,6 +2130,8 @@
 ##a[href="紳士冒險"][target="_blank"]
 ##a[href="賢者同盟"][target="_blank"]
 ##a[href]  > img[alt][src^="/6666"]
+##a[href] > img[alt="HG"]
+##a[href] > img[alt="TYC"]
 ##a[href] > img[alt][src^="/static/resources/lp.php"]
 ##a[href][data-ad]
 ##a[href][rel="nofollow"] > img.nature
@@ -6886,6 +6888,7 @@ zol.com.cn##[data-bottom-fixed] > img[style]
 ||billion.kassitegamy.top^$other
 ||binqriksc.com^
 ||biqivge.cc/e*/*.js
+||biquxs.com/js/detail.js
 ||bisonads.com^
 ||bitizm.pojuko.buzz^
 ||bj-gov-cn.website^
