@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 99pmB5Ok41ZjidIiOeNcCw
+! Checksum: 04ilmOhTnU22gZlJT7u3lA
 ! Title: 自用去广告Adblock规则
-! Version: 20250202150256
-! Last modified: 2025-02-02 15:02:56
-! Total Count: 7800
+! Version: 20250203140616
+! Last modified: 2025-02-03 14:06:16
+! Total Count: 7803
 ###ADbox
 ###Ad-Container
 ###Ad-Content
@@ -5978,6 +5978,9 @@ search.yahoo.com,yahoo.com##.searchCenterTopAds
 send-anywhere.com###gpt-container
 sewen.buzz,sewen.com,sewen.life,sewen.net,sewen.top,sewen.xyz,sewen4.top,sewen7.com,sewen7.life,sewen7.top,sewen8.life,sewen8.net,sewen8.top##img[src*=".xyz/"][src*="16"],[style*="bottom: 0px; left: 0px; z-index:"][style*="100vw;"],.hotcmd-box,.links-top,table[border="1"]
 sexmod.pw,md91av.top,twavbook999.cc,siaoredbook.cc,mitaonuhai.cc,gipinreba.cc,r18lumod.cc##[class*="topads"],[class*="tads"],[class*="bottomads"],[class*="bads"],[class*="leftd"],[class*="rightd"],a[target="_blank"][href][onclick]
+sexygirl.cc##.overflow-auto:has(script[src$="/invoke.js"])
+sexygirl.cc##.overflow-auto:has(script[src*="/ad-provider.js"])
+sexygirl.cc##.overflow-auto:has(script[src*="jads"])
 shushudu.com##[style*="width:"][style*="100%"],[style*="width:"][style*="99%"],[width*="99%"],[width*="100%"],div[class][style*="display: block;"][style*="131px;"],div[class][style*="width: 100%;"][style*="131px;"],div[class][style*="z-index: 2147483646;"][style*="131px"],div[class][style*="position: fixed;"][style*="131px"]
 shzsmy.net##div[style="margin:0 auto;"] 
 shzsmy.net,jjdy8.cc##.tp_advertising
