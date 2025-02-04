@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: WJgQ8AYRCkXh5h1MpQa6lw
+! Checksum: FK+tzswb0d8zK7paSKRWFw
 ! Title: 自用去广告Adblock规则
-! Version: 20250204161154
-! Last modified: 2025-02-04 16:11:54
-! Total Count: 7828
+! Version: 20250204183348
+! Last modified: 2025-02-04 18:33:48
+! Total Count: 7830
 ###ADbox
 ###Ad-Container
 ###Ad-Content
@@ -2241,6 +2241,7 @@
 ##a[title="博万体育"]
 ##a[title="大发赌场"]
 ##a[title="威尼斯人"]
+##a[title="官方新葡京"]
 ##a[title="官方皇冠"]
 ##a[title="开元官方"]
 ##a[title="开元棋牌"]
@@ -4277,6 +4278,7 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 /template/*/lele36.html
 /template/1/images/t2.gif
 /template/ad.
+/template/assets1/js/fk.js$~third-party
 /template/bingfeng/statics/js/pingbi.js
 /template/blank/yk/sdo.js
 /template/chiav/img/*.mp4
