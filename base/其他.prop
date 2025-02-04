@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: e8lMQU0xjsOHHMU1i6siRA
+! Checksum: qKjnRoQiGjCo6xCZiTAcSQ
 ! Title: 自用去广告Adblock规则
-! Version: 20250203195448
-! Last modified: 2025-02-03 19:54:48
-! Total Count: 7806
+! Version: 20250204121731
+! Last modified: 2025-02-04 12:17:31
+! Total Count: 7810
 ###ADbox
 ###Ad-Container
 ###Ad-Content
@@ -2102,6 +2102,7 @@
 ##a[href="/goto.php?url=hth"]
 ##a[href="/ht.html"]
 ##a[href="/lht.html"]
+##a[href="/play/pf.php"]
 ##a[href="/runtime/baidu.html"]
 ##a[href="/static/xzgg/index.html"]
 ##a[href="http://52199.vip"]
@@ -2762,6 +2763,7 @@
 ##img[src*="新葡京送"]
 ##img[src="/apijs/image/960x100.gif"]
 ##img[src="/play/tu.php"]
+##img[src="/tu.php"]
 ##img[src][style*="width:100%;height:auto;"][id^="hengfu"]
 ##img[src^="//"][src*="/safu/safu.php?"]
 ##img[src^="/6666/"][alt]
@@ -7300,6 +7302,7 @@ zol.com.cn##[data-bottom-fixed] > img[style]
 ||jsjtjj.xyz^
 ||jsvmkcpnpnbepp.cccsccn.com^
 ||juicyads.com^
+||jywyu.com/static/main.js
 ||kairuxinxi.xyz^$third-party
 ||kanjuw.net/js/js*.js
 ||kcieo.xyz^$third-party
@@ -7342,6 +7345,7 @@ zol.com.cn##[data-bottom-fixed] > img[style]
 ||limbievireos.com^
 ||limurol.com^$third-party
 ||listeamed.net^
+||liudarexian.com/moon/*25.js
 ||ln.tian-ting.ink^
 ||log.m.sm.cn^
 ||lorswhowishe.com^
