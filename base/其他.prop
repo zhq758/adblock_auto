@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: qKjnRoQiGjCo6xCZiTAcSQ
+! Checksum: WJgQ8AYRCkXh5h1MpQa6lw
 ! Title: 自用去广告Adblock规则
-! Version: 20250204121731
-! Last modified: 2025-02-04 12:17:31
-! Total Count: 7810
+! Version: 20250204161154
+! Last modified: 2025-02-04 16:11:54
+! Total Count: 7828
 ###ADbox
 ###Ad-Container
 ###Ad-Content
@@ -2233,7 +2233,24 @@
 ##a[target="_blank"][href*="/jump-"] > img[src][style]
 ##a[target="_blank"][href="/adjump/acg_show_right.html"]
 ##a[target="_blank"][href^="https://365fun.sng.link"]
+##a[title="51直播"]
+##a[title="77直播"]
+##a[title="PG电子"]
 ##a[title="Sjzb"][style]
+##a[title="五彩堂"]
+##a[title="博万体育"]
+##a[title="大发赌场"]
+##a[title="威尼斯人"]
+##a[title="官方皇冠"]
+##a[title="开元官方"]
+##a[title="开元棋牌"]
+##a[title="杏吧直播"]
+##a[title="正版开元"]
+##a[title="澳门太阳城"]
+##a[title="澳门银河"]
+##a[title="皇冠"]
+##a[title^="PG娱乐"]
+##a[title^="澳门新葡京"]
 ##ad-shield-ads
 ##ad-slot
 ##amp-ad
@@ -2778,6 +2795,7 @@
 ##img[src^="https://bejjci.twqtf.boats"]
 ##img[src^="https://cdn.lilongfei.cn"]
 ##img[src^="https://img"][src*="//upload/"][src$=".js"]
+##img[src^="https://imgsa.baidu.com/forum/pic/item"][style*="cursor:pointer"]
 ##img[src^="https://imgsrc.baidu.com/forum/pic/item/"][class]
 ##img[src^="https://imgsrc.baidu.com/forum/pic/item/"][onclick]
 ##img[src^="https://pic.lsddkd.com:"]
