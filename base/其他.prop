@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: FK+tzswb0d8zK7paSKRWFw
+! Checksum: paJdwTpQOb4Kgz+QpllCHQ
 ! Title: 自用去广告Adblock规则
-! Version: 20250204183348
-! Last modified: 2025-02-04 18:33:48
+! Version: 20250204191431
+! Last modified: 2025-02-04 19:14:31
 ! Total Count: 7830
 ###ADbox
 ###Ad-Container
@@ -4764,7 +4764,7 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 @@/wp-content/plugins/blockalyzer-adblock-counter/*$image,script,~third-party,domain=~gaytube.com|~pornhub.com|~pornhubthbh7ap3u.onion|~redtube.com|~redtube.com.br|~tube8.com|~tube8.es|~tube8.fr|~xtube.com|~youjizz.com|~youporn.com|~youporngay.com
 @@1anime.me/template/conch/asset/js/hlhtml.
 @@://*.*.xyz/*/*-*-*-*/$third-party,domain=njav.xyz
-@@://*.*.xyz/videos/*-*-*-*/cover
+@@://*.*.xyz/videos/*-*-*-*/
 @@://*/static/ad/main.js
 @@://*cdn.com$domain=forums.socialmediagirls.com|pornhub.com|redtube.com|tube8.com|youporn.com|youporngay.com
 @@://css.yhdmtu.xyz$image,third-party
