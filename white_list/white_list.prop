@@ -132,6 +132,9 @@ bilibili\.com##\.is-rcmd[[:space:]]>[[:space:]]div:only-child$
 ^\|\|html-load\.com\^
 ! 搜狐误杀
 ^\/api\/blockdata\$domain\=sohu\.com$
+! cqshuda.com
+^\|\|cqshuda\.com\/template\/conch\/asset\/js\/conch\.vip\.js$
+
 
 
 
