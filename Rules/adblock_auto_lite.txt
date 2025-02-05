@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Checksum: vT5EwHAhDvQOCfLMDUYjGw
-! Title: 混合规则精简版(更新日期2025-02-05 00:13:55)
-! Version: 20250205001355
+! Checksum: OTh+d1YWJaFJcsMKDvgPNg
+! Title: 混合规则精简版(更新日期2025-02-05 08:44:51)
+! Version: 20250205084452
 ! Expires: 12 hours (update frequency)
-! Last modified: 2025-02-05 00:13:55
-! Total Count: 47356
-! Blocked Filters: 47356
+! Last modified: 2025-02-05 08:44:52
+! Total Count: 47365
+! Blocked Filters: 47365
 ! Description: 合并于各种知名的Adblock规则，适用于移动端轻量的浏览器，例如 VIA / Rian / B仔浏览器
 ! Homepage: https://lingeringsound.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
@@ -3280,7 +3280,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 |javascript:*window.location
 !<<<<<通配符规则 结束>>>>>
 
-!<<<<<域名规则>>>>>30281
+!<<<<<域名规则>>>>>30290
 |http*://*?$third-party,domain=forums.socialmediagirls.com|pornhub.com|redtube.com|tube8.com|youporn.com|youporngay.com
 |http://$image,third-party,domain=pornhub.com|redtube.com|redtube.net|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com|you-porn.com|youpornru.com|youporn.fyi
 |https://m.frgls.com/js/*.js?v=
@@ -4143,6 +4143,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||2440.lootynews.com^
 ||2441.luronews.com^
 ||2441.rookinews.com^
+||2443march2024.com^
 ||2445.lootynews.com^
 ||2449march2024.com^
 ||2451.5clo0xmbf.com^
@@ -10018,6 +10019,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||benpsbp.com^
 ||benrif-solutions.com^
 ||bensonshowd.com^
+||benue.site^
 ||benumelan.com^
 ||beonixom.com^
 ||bepansaer.com^
@@ -12523,6 +12525,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||covivado.club^
 ||cowcuo.xyz^
 ||cowm199.com^
+||cowsonbaggara.shop^
 ||cowtpvi.com^
 ||cowtransfer.com/api/generic/backgrounds
 ||coymaybong.shop^
@@ -13764,6 +13767,8 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||digitalthrottle.com^$third-party
 ||digitaltrends.com/wp-content/themes/dt-stardust/assets/scripts/js/dt-ads-manager.min.js
 ||digitklosh.top^
+||diingsinspiringtg.com^
+||dikersballo.shop^
 ||dilatenine.com^
 ||dilidili*.com/js/wap2-jm-ms.js$script
 ||dilowhang.com^
@@ -14342,6 +14347,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||dugraukeeck.net^
 ||dugrurdoy.com^
 ||duiwai.baidu.com^
+||dukerationpecial.com^
 ||dukingdraon.com^
 ||dukirliaon.com^
 ||duksomsy.com^
@@ -16943,6 +16949,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||gpqkeq.xyz^
 ||gpsecureads.com^
 ||gpt.mail.yahoo.net/sandbox$subdocument,domain=mail.yahoo.com
+||gpt.throatbulge.com^
 ||gpxz.com/js2/
 ||gqalqi656.com^
 ||gqrvpwdps.com^
@@ -21728,6 +21735,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||menacehabit.com^
 ||menepe.com^
 ||menews.org^
+||mengozia.xyz^
 ||meniscisacbut.top^
 ||mentallyissue.com^
 ||mentionideablit.com^
@@ -31197,6 +31205,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||vxotu.com/i/*.gif
 ||vxpdfb.xyz^
 ||vxpnld.icu^
+||vyhpoooamxdhmg.com^
 ||vyrpoe.cn^
 ||vyxanrtgkrbsbl.com^
 ||vz.7vid.net^
