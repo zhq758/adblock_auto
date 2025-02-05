@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: paJdwTpQOb4Kgz+QpllCHQ
+! Checksum: vNEEmTaTPhc8p3j5019IFg
 ! Title: 自用去广告Adblock规则
-! Version: 20250204191431
-! Last modified: 2025-02-04 19:14:31
+! Version: 20250205235514
+! Last modified: 2025-02-05 23:55:14
 ! Total Count: 7830
 ###ADbox
 ###Ad-Container
@@ -4796,6 +4796,7 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 @@||camerabay.tv/ads/entry/camerabay/fullbk/bg.jpg
 @@||camsexvideo.net/js/advertising.js
 @@||cloudfront.net^$domain=portmiamiwebcam.com|mecox.wpengine.com|rethmic.com|soap2day.ai|nationalreview.com|bitly.com|hotslogs.com|webupd8.org|heatworld.com|streamingcommunity.tech|blog.wiki-topia.com|ksl.com|anime1.me|assistant.etxlzb.com|gualaoshi.org|bitbucket.org|laoshigua.com
+@@||cqshuda.com/template/conch/asset/js/conch.vip.js$domain=cqshuda.com
 @@||cre.dp.sina.cn^
 @@||d13nu0oomnx5ti.cloudfront.net^$domain=rethmic.com
 @@||d1ayxb9ooonjts.cloudfront.net/bitly2/$domain=bitly.com
@@ -6998,7 +6999,6 @@ zol.com.cn##[data-bottom-fixed] > img[style]
 ||cowcuo.xyz^
 ||cpmrevenuegate.com^
 ||cpro.baidustatic.com^
-||cqshuda.com/template/conch/asset/js/conch.vip.js
 ||creative.ohmycams.com^
 ||creative.xlirdr.com^
 ||creative.xlivrdr.com^
