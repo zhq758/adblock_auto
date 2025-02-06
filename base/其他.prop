@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: FE6Z1v7lcID7KEqS3J2e7Q
+! Checksum: A2Giwf2/S4SZuTPY2rjvcw
 ! Title: 自用去广告Adblock规则
-! Version: 20250206193606
-! Last modified: 2025-02-06 19:36:07
-! Total Count: 7835
+! Version: 20250206223320
+! Last modified: 2025-02-06 22:33:20
+! Total Count: 7840
 ###ADbox
 ###Ad-Container
 ###Ad-Content
@@ -5491,6 +5491,11 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##.result-op[tpl="ga
 ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##div:not([id]) > style[id^="s-"] + style + div + div[id]
 ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##div[id$="_canvas"],div[id^="ecl-pc-game-"]
 ipv6.baidu.com,xueshu.baidu.com,www.baidu.com,www1.baidu.com##.c-container:has(.t > a[data-landurl])
+itdog.cn##+js(no-setTimeout-if, adblock_tip)
+itdog.cn##.gg_link
+itdog.cn##.lantern_left
+itdog.cn##.link_gg
+itdog.cn##.pic_gg
 itingshu.net###aabbox
 itingshu.net##div[id][style]:not([class]):has(a[href*="/c.php?s"])
 iyar.com.cn,m4411.com##[class][style*="131px"]
