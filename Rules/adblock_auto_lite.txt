@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Checksum: 4R2laT1m1Kx2RmHVGaQM3w
-! Title: 混合规则精简版(更新日期2025-02-06 00:14:36)
-! Version: 20250206001436
+! Checksum: 45v7Fzocm/gpfO96XGFdUw
+! Title: 混合规则精简版(更新日期2025-02-06 08:45:31)
+! Version: 20250206084532
 ! Expires: 12 hours (update frequency)
-! Last modified: 2025-02-06 00:14:36
-! Total Count: 47431
-! Blocked Filters: 47431
+! Last modified: 2025-02-06 08:45:32
+! Total Count: 47441
+! Blocked Filters: 47441
 ! Description: 合并于各种知名的Adblock规则，适用于移动端轻量的浏览器，例如 VIA / Rian / B仔浏览器
 ! Homepage: https://lingeringsound.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
@@ -3276,7 +3276,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 |javascript:*window.location
 !<<<<<通配符规则 结束>>>>>
 
-!<<<<<域名规则>>>>>30357
+!<<<<<域名规则>>>>>30367
 |http*://*?$third-party,domain=forums.socialmediagirls.com|pornhub.com|redtube.com|tube8.com|youporn.com|youporngay.com
 |http://$image,third-party,domain=pornhub.com|redtube.com|redtube.net|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com|you-porn.com|youpornru.com|youporn.fyi
 |https://m.frgls.com/js/*.js?v=
@@ -6025,6 +6025,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||999xs.com/safari.php
 ||999xx333kk.com^
 ||999xx999kk.com^
+||99ads.net^$third-party
 ||99danji.com/kchtml/
 ||99ef5999fe.ff73564366.com^
 ||99jinpin.com^
@@ -8858,6 +8859,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||api.mediation.amberweather.com^
 ||api.mobula.ds.duapps.com^
 ||api.mobula.sdk.duapps.com^
+||api.myadsget.com^
 ||api.newsfeed.intl.miui.com^
 ||api.ngamgaixinh.art^
 ||api.nivodz.com/commercial/incr/
@@ -8869,6 +8871,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||api.smartnews-ads.com^
 ||api.sociaplus.com^$third-party
 ||api.sorunapp.com^$third-party
+||api.sve.cc^
 ||api.taboola.com/*/recommendations.get^
 ||api.taboola.com/*/recommendations.multiple-get^
 ||api.tinyhoneybee.com/api/getADConfig
@@ -8879,6 +8882,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||api.vebo.xyz/api/a/vebotv^
 ||api.wudizuqiu.com/72nba
 ||api.wudizuqiu.com/bocai.js
+||api.youngle.tech^
 ||api168168.com^
 ||api2.appscraft.mobi/banner/get_banners.php
 ||api2.clickaine.com^
@@ -9073,6 +9077,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||asdasdad.net^
 ||asdfdr.cfd^
 ||asdpoi.com^
+||asensoithecb.com^
 ||aserve1.net^
 ||asewlfjqwlflkew.com^
 ||asextube.net^$third-party
@@ -10025,6 +10030,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||benefitssheasha.com^
 ||benelph.de^
 ||benesse.ne.jp/*/banner/line_account_2111_600x514
+||beniluuxen.com^
 ||benoopto.com^
 ||benpsbp.com^
 ||benrif-solutions.com^
@@ -10319,6 +10325,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||bjxfnn.xyz^
 ||bjxty88.com/js/foot.js
 ||bjzankai.com^$script,third-party
+||bk-xctgdnf.life^
 ||bkdp*.xyz^$~third-party
 ||bkill.com/css/js/*top
 ||bkill.com/css/js/abcbl.js
@@ -21130,6 +21137,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||lucrinearraign.com^
 ||ludicrousarch.com^$third-party
 ||ludsaichid.net^
+||lukyday.xyz^
 ||lulgef.icu^
 ||lumberamount.com^$third-party
 ||luminousboulevard.com^
@@ -23507,6 +23515,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||onscreens.me/js/ca.*.js
 ||onstunkyr.com^
 ||ontreck.cyou^
+||ontrklnk.com^
 ||onvictinitor.com^
 ||onx8.com/theme/tange/add/
 ||onx8.com/zb_users/theme/ydgreen/style/ad/
@@ -31929,6 +31938,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||wrsikq.xyz^
 ||wrufer.com^
 ||wrutvnce.top^
+||ws.kora-api.top/api/ads
 ||ws.wenshenxiu.com^
 ||wsacjdg.cn^
 ||wsadad.cn^
