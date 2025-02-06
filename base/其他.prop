@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: vNEEmTaTPhc8p3j5019IFg
+! Checksum: FE6Z1v7lcID7KEqS3J2e7Q
 ! Title: 自用去广告Adblock规则
-! Version: 20250205235514
-! Last modified: 2025-02-05 23:55:14
-! Total Count: 7830
+! Version: 20250206193606
+! Last modified: 2025-02-06 19:36:07
+! Total Count: 7835
 ###ADbox
 ###Ad-Container
 ###Ad-Content
@@ -961,6 +961,9 @@
 ##.content-advertisment
 ##.cpcad.nopc
 ##.custom_link-wrapper.banner-grid-container
+##.d-flex.justify-content-center.my-1
+##.d-flex.justify-content-center.my-2
+##.d-flex.justify-content-center.my-3
 ##.dartiframe
 ##.dbhf
 ##.detail-list-title > a.text_span.gotoclick
@@ -4736,6 +4739,7 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 ://vlets.*.xyz$third-party
 ://xxsmad*.com
 ://yin*.zgpingshu.com
+://yunyunyun$domain=hhh806.com
 =AdCode_$third-party
 =AdCode_sjdb$third-party
 =AdCode_sjtb&$third-party
@@ -5701,6 +5705,7 @@ m4411.com##[style*="131px"],.adlists
 madou.club##a[href*="//www.pssy.xyz"]
 madou.club##a[href*="www.pssy.xyz"]
 madou.club##a[href][target="_blank"][rel="nofollow noopener"]
+madouvideo.org##div.d-flex:has(> iframe[frameborder="no"][scrolling="no"])
 maigoo.com##[class*="ads"]
 manga168.com,manga168.net###ads_fox_bottom
 mat6tube.com##.main > .c_video > .container > [style]:not(.video_player)
