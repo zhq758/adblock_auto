@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: A2Giwf2/S4SZuTPY2rjvcw
+! Checksum: 4TSbv3sSrrcuExGbXVF47A
 ! Title: 自用去广告Adblock规则
-! Version: 20250206223320
-! Last modified: 2025-02-06 22:33:20
-! Total Count: 7840
+! Version: 20250208165919
+! Last modified: 2025-02-08 16:59:19
+! Total Count: 7841
 ###ADbox
 ###Ad-Container
 ###Ad-Content
@@ -5753,6 +5753,7 @@ mobile.baidu.com##div[class^="detail-banner-"]
 moegirl.org.cn##.n-button
 momxs.com##body > script + span
 momxs.com##div#inglestore
+moonshot.cn#@#body > script + .app
 mparticle.uc.cn##[class^="index"][class*="block"]
 mparticle.uc.cn##[class^="index"][class*="loading"]
 mparticle.uc.cn##[class^="index"][class*="moreContainerParent"]
