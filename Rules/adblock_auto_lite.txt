@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Checksum: ksV5SgcK7JPWQT2kJQRFUw
-! Title: 混合规则精简版(更新日期2025-02-09 16:14:28)
-! Version: 20250209161428
+! Checksum: ELqqiBY7NKLO/G3qcqg8kg
+! Title: 混合规则精简版(更新日期2025-02-10 00:11:55)
+! Version: 20250210001155
 ! Expires: 12 hours (update frequency)
-! Last modified: 2025-02-09 16:14:28
-! Total Count: 48223
-! Blocked Filters: 48223
+! Last modified: 2025-02-10 00:11:55
+! Total Count: 48231
+! Blocked Filters: 48231
 ! Description: 合并于各种知名的Adblock规则，适用于移动端轻量的浏览器，例如 VIA / Rian / B仔浏览器
 ! Homepage: https://lingeringsound.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
@@ -3258,7 +3258,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 |javascript:*window.location
 !<<<<<通配符规则 结束>>>>>
 
-!<<<<<域名规则>>>>>31144
+!<<<<<域名规则>>>>>31151
 |http*://*?$third-party,domain=forums.socialmediagirls.com|pornhub.com|redtube.com|tube8.com|youporn.com|youporngay.com
 |http://$image,third-party,domain=pornhub.com|redtube.com|redtube.net|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com|you-porn.com|youpornru.com|youporn.fyi
 |https://m.frgls.com/js/*.js?v=
@@ -3511,6 +3511,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||103.224.182.210^
 ||1037.huronews.com^
 ||104.199.8.250^*/webservices/getDialogAdDetails.php
+||1069jp.com/js/script_
 ||107.167.16.*.gif
 ||107.167.22.*.gif
 ||1070.jemonews.com^
@@ -10811,6 +10812,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||brookredheadpowerfully.com^
 ||brookssa.com^
 ||broredir1s.site^
+||brornaeq.com^
 ||brotherslocket.com^$third-party
 ||broworker4s.com^
 ||broworker6s.com^
@@ -16278,6 +16280,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||frugalseck.com^
 ||fruitdiscovery.com^
 ||frutrun.com^$third-party
+||fs-loader.com^
 ||fsclzs.com/Ad_User/
 ||fsdf45.fun^
 ||fshare.vn/lib/jwplayer/jwplayer.js
@@ -20927,6 +20930,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||ldb.cc/js/top.js
 ||ldbqxwbqdz.com^
 ||ldgjwdohqbi.xyz^
+||ldinmal.top^
 ||ldipsuml.top^
 ||ldjfsdku.icu^
 ||ldjudcpc-qxm.icu^
@@ -23684,6 +23688,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||oddsserve.com^
 ||odeecmoothaith.net^
 ||odemonstrat.pro^
+||odinmak.top^
 ||odintsures.click^
 ||odipsumk.top^
 ||odnaknopka.ru^
@@ -24631,6 +24636,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||pelamydlours.com^
 ||peliculas8k.com/TV/encriptador/adblocknuevo.js
 ||pelis-123.org^
+||pelisfree.site/js/script_
 ||pemsrv.com^
 ||penaikaucmu.net^
 ||penglue.jp^$third-party
@@ -31174,6 +31180,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||unpkg.com/hjadu/
 ||unpkg.com/sejie
 ||unpkg.com/videojs-vast-vpaid$domain=video.q34r.org|korall.xyz|porntoday.ws|netuplayer.top|wiztube.xyz|netu.ac|zerknij.cc|speedporn.net|chillicams.net|meucdn.vip|yandexcdn.com|waaw1.tv|waaw.*|czxxx.org|hqq.*|peliculas8k.com|filme-romanesti.ro|tikzoo.xyz|gledajvideo.top|playerhd.org|ntvid.online|rpdrlatino.live|vertelenovelasonline.com|1069jp.com|diziturk.club|stbnetu.xyz|mundosinistro.com|younetu.org|playvideohd.com|vzlinks.com|javboys.cam|xz6.top|fsohd.pro|playertoast.cloud|pupupul.site|shitcjshit.com|cinecalidad.vip|fansubseries.com.br|vapley.top|player.streaming-integrale.com|rpdrlatino.com|xtapes.to|player.igay69.com|troncha.lol|vpge.link|opuxa.lat|ztnetu.com|filmcdn.top|asdasd1231238das.site|tmdbcdn.lat|stbpnetu.xyz|pokemonlaserielatino.xyz|gayvidsclub.com|zarato.top|videocdnal24.xyz|play.seriesgod.com|pelisfree.site
+||unpkg.com/videojs-vast-vpaid@
 ||unpuredriveted.com^
 ||unrealversionholder.com^
 ||unrebelasterin.com^
@@ -42899,7 +42906,7 @@ zzz.gamers-luck.com##.gamer-sp_postbottom
 zzztube.com,videoporn.tube##.b-random-column
 !<<<<<网站单独规则 结束>>>>>
 
-!<<<<<通用Css规则>>>>>4336
+!<<<<<通用Css规则>>>>>4337
 ###ADbox
 ###ADtip
 ###Ad-Container
@@ -46225,6 +46232,7 @@ zzztube.com,videoporn.tube##.b-random-column
 ##a[href*="/bjty96.vip"]
 ##a[href*="/d27.tv"]
 ##a[href*="/direct/stripchat"]
+##a[href*="/dk35.cc"]
 ##a[href*="/dsf66.cc"]
 ##a[href*="/dsf71.cc"]
 ##a[href*="/dsf88.cc"]
