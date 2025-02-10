@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Checksum: ELqqiBY7NKLO/G3qcqg8kg
-! Title: 混合规则精简版(更新日期2025-02-10 00:11:55)
-! Version: 20250210001155
+! Checksum: 98HuuZnqctAteZQRgKt4Dw
+! Title: 混合规则精简版(更新日期2025-02-10 08:45:27)
+! Version: 20250210084527
 ! Expires: 12 hours (update frequency)
-! Last modified: 2025-02-10 00:11:55
-! Total Count: 48231
-! Blocked Filters: 48231
+! Last modified: 2025-02-10 08:45:27
+! Total Count: 48242
+! Blocked Filters: 48242
 ! Description: 合并于各种知名的Adblock规则，适用于移动端轻量的浏览器，例如 VIA / Rian / B仔浏览器
 ! Homepage: https://lingeringsound.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
@@ -3258,7 +3258,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 |javascript:*window.location
 !<<<<<通配符规则 结束>>>>>
 
-!<<<<<域名规则>>>>>31151
+!<<<<<域名规则>>>>>31162
 |http*://*?$third-party,domain=forums.socialmediagirls.com|pornhub.com|redtube.com|tube8.com|youporn.com|youporngay.com
 |http://$image,third-party,domain=pornhub.com|redtube.com|redtube.net|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com|you-porn.com|youpornru.com|youporn.fyi
 |https://m.frgls.com/js/*.js?v=
@@ -4676,6 +4676,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||4586.reminews.com^
 ||4595.lookinews.com^
 ||4599.lootynews.com^
+||460e19ebd6.com^
 ||4614.lootynews.com^
 ||4623.reminews.com^
 ||4654.reminews.com^
@@ -4889,6 +4890,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||52tian.net^*/xuanfu.js
 ||52waha.com/static/js/func_bbs.js
 ||52wmb.com/2014js/cn_
+||52xkdy.com/pmc/
 ||52z.com/images/52zgg/
 ||52zpi.com/gg/
 ||52zy.com/other/js/
@@ -15285,6 +15287,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||esfwkjsim.com^
 ||eshkol.io^
 ||eshkol.one^
+||esihighlyrecomemu.com^
 ||eskimi.com^
 ||eskux.xyz^
 ||eslp34af.click^
@@ -19470,6 +19473,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||ix2.deepsexvids.com^
 ||ix4.icu^
 ||ixbua.xyz^
+||ixkw3.cc/wp-content/themes/wpMyTube/assets/js/mobile.
 ||ixspublic.com^$third-party
 ||ixstng.cn^
 ||ixsw.org/*/*.js
@@ -19885,6 +19889,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||jmty.jp/s/geniee/
 ||jmydm.com/jspage/ftt.js
 ||jnalzla.top^
+||jncdvibhdaddmu.com^
 ||jnifdlaa.top^
 ||jnlc.com/www/fund/newsmarket
 ||jnmami.cn^
@@ -23379,6 +23384,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||nooo.tv/theme/basic/img/banner
 ||noouplit.com^
 ||noowoochuveb.net^
+||nopalsoxid.shop^
 ||nope.xn--mgbkt9eckr.net^
 ||noptog.com^
 ||nordpresse.be/wp-content/uploads/$script
@@ -23537,6 +23543,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||nwecd.xyz^$third-party
 ||nwemnd.com^
 ||nweon.com/wp-content/repo/ad/
+||nwhnzkbfsnpf.com^
 ||nwmnd.com^
 ||nwqandxa.com^
 ||nwseiihafvyl.com^
@@ -23831,6 +23838,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||olopruy.com^
 ||olpoxumbkput.com^
 ||olqead.com^
+||olxxugltoku.com^
 ||olympuscracowe.shop^
 ||om.cn/api/ad-om/
 ||omapi.fangraphs.com^
@@ -29205,6 +29213,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||straightnest.com^$third-party
 ||strainemergency.com^
 ||straitchangeless.com^
+||strakuty.com^
 ||strangeclocks.com^
 ||strangesink.com^$third-party
 ||strap.domain.com.au^$domain=theage.com.au
@@ -33719,6 +33728,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||yinghuavideo.com/bar/
 ||yingshizxw.com/js/tc/
 ||yingyangdj.com^$~third-party
+||yinteukrestinafu.com^
 ||yinyouapp.com^
 ||yiparts.com/Chance.php?aid=
 ||yiqifa.com^$subdocument
@@ -34100,6 +34110,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||zcfhi.cn.com^
 ||zcode12.me^
 ||zcode7.me^
+||zcrddj.icu^
 ||zcswet.com^
 ||zcypmsp.icu^
 ||zdcj.net/html/weibo
