@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: aSU6w164jupm9WbBrW5gNQ
+! Checksum: bid4+IU+d/FRGaB76KBv/Q
 ! Title: 去除小说广告
-! Version: 20250211113427
-! Last modified: 2025-02-11 11:34:27
-! Total Count: 164
+! Version: 20250212032312
+! Last modified: 2025-02-12 03:23:12
+! Total Count: 167
 ###ChapterView > .slide-baidu
 ##.ReadAd
 ##.ReadAd2
@@ -161,6 +161,9 @@
 ||51.la^$third-party
 ||6v6.work^$third-party
 ||byjdg.xyz^$third-party
+||deqixs.com/config/tj.js
+||deqixs.com/config/v7.js
+||deqixs.com/js/jquery.art.js
 ||fangzie.com/js/ga
 ||feiln.xyz^$third-party
 ||mahuashu.com/entry.js

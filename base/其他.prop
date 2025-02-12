@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 4TSbv3sSrrcuExGbXVF47A
+! Checksum: TI3DmJOrCG2woSoF3XNetw
 ! Title: 自用去广告Adblock规则
-! Version: 20250208165919
-! Last modified: 2025-02-08 16:59:19
-! Total Count: 7841
+! Version: 20250212154749
+! Last modified: 2025-02-12 15:47:49
+! Total Count: 7850
 ###ADbox
 ###Ad-Container
 ###Ad-Content
@@ -2968,6 +2968,7 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 .cn/*.txt$third-party,domain=1anime.me
 .cn/20*/*/*.txt$third-party
 .cn/Report/*-*-$third-party,other
+.cn/TA*.js?17$third-party,script
 .cn/TC/*/*.gif$third-party,image
 .cn/YC/*/*.gif$third-party,image
 .cn/YL/*/*.gif$third-party,image
@@ -2976,6 +2977,7 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 .cn/api/LM/GetBaiDuCode?placeUUID=$third-party
 .cn/api/getPos?jspath=/$~third-party
 .cn/bokan/bokan.js$script
+.cn/by*.js?17$third-party,script
 .cn/cg/*-*.cg$third-party
 .cn/dh/*/*.gif$third-party,image
 .cn/dl/*/*.gif$third-party,image
@@ -3130,14 +3132,17 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 .com:*/*.js?v=17$third-party
 .com:*/*v=17$third-party,domain=dy131.org|6vdy.tv
 .com:*/adduv_*_*_*$third-party
+.com:*/angular.js?v=$third-party
 .com:*/api/v4/*?*=$third-party
 .com:*/api/v4/g?kyurl=$third-party
 .com:*/c.php?s=
 .com:*/ck*/get*.html$third-party
 .com:*/d/*?t=
 .com:*/effect.php?type=*=*&zoneid=*
+.com:*/jquery.js?v=$third-party
 .com:*/mnrt/*.json
 .com:*/o.js$third-party
+.com:*/react.js?v=$third-party
 .com:*/sc/*?n=$third-party
 .com:*/sc/*?x=$third-party
 .com:*/stats/*/*?*=*&host=$third-party
@@ -4588,7 +4593,10 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 ://*.*.*:*/vj*/$domain=omofun.buzz|omofun.link|omofun.live|omofun.top|omofuns.buzz|omofuns.link|omofuns.live|omofuns.top
 ://*.*.xyz/*/*-*-*-*/$third-party
 ://*.*.xyz:*/*/*-*-*-*/$third-party
+://*.*/*.js$third-party,domain=123dua.com|bamxs.com|bokanx.com|bqvvxg8.cc|rz2024b.com|wolaidu1.com
 ://*.*/*mk?ssid=$third-party
+://*.*/TA*.js?17$third-party,domain=rz2024b.com
+://*.*/by*.js?17$third-party,domain=rz2024b.com
 ://*.*/js/js4.js?v=$~third-party
 ://*.*27txt.com/*/*.js$~third-party
 ://*.*27txt.com/xi.js$~third-party
@@ -6071,6 +6079,7 @@ sm.cn##div[id^="dl-banner-"]
 sm.cn,yz.m.sm.cn##a[href*="sm.cn/adclick?"]
 sm.cn,yz.m.sm.cn##div[id*="_Shopping_Etao_"]
 sm.cn,yz.m.sm.cn##div[id^="ad_ele_"]
+smartapps.baidu.com##[id="swan-ad-render-"]
 smyy361.com##ul.stui-content__playlist.clearfix > li[style="display: block;"]
 so.com###bnbtm-banner
 so.com###bqPromote

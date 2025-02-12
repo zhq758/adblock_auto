@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 7KJAuhPYEdcr2ZNYQaxG3g
+! Checksum: MSL0H8o840Atud5luMaBug
 ! Title: 拦截黄色网站转跳
-! Version: 20250109232505
-! Last modified: 2025-01-09 23:25:05
+! Version: 20250204191812
+! Last modified: 2025-02-04 19:18:12
 ! Total Count: 520
 .*tad.cn/?c=ggmou$document
 .*tad.cn/?c=ggmou$~third-party
