@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Checksum: gUjfI2kc1ql3wMDPj1/Yfg
-! Title: 混合规则精简版(更新日期2025-02-13 00:13:57)
-! Version: 20250213001357
+! Checksum: PIZNUgkP02v8GayQI1W4pA
+! Title: 混合规则精简版(更新日期2025-02-13 08:45:18)
+! Version: 20250213084518
 ! Expires: 12 hours (update frequency)
-! Last modified: 2025-02-13 00:13:57
-! Total Count: 48966
-! Blocked Filters: 48966
+! Last modified: 2025-02-13 08:45:18
+! Total Count: 48972
+! Blocked Filters: 48972
 ! Description: 合并于各种知名的Adblock规则，适用于移动端轻量的浏览器，例如 VIA / Rian / B仔浏览器
 ! Homepage: https://lingeringsound.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
@@ -3272,7 +3272,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 |javascript:*window.location
 !<<<<<通配符规则 结束>>>>>
 
-!<<<<<域名规则>>>>>31849
+!<<<<<域名规则>>>>>31855
 |http*://*?$third-party,domain=forums.socialmediagirls.com|pornhub.com|redtube.com|tube8.com|youporn.com|youporngay.com
 |http://$image,third-party,domain=pornhub.com|redtube.com|redtube.net|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com|you-porn.com|youpornru.com|youporn.fyi
 |https://m.frgls.com/js/*.js?v=
@@ -11329,6 +11329,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||bylwtf.xyz^
 ||bymahuxv.xyz^
 ||bynamebosh.com^
+||bypllv.icu^
 ||byretuv.top^
 ||byscy.cn^$third-party
 ||bytegoofy.com/goofy/*/push.js?
@@ -17150,6 +17151,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||gettingtoe.com^
 ||gettopple.com^
 ||getvideoz.click^
+||getwptag.org^
 ||getxmlisi.com^
 ||getyourtool.co^
 ||geuba.xyz^
@@ -20122,6 +20124,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||jc1.dayfund.com.cn^
 ||jcdf99.com/hzz/scripts/new
 ||jcfnbhqo.icu^
+||jcinmaa.top^
 ||jciwztfj.com^
 ||jclimia.top^
 ||jcodecraeer.com/plus/fuckblok.
@@ -26135,6 +26138,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||proleclips.com^
 ||proll.esexa.online^
 ||prologuerussialavender.com^
+||promerycergerful.com^
 ||promo-bc.com^
 ||promo-images.ttpsdk.info^
 ||promos.camsoda.com^
@@ -31640,6 +31644,8 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||ugolue.xyz^
 ||ugroocuw.net^
 ||ugtbit.icu^
+||uhi02121uik.xyz^
+||uhi02130uik.xyz^
 ||uhmcjdc.icu^
 ||uho5m96ej.com^
 ||uhpdsplo.com^
