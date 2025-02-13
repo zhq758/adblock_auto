@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: TI3DmJOrCG2woSoF3XNetw
+! Checksum: S31XpuSV5Go9s7mgP4AlZg
 ! Title: 自用去广告Adblock规则
-! Version: 20250212154749
-! Last modified: 2025-02-12 15:47:49
-! Total Count: 7850
+! Version: 20250213194843
+! Last modified: 2025-02-13 19:48:43
+! Total Count: 7876
 ###ADbox
 ###Ad-Container
 ###Ad-Content
@@ -1275,7 +1275,29 @@
 ##.in-content-ad-wrapper
 ##.inPlayerGGdiv
 ##.inarticlead
+##.index-adv
 ##.index-center-tc-index2.index-center-tc > a
+##.index-module_adBeforeContent__AMXn
+##.index-module_adBeforeContent__UYZT
+##.index-module_rightrailBottom__IJEl
+##.index-module_rightrailTop__mag4
+##.index-module_sd_background__Um4w
+##.index-top-aassd
+##.index-top-ad
+##.index-top-gg
+##.index-wz-ad
+##.index_728_ad
+##.index_ad
+##.index_ad_a2
+##.index_ad_a4
+##.index_ad_a5
+##.index_ad_a6
+##.index_alert_gg
+##.index_right_ad
+##.indexad2
+##.indexad3
+##.indexad4
+##.indexnews-ad
 ##.info-bottom.tx-flex-hc
 ##.innerBanner
 ##.instream_ad
@@ -6399,6 +6421,10 @@ www.zhihu.com,zhihu.com##.Sticky > .Card[data-za-detail-view-path-module="Conten
 www.zhihu.com,zhihu.com##.TopstoryItem--advertCard
 www.zhihu.com,zhihu.com##.WeiboAd-wrap
 www.zhihu.com,zhihu.com##div[data-type="ad"]
+x6g.com##.addd
+x6g.com##a[href^="/ad.php"]
+x6g.com##li:has(.myad)
+x6g.com##ul > li:is([class=""]):not(.new)
 xbbs.me,xbookcn.org,xchina.co,xchina.fun,xchina.tv##.push-bottom
 xbookcn.org##.banner_ad
 xbookcn.org##.outer-banner
