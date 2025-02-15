@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ep4W9N4pViZhp+zLKmZI2Q
+! Checksum: P+muF1PBjDHnOSQKM0k8RQ
 ! Title: 自用去广告Adblock规则
-! Version: 20250214130400
-! Last modified: 2025-02-14 13:04:00
-! Total Count: 7878
+! Version: 20250215133606
+! Last modified: 2025-02-15 13:36:06
+! Total Count: 7884
 ###ADbox
 ###Ad-Container
 ###Ad-Content
@@ -2989,6 +2989,7 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 .cn/*-*-*.xc$script,third-party
 .cn/*.txt$third-party,domain=1anime.me
 .cn/20*/*/*.txt$third-party
+.cn/Qi*.js?17$third-party
 .cn/Report/*-*-$third-party,other
 .cn/TA*.js?17$third-party,script
 .cn/TC/*/*.gif$third-party,image
@@ -3012,6 +3013,7 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 .cn/sc/*?n=$third-party
 .cn/sc/*?x=$third-party
 .cn/tj/tongji.js
+.cn/uL*.js?17$third-party
 .cn/vj5/$third-party
 .cn/x/*-*-*.as$third-party
 .cn/xlc.php?data=$third-party
@@ -4615,10 +4617,9 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 ://*.*.*:*/vj*/$domain=omofun.buzz|omofun.link|omofun.live|omofun.top|omofuns.buzz|omofuns.link|omofuns.live|omofuns.top
 ://*.*.xyz/*/*-*-*-*/$third-party
 ://*.*.xyz:*/*/*-*-*-*/$third-party
-://*.*/*.js$third-party,domain=123dua.com|bamxs.com|bisowu.com|bokanx.com|bqvvxg8.cc|rz2024b.com|wolaidu1.com
+://*.*/*.js$third-party,domain=123dua.com|bamxs.com|bisowu.com|bokanx.com|bqvvxg8.cc|rz2024b.com|wolaidu1.com|bqq999.cc
+://*.*/*.js?17$third-party,domain=123dua.com|bamxs.com|bisowu.com|bokanx.com|bqq999.cc|bqvvxg8.cc|rz2024b.com|wolaidu1.com
 ://*.*/*mk?ssid=$third-party
-://*.*/TA*.js?17$third-party,domain=rz2024b.com
-://*.*/by*.js?17$third-party,domain=rz2024b.com
 ://*.*/js/js4.js?v=$~third-party
 ://*.*27txt.com/*/*.js$~third-party
 ://*.*27txt.com/xi.js$~third-party
@@ -5678,6 +5679,10 @@ m.iask.sina.com.cn##[class^="wb2_look"]
 m.iask.sina.com.cn##[id$="-loading"]
 m.iask.sina.com.cn##[id$="_ad_new"]
 m.iask.sina.com.cn##[src*="//jcylrv.iask.com.cn"]
+m.iciba.com##.Intro_box__8_0QY
+m.iciba.com##.daily_btn__RwfRj
+m.iciba.com##.daily_footer__z8S7A
+m.iciba.com##[class^="BottomDownload"]
 m.iqiyi.com##.cover
 m.iqiyi.com##.m-iqyGuide-layer
 m.iqiyi.com##[class^="ChannelHome"]
@@ -6724,6 +6729,7 @@ zol.com.cn##[data-bottom-fixed] > img[style]
 |https://m.frgls.com/js/*.js?v=
 ||*ggua.xyz^$third-party
 ||118pan.com/common/i/openjs/
+||123vxw.cc/5*/*.js
 ||15re.com^$third-party
 ||173577702.xyz^
 ||18-comic*/exads
