@@ -134,7 +134,8 @@ bilibili\.com##\.is-rcmd[[:space:]]>[[:space:]]div:only-child$
 ^\/api\/blockdata\$domain\=sohu\.com$
 ! cqshuda.com
 ^\|\|cqshuda\.com\/template\/conch\/asset\/js\/conch\.vip\.js$
-
+! 通用规则误杀
+^##a\[href\*\=\"\/\?utm_source\=\"\]\[target\=\"_blank\"\]$
 
 
 
