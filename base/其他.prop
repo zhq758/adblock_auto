@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 4HtfJFDhYKuQJRd6YwyzJw
+! Checksum: UzBtoLO08jgFtCbwYUNaqg
 ! Title: 自用去广告Adblock规则
-! Version: 20250216000825
-! Last modified: 2025-02-16 00:08:26
-! Total Count: 7888
+! Version: 20250216164838
+! Last modified: 2025-02-16 16:48:39
+! Total Count: 7894
 ###ADbox
 ###Ad-Container
 ###Ad-Content
@@ -2088,7 +2088,6 @@
 ##a[href*="/?agent="][target="_blank"]
 ##a[href*="/?agentId="][target="_blank"]
 ##a[href*="/?channel="] > img[src]
-##a[href*="/?utm_source="][target="_blank"]
 ##a[href*="/adslog/"][target="_blank"]
 ##a[href*="/direct/stripchat"]
 ##a[href*="/jump/next.php?r="]
@@ -3306,6 +3305,7 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 .ru/ads/
 .shop/r/*$xmlhttprequest
 .shop/xling_*_*.js?
+.shop/xsaxxkdasx.js
 .shop:*/apps/sdk$third-party
 .shop:*/i.js$third-party,script
 .shop:*/o.js$third-party,script
@@ -4077,8 +4077,10 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 /js/adwordstracking.
 /js/adz.
 /js/axdd.js
+/js/baiducdn.js$~third-party
 /js/bdgg/*
 /js/bocaiadv.
+/js/bottom.js$~third-party
 /js/bpolknm.js
 /js/btdigg.js
 /js/chunk-vendors.js?$third-party,script
@@ -4111,6 +4113,7 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 /js/hfee*.js?v=$~third-party
 /js/hfss*.js?v=$~third-party
 /js/home/ad/ad.
+/js/indexbottom.js$~third-party
 /js/jads.js$script
 /js/jads.js?
 /js/kaixin.js$script
@@ -4308,6 +4311,7 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 /statics/js/guding.js$~third-party,script
 /t_j/tongji.js
 /tempads/*
+/template/*/Public/js/*g*.js$~third-party
 /template/*/adm/*
 /template/*/ads/*
 /template/*/fgg/*.js$script
@@ -4322,6 +4326,7 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 /template/gg.js
 /template/hei//poster.php
 /template/hei/js/1.php
+/template/jable/angular.min.js?v=$~third-party
 /template/jiejiesao/aaaa/*
 /template/js/adsData.js
 /template/paody/aaaa/all-top.js
@@ -4707,6 +4712,7 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 ://creative.*.com/widgets/v4/Universal
 ://dl.hdslb.com/mobile/latest/android64/*apk
 ://dm*/static/js/footer.js$~third-party
+://douban.zuixindy*/app.js
 ://downpack.baidu.com/baidutieba*.apk
 ://dpic.*.cn/*.js$third-party
 ://dpic.*.cn/*.txt$third-party
