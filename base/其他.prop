@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: xAqrc+wbBzgY2TfPdvxo+Q
+! Checksum: bCn43Gq+ElnOgH1YPkGPKg
 ! Title: 自用去广告Adblock规则
-! Version: 20250217011427
-! Last modified: 2025-02-17 01:14:27
-! Total Count: 7896
+! Version: 20250217014630
+! Last modified: 2025-02-17 01:46:30
+! Total Count: 7900
 ###ADbox
 ###Ad-Container
 ###Ad-Content
@@ -2630,6 +2630,7 @@
 ##iframe[src^="https://vidsservices.space/"]
 ##iframe[style$="margin: auto 0px !important; padding: 0px; border: none; outline: none; box-sizing: border-box; position: fixed; color-scheme: none; inset: 0px 0px 0px auto !important; overflow: hidden; z-index: 2147483647;"]
 ##iframe[style^="width: 100% !important; height: 100% !important; margin: 0px; padding: 0px; border: none; outline: none; box-sizing: border-box; position: fixed; color-scheme: none; inset: 0px; overflow: hidden; z-index: 21474"]
+##iframe[title="Ads"]
 ##iframe[title="Advertisement"]
 ##iframe[title="广告"]
 ##iframe[width="0"][height="0"]
@@ -5943,6 +5944,9 @@ po18wen.com,po18co.com##div[id] + p + script + div[id]
 po18wen.net##[style*="pointer-events: none;"]
 po18wen.net##img[style="border: 1px inset #00FF00"]
 porn-w.org##.align-items-center.list-row:has(.col:empty)
+porn.co##.adde_modal-overlay
+porn.co##.adde_modal_detector
+porn.co##.adde_modal_detector-show
 porn300.com##.primary-nav > ul.main-menu > li.main-menu__item:has(> a[href^="http://traffic.bannerator.com/"]#tabcams-desk)
 porn4days.red##div > b:has(> div.alert > a[href^="https://www.brazzersnetwork.com/"])
 porn5f.com###dprecommend
