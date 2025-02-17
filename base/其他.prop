@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: vNO1Y5CxU80btxwOL1DHZw
+! Checksum: ENf2T8WdGCkZv4POtz0ppQ
 ! Title: 自用去广告Adblock规则
-! Version: 20250217154916
-! Last modified: 2025-02-17 15:49:17
-! Total Count: 7914
+! Version: 20250217173720
+! Last modified: 2025-02-17 17:37:20
+! Total Count: 7918
 ###ADbox
 ###Ad-Container
 ###Ad-Content
@@ -4484,6 +4484,8 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 118pan.com##.card-body:has(script[src*="/i/openjs/"])
 11fzw.com##.index-top-ad
 11fzw.com##a[href*="go.php?url="][target="_blank"] > img[src]
+123av.com,123av.ws,1av.to##[style^="width:300px;"]
+123av.com,123av.ws,1av.to,missav.ai,missav.city,missav.com,missav.loan,missav.pw,missav.today,missav.wiki,missav.ws,missav123.com,missav789.com,missav888.com,thisav.com##.d-lg-none
 123movies.net,4anime.gg,actvid.com,animefreak.site,apkmody.io,batotoo.com,beetoon.net,bollyflix.loan,bravoporn.com,cineb.net,coloredmanga.com,downloadlagu321.site,dragontranslation.com,dramacool.sr,gogoanime.co.in,gogoanime.run,harimanga.com,hds-streaming-hd.com,himovies.to,hurawatch.cc,iflixmovies.lol,instamod.co,jujutsukaisenonline.net,leercapitulo.com,linksly.co,mangadna.com,mangageko.com,mangahere.today,manganatos.com,mangatigre.net,manhuafast.com,manhwadesu.ink,manhwalist.xyz,membed.net,messitv.net,miraculous.to,movies-watch.com.pk,moviesmod.pro,nkiri.com,prmovies.beauty,putlocker.vc,putlockers.fm,putlockers.li,sflix.se,sockshare.ac,ssoap2day.to,streamingcommunity.mom,sukidesuost.info,tamilyogi.bike,uwatchfre.cam,waploaded.com,watchomovies.net,y-2mate.com,yomovies.team,ytmp3.cc,yts-subs.com##iframe[style*="z-index: 2147483647"]
 123pan.com##.advBanner
 123pan.com##.ant-carousel
@@ -5824,7 +5826,6 @@ mimibiquge.com##[style="margin:0;padding:0;outline:0"]
 mimibiquge.com,mpo18.com##script + style + div[id]
 miobt.com##.gg_canvas
 miobt.com##.gg_canvas-hidden
-missav.ai,missav.city,missav.com,missav.loan,missav.pw,missav.today,missav.wiki,missav.ws,missav123.com,missav789.com,missav888.com,thisav.com##.d-lg-none
 missav.ai,missav.city,missav.com,missav.loan,missav.pw,missav.today,missav.wiki,missav.ws,missav123.com,missav789.com,missav888.com,thisav.com##[href*="//bit.ly/"]
 missav.ai,missav.city,missav.com,missav.loan,missav.today,missav.wiki,missav.ws,missav123.com,missav789.com,missav888.com,thisav.com##.list-disc > li:has(> a[href^="https://bit.ly/"])
 missav.ai,missav.city,missav.com,missav.loan,missav.today,missav.wiki,missav.ws,missav123.com,missav789.com,missav888.com,thisav.com##.text-nord14
@@ -6410,6 +6411,7 @@ txxxporn.tube,vxxx.com##.pwa-ad
 txxxporn.tube,vxxx.com##div:has(> div[id][class] > div[class] > iframe[data-cbi])
 typhoon.yahoo.co.jp##.promoBanner
 tysswh.com##img[onclick]
+ukdevilz.com##div[style]:not([id]):not([class]):has(script[src*="ad-provider"])
 up.taoseye.com##a[target="_blank"],[ontouchstart]
 video.laxd.com##.ad_area_bottom
 video.laxd.com##.ad_area_top
@@ -7005,6 +7007,8 @@ zol.com.cn##[data-bottom-fixed] > img[style]
 ||bnhtml.com^
 ||bnsdk.top^
 ||bobobo6688.top^
+||bohe.cn/wsuyaut.js
+||bohe.cn/xuvzbvu.js
 ||bookhaitang.com/assets/publish/$script
 ||boost-next.co.jp^
 ||boot.bytecache.cn/static/*.js?t=$script,third-party
