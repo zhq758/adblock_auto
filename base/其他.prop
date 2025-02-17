@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 0XPgDWOwoMZUDSiPFLLkRQ
+! Checksum: M7tCTvY9GEXIAkPJASsBJg
 ! Title: 自用去广告Adblock规则
-! Version: 20250217213834
-! Last modified: 2025-02-17 21:38:34
-! Total Count: 7923
+! Version: 20250218001250
+! Last modified: 2025-02-18 00:12:51
+! Total Count: 7929
 ###ADbox
 ###Ad-Container
 ###Ad-Content
@@ -5885,6 +5885,7 @@ netflav.com##.ads_head_banner_container
 netflav.com##.ads_video_overlay_mobile
 news.heytapdownload.com##[class^="oppo-cec-new"]
 news.heytapdownload.com##div.news-wrapper
+news.heytapdownload.com##div.news-wrapper-v2
 news.yahoo.co.jp###contentsWrap > div[class^="sc-"]:has(> div.adWrap > div[id^="yads_"])
 news.yahoo.co.jp##.adWrap
 news.yahoo.co.jp##.newsFeed_list > li >  div[id^="ad"]
@@ -6449,6 +6450,10 @@ weather.yahoo.co.jp###ysp
 weather.yahoo.co.jp##.ad-frame-fix
 weather.yahoo.co.jp##.heatstrokePromo
 weather.yahoo.co.jp##.rainRadarAd
+weathercn.com###gg_fixed
+weathercn.com###gg_top
+weathercn.com##.js-news-AD
+weathercn.com#[id^="gg_"]
 weibo.com##.card-content > ul > li:has(> p > .icon-txt-recommend)
 weibo.com##.card-content > ul > li:has(>a[action-type="realtimehot_ad"])
 weibo.com##.card-wrap:has(>.card>i[style*="%E5%B9%"])
@@ -7801,6 +7806,7 @@ zol.com.cn##[data-bottom-fixed] > img[style]
 ||wbqqo.com^$third-party
 ||wdrpmu632.shop^
 ||wdwdwd3d.com^
+||weathercn.com/*/*/*/*/*.js
 ||web-oao.ssp.yahoo.com/admax/
 ||weixiaoke.top^
 ||wendypha.com^$third-party
