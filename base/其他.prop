@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: bCn43Gq+ElnOgH1YPkGPKg
+! Checksum: vNO1Y5CxU80btxwOL1DHZw
 ! Title: 自用去广告Adblock规则
-! Version: 20250217014630
-! Last modified: 2025-02-17 01:46:30
-! Total Count: 7900
+! Version: 20250217154916
+! Last modified: 2025-02-17 15:49:17
+! Total Count: 7914
 ###ADbox
 ###Ad-Container
 ###Ad-Content
@@ -86,6 +86,8 @@
 ###ad_popup_background
 ###ad_popup_wrapper
 ###ad_wp_base
+###adb-warning
+###adblock-warning
 ###adbox
 ###adbox--hot_news_ad
 ###adbox--page_bottom_ad
@@ -104,6 +106,7 @@
 ###ads-container-top
 ###adsModal
 ###ads_popup
+###ads_warning
 ###adsense-area-label
 ###adsense-header
 ###adsense-link
@@ -562,6 +565,7 @@
 ##.ad--topmobile
 ##.ad--wrapper
 ##.ad-300
+##.ad-blocker-warning
 ##.ad-bottom-container
 ##.ad-box
 ##.ad-cls
@@ -586,6 +590,7 @@
 ##.ad-tabSplit
 ##.ad-title
 ##.ad-unit:not(.textads)
+##.ad-warning
 ##.ad-wireframe
 ##.ad-wireframe-wrapper
 ##.ad-zone:not(.textads)
@@ -684,8 +689,13 @@
 ##.adbase
 ##.adbbox
 ##.adblock-popup
+##.adblock-warning
+##.adblock-warning-partial-component
+##.adblock-warning-teaser
+##.adblock_popup_warning
 ##.adbox250
 ##.adbox900
+##.adbwarning
 ##.adcenter
 ##.add_300x250
 ##.adframe
@@ -701,6 +711,7 @@
 ##.adpopup
 ##.ads > img
 ##.ads-all
+##.ads-block-warning
 ##.ads-cont
 ##.ads-img
 ##.ads-placeholder
@@ -4559,6 +4570,8 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 4khd.com##script[src^="//a.pemsrv.com"] + div
 4khd.com,cartoon18.com##.exo_wrapper
 4kporn.xxx##div[id^="list_videos_"] > div.item:has(> .ads)
+4kporn.xxx,crazyporn.xxx##.myadswarning
+4kporno.xxx##.modal:has(.right-advertisement)
 4wank.com,danude.com,daporn.com,diamondfaucet.space,epicgfs.com,euobserver.com,fpo.xxx,franczyzawhandlu.pl,hentai-moon.com,medicinehatnews.com,pornachi.com,pornchimp.com,pornmix.org,scatxxxporn.com,xasiat.com,xmateur.com,xxx18.uno##.top
 4x4magazin.hu,8tracks.com,aan.com,aarp.org,additudemag.com,animax-asia.com,annapurnapost.com,apkforpc.com,audioxpress.com,axn-asia.com,blavity.com,bravotv.com,cinestaan.com,citiblog.co.uk,cnbctv18.com,cnn59.com,controleng.com,cumlouder.com,digiday-com.cdn.ampproject.org,discordemoji.com,dw.com,dwturkce.com,escapeatx.com,flyingjizz.com,foodsforbetterhealth.com,gemtvasia.com,generatorlinkpremium.com,gotporn.com,gramfile.com,hcn.org,huffingtonpost.co.uk,ichgcp.net,indaily.com.au,inqld.com.au,internationalnewsandviews.com,investmentnews.com,jagonews24.com,japan-whores.com,jewishworldreview.com,legion.org,lifezette.com,livestly.com,magtheweekly.com,mathopenref.com,moneyland.ch,motoroctane.com,nuvid.*,offshore-energy.biz,onetvasia.com,operanews.com,outlookindia.com,oxygen.com,pch.com,perfectgirls.net,playlive.pw,porntube.com,prospectmagazine.co.uk,prothomalo.com,readamericanfootball.com,readarsenal.com,readastonvilla.com,readbasketball.com,readbetting.com,readbournemouth.com,readboxing.com,readbrighton.com,readbundesliga.com,readburnley.com,readcars.co,readceltic.com,readchampionship.com,readchelsea.com,readcricket.com,readcrystalpalace.com,readersdigest.ca,readeverton.com,readeverything.co,readfashion.co,readfilm.co,readfood.co,readfootball.co,readgaming.co,readgolf.com,readhorseracing.com,readhuddersfield.com,readhull.com,readinternationalfootball.com,readlaliga.com,readleicester.com,readliverpoolfc.com,readmancity.com,readmanutd.com,readmiddlesbrough.com,readmma.com,readmotorsport.com,readmusic.co,readnewcastle.com,readnorwich.com,readnottinghamforest.com,readolympics.com,readpl.com,readrangers.com,readrugbyunion.com,readseriea.com,readshowbiz.co,readsouthampton.com,readsport.co,readstoke.com,readsunderland.com,readswansea.com,readtech.co,readtennis.co,readtottenham.com,readtv.co,readussoccer.com,readwatford.com,readwestbrom.com,readwestham.com,readwsl.com,reason.com,redvoicemedia.com,revolver.news,rogerebert.com,serverhunter.com,smithsonianmag.com,soft112.com,streamingmedia.com,tasteofhome.com,the-scientist.com,thecatholicthing.org,therighthairstyles.com,weatherwatch.co.nz,wheels.ca,woot.com,worldofbitco.in##.advertisement
 51-cg.com,51-cg.org,51-short.com,51-short.org,51cg.com,51cg.org,51short.com,51short.org,91-cg.com,91-cg.org,91-icg.com,91-icg.org,91-short.com,91-short.org,91cg.com,91cg.org,91icg.com,91icg.org,91short.com,91short.org##.adm
@@ -5235,6 +5248,7 @@ coolapk.com#@#[id$="ad-box"]
 cosplayrule34.com,ososedki.com,vipthots.com,waifubitches.com##noindex:not([class]):not([id]):not([style])
 cosxplay.com##[id*="-boxes-mobile"]
 cosxplay.com##[id^="inside-video-boxes"]
+crazyporn.xxx##.adswarning
 crxs.me##div:has(> [href^="https://xchina.click/"])
 crxs.me,xchina.co,xchina.fun,xchina.tv##[class$="article"]:has(.media > a > img[src^="https://upload.xchina.biz/ad/"])
 ctejp.com##div.addbox
