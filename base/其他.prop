@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: M7tCTvY9GEXIAkPJASsBJg
+! Checksum: JcRm82qzjVF7pnu0BrvT1g
 ! Title: 自用去广告Adblock规则
-! Version: 20250218001250
-! Last modified: 2025-02-18 00:12:51
+! Version: 20250218120421
+! Last modified: 2025-02-18 12:04:21
 ! Total Count: 7929
 ###ADbox
 ###Ad-Container
@@ -6453,7 +6453,7 @@ weather.yahoo.co.jp##.rainRadarAd
 weathercn.com###gg_fixed
 weathercn.com###gg_top
 weathercn.com##.js-news-AD
-weathercn.com#[id^="gg_"]
+weathercn.com##[id^="gg_"]
 weibo.com##.card-content > ul > li:has(> p > .icon-txt-recommend)
 weibo.com##.card-content > ul > li:has(>a[action-type="realtimehot_ad"])
 weibo.com##.card-wrap:has(>.card>i[style*="%E5%B9%"])
