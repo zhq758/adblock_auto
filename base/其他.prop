@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: JcRm82qzjVF7pnu0BrvT1g
+! Checksum: Tan2c7fSIMZvV2jwCxDQnw
 ! Title: 自用去广告Adblock规则
-! Version: 20250218120421
-! Last modified: 2025-02-18 12:04:21
-! Total Count: 7929
+! Version: 20250218123611
+! Last modified: 2025-02-18 12:36:11
+! Total Count: 7938
 ###ADbox
 ###Ad-Container
 ###Ad-Content
@@ -3000,6 +3000,7 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 .cn/*-*-*.xc$script,third-party
 .cn/*.txt$third-party,domain=1anime.me
 .cn/20*/*/*.txt$third-party
+.cn/In*.js?17$third-party
 .cn/Qi*.js?17$third-party
 .cn/Report/*-*-$third-party,other
 .cn/TA*.js?17$third-party,script
@@ -3020,6 +3021,7 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 .cn/j/*$script,third-party
 .cn/js/gg.js$script
 .cn/k/*$script,third-party
+.cn/nd*.js?17$third-party
 .cn/s/*.xc$third-party
 .cn/sc/*?n=$third-party
 .cn/sc/*?x=$third-party
@@ -3258,6 +3260,7 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 .icu/biyys*.js$third-party,script
 .icu/by*.js?17$third-party,script
 .icu/common?$third-party
+.icu/common?*17$third-party
 .icu/do?17$third-party
 .icu/js/gg.js$script
 .icu/pssbk?$third-party
@@ -4158,6 +4161,7 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 /lv/esnk/*$script,third-party
 /lv/esnk/*/code.js$script,third-party
 /matomo.js$third-party,script
+/mb/meng/ee*.js?$~third-party
 /mdzzxttss.php?s=
 /modalad.
 /module-ads-html-$script
@@ -5657,6 +5661,8 @@ jinxiyue.com##a[onclick^="qinlintest"]
 jizzoncam.com,camwhores.video,moreamateurs.com,faptor.com,pornachi.com,porndude.wtf,orgazmax.com,pornwex.tv,pornfd.com,area51.porn,pornrabbit.com,milf-porn.xxx,sextaped.com,pornxpert.com,perverttube.com,fapnow.xxx,epicgfs.com,scatkings.com,pornflix.to,xbjav.com,heavyfetish.com,tabootube.xxx,amateur8.com,maturetubehere.com,crazyporn.xxx,pornissimo.org,lesbian8.com,enf-cmnf.com,filtercams.com,bigassporn.tv,porn00.org,keekass.com,fuckit.cc,camwhoresbay.com,camwhoreshd.com##.block-video > div.table
 jjdy8.cc##[id^="adWrapper"]
 jjdy8.cc##div[style]:not([class]):not([id]):has(a[href$=".php"])
+jmshuwu.net##^script:has-text(navigator)
+jmshuwu.net##script:has-text(navigator)
 joporn.online##[data-zone-id][data-teaser-id]
 joporn.online##[id][class]:not([style]):has([data-zone-id][data-teaser-id])
 justdial.com###gptAds2
@@ -5827,6 +5833,8 @@ mhnew.xyz,mhhanman.xyz##[id^="hfad"]
 mi.com#@#[style*="mi-img.com"]
 mimibiquge.com##[style="margin:0;padding:0;outline:0"]
 mimibiquge.com,mpo18.com##script + style + div[id]
+mingrentea.com,rz2024b.com,xsb-xs.com##^script:has-text(_ffc)
+mingrentea.com,rz2024b.com,xsb-xs.com##script:has-text(_ffc)
 miobt.com##.gg_canvas
 miobt.com##.gg_canvas-hidden
 missav.ai,missav.city,missav.com,missav.loan,missav.pw,missav.today,missav.wiki,missav.ws,missav123.com,missav789.com,missav888.com,thisav.com##[href*="//bit.ly/"]
@@ -7497,6 +7505,7 @@ zol.com.cn##[data-bottom-fixed] > img[style]
 ||mdqikg.xyz^
 ||merwds.qwuidbn.com^$third-party
 ||miaozhen.com^$third-party
+||mingrentea.com/mb/meng/$script
 ||missav.ai/pop?url=
 ||missav.com/pop?url=
 ||missav.ws/pop?url=
