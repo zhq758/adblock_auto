@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Tan2c7fSIMZvV2jwCxDQnw
+! Checksum: a0PIcYdiYV/xymYXg3I+YQ
 ! Title: 自用去广告Adblock规则
-! Version: 20250218123611
-! Last modified: 2025-02-18 12:36:11
-! Total Count: 7938
+! Version: 20250218212103
+! Last modified: 2025-02-18 21:21:04
+! Total Count: 7942
 ###ADbox
 ###Ad-Container
 ###Ad-Content
@@ -863,6 +863,7 @@
 ##.aniview-inline-player
 ##.app-abk
 ##.app-text > .main
+##.app_tj
 ##.appel > div[id][class][style="position: fixed; bottom: 26%; z-index: 19999 !important; right: 2px;"]
 ##.appguide-wrap
 ##.article > .static-container-4 > .media
@@ -952,6 +953,7 @@
 ##.cell > .reported
 ##.center-ad
 ##.center-div.sponsor
+##.chapter-appads
 ##.colBoxAdframe
 ##.commentads
 ##.commercial-unit-mobile-bottom
@@ -4316,6 +4318,7 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 /source/*/source/*.js$script,third-party
 /splash.php?cat=&idzone=*
 /static/*ds/ttss.js$script,~third-party
+/static/jietiandixs/jtd.js$~third-party
 /static/js/fad.js$domain=ciligui.org|ciligui.cc|ciligui.com|ciligui.live|ciligui.buzz|ciligui.cn|ciligui.xyz
 /static/js/fad.js$script
 /static/js/top.js$domain=ciligui.org|ciligui.cc|ciligui.com|ciligui.live|ciligui.buzz|ciligui.cn|ciligui.xyz
@@ -4954,6 +4957,7 @@ _ads_banner
 _clickunder&pb=$popup
 _popupunder.
 aabook.cyou,aabook.xyz,aaread.club,aastory.space,fqbook.cc,fqbook.cyou##.footer > div[class][id][style],cloudflare-app,.mybook-game-ad,img[id^="GGADIMG"][src],div[class][id]:has(img[src][alt="xxx"]),a[href^="https://fkxl.xyz"]
+aaddtt.com##.hbg-link
 abjav.com##.header__item
 abjav.com##section
 aca.best#@#body > noscript + #app
