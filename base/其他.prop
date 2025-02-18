@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: a0PIcYdiYV/xymYXg3I+YQ
+! Checksum: ikPbxe4YfMKGzdMLDt4gMQ
 ! Title: 自用去广告Adblock规则
-! Version: 20250218212103
-! Last modified: 2025-02-18 21:21:04
-! Total Count: 7942
+! Version: 20250219004349
+! Last modified: 2025-02-19 00:43:49
+! Total Count: 7948
 ###ADbox
 ###Ad-Container
 ###Ad-Content
@@ -1678,6 +1678,7 @@
 ##.push-slider[key^="clicked_cpt"]
 ##.push-top-container > .push-top[key]
 ##.qgg_popup_close2
+##.readtj
 ##.reclamTable
 ##.rectangle_ad
 ##.remove-ads
@@ -5530,6 +5531,8 @@ hsg001.com,hsg003.com,hsg004.com##div[style*="center"]:has(.lazy-load)
 hsg003.com##img[src^="data:"][data-original$=".gif"]
 huangsexiaoshuo.net##div[id]:not([class]):has(div[id]:not([class]):not([styles]))
 huangsexiaoshuo.net##div[id]:not([class]):not([style]):has(img[src*=".xyz"])
+huaren.us##.ad-page-setting
+huaren.us##.article_title_ad_img
 ibbs.pro##div[class][style]:has(ins[data-zoneid])
 ibbs.pro,iceporn.tv##.show
 iceporn.tv##div[class*="Hide"]:has(.adsbyexoclick)
@@ -6519,6 +6522,9 @@ xbookcn.org##.outer-banner
 xbookcn.org##[class*="banner"]
 xbookcn.org##[class^="push-"]
 xbookcn.org,xchina.co,xchina.fun,xchina.tv##.push-top
+xbqg06.com##^script:has-text(kbbaidu)
+xbqg06.com##body > div[id^="a17"]:not([class]):not([style])
+xbqg06.com##script:has-text(kbbaidu)
 xchina.co,xchina.com,xchina.tv##div.recommendation_widget
 xchina.co,xchina.fun,xchina.tv##.exoclick_300x250
 xchina.co,xchina.fun,xchina.tv##.exoclick_300x500

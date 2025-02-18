@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: q59LpTriURzcA1PbB1oe4A
+! Checksum: uJm2BhBJ7k44YWPihUt5iA
 ! Title: YouTube 广告拦截
-! Version: 20250124003104
-! Last modified: 2025-01-24 00:31:04
-! Total Count: 134
+! Version: 20250219004349
+! Last modified: 2025-02-19 00:43:49
+! Total Count: 141
 *_ad_$media,third-party,domain=youtube.com
 @@||ad.doubleclick.net/*/adi/com.ytbc/$domain=youtube.com
 @@||pubads.g.doubleclick.net/gampad/ads?ad_rule=0&d_imp=1&gdfp_req=1&impl=ifr$domain=youtube.com
@@ -45,6 +45,13 @@ youtube.com###shorts-inner-container > .ytd-shorts:has(> .ytd-reel-video-rendere
 youtube.com###video-masthead
 youtube.com###watch-buy-urls
 youtube.com###watch7-branded-banner
+youtube.com##+js(adjust-setTimeout, [native code], 17000, 0.001)
+youtube.com##+js(json-prune, playerResponse.adPlacements playerResponse.playerAds playerResponse.adSlots adPlacements playerAds adSlots)
+youtube.com##+js(set-constant, google_ad_status, 1)
+youtube.com##+js(set-constant, playerResponse.adPlacements, undefined)
+youtube.com##+js(set-constant, ytInitialPlayerResponse.adPlacements, undefined)
+youtube.com##+js(set-constant, ytInitialPlayerResponse.adSlots, undefined)
+youtube.com##+js(set-constant, ytInitialPlayerResponse.playerAds, undefined)
 youtube.com##.GoogleActiveViewElement
 youtube.com##.ad-showing > .html5-video-container
 youtube.com##.banner-promo-style-type-masthead-v2
