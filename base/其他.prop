@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: IO8ixGZPPOoUwrrhDhMk5Q
+! Checksum: hNIM6/acpkGbDM661qmtZA
 ! Title: 自用去广告Adblock规则
-! Version: 20250220185152
-! Last modified: 2025-02-20 18:51:52
-! Total Count: 7952
+! Version: 20250221025858
+! Last modified: 2025-02-21 02:58:58
+! Total Count: 7962
 ###ADbox
 ###Ad-Container
 ###Ad-Content
@@ -948,6 +948,8 @@
 ##.buttonads
 ##.c-ad--header
 ##.c-adSkyBox
+##.c_ad160
+##.c_ad80
 ##.cailyzad
 ##.catflix[style]
 ##.cctv_banner_dv
@@ -1014,6 +1016,11 @@
 ##.fed-play-advs
 ##.feed-ad
 ##.first_post_ad
+##.fix-ad
+##.fix-ads
+##.fix_ad
+##.fix_swell_banner
+##.fixadheight
 ##.fixadheightbottom
 ##.fixed-ad-aside
 ##.fixed-ad-bottom
@@ -1025,6 +1032,7 @@
 ##.fixedLeftAd
 ##.fixedRightAd
 ##.fixed_ad
+##.fixed_ads
 ##.fixed_adslot
 ##.fixed_advert_banner
 ##.float-ad
@@ -3444,7 +3452,7 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 .xyz:*/d/*?*=$third-party
 .xyz:*/d/*?c=*$third-party
 .xyz:*/d/*?t=
-.xyz:*/hm/*?x=*=$third-party
+.xyz:*/hm/$third-party
 .xyz:*/js/*?x=$third-party
 .xyz:*/mnrt/*.json
 .xyz:30009/d/*?t=
@@ -4549,6 +4557,7 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 2cycomic.com,yemancomic.com##div[style^="width: 100%;background-color: black;color: white;padding: 0px 0;"]
 2cycomic.com,yemancomic.com##div[style^="width: 100%;background-color: black;color: white;padding: 15px 0;"]
 2sqg.com,biqusk.org###center_tip
+348z.com##img[alt*="APP"]
 360kan.com##[data-so-mod="ad"]
 3dmgame.com##.downl_list:has(style)
 3dmgame.com##.sy-tuijian
@@ -4749,6 +4758,7 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 ://dpic.*.cn/*.js$third-party
 ://dpic.*.cn/*.txt$third-party
 ://e.*.xyz/apps/sdk$third-party
+://gg.*.cc/*.js$script,third-party
 ://go.*.com/*=WidgetV4Universal
 ://go.*.com/smartpop/*?*=$third-party
 ://gp.logicmind.*/*.dx$third-party
@@ -4873,7 +4883,7 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 @@||camerabay.tv/ads/entry/camerabay/fullbk/bg.jpg
 @@||camsexvideo.net/js/advertising.js
 @@||cloudfront.net^$domain=portmiamiwebcam.com|mecox.wpengine.com|rethmic.com|soap2day.ai|nationalreview.com|bitly.com|hotslogs.com|webupd8.org|heatworld.com|streamingcommunity.tech|blog.wiki-topia.com|ksl.com|anime1.me|assistant.etxlzb.com|gualaoshi.org|bitbucket.org|laoshigua.com
-@@||cos.ap-*.myqcloud.com^$domain=tencent.com
+@@||cos.ap-*.myqcloud.com^$domain=tencent.com|wenxiaobai.com
 @@||cqshuda.com/template/conch/asset/js/conch.vip.js$domain=cqshuda.com
 @@||cre.dp.sina.cn^
 @@||d13nu0oomnx5ti.cloudfront.net^$domain=rethmic.com
