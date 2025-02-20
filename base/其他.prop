@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ikPbxe4YfMKGzdMLDt4gMQ
+! Checksum: IO8ixGZPPOoUwrrhDhMk5Q
 ! Title: 自用去广告Adblock规则
-! Version: 20250219004349
-! Last modified: 2025-02-19 00:43:49
-! Total Count: 7948
+! Version: 20250220185152
+! Last modified: 2025-02-20 18:51:52
+! Total Count: 7952
 ###ADbox
 ###Ad-Container
 ###Ad-Content
@@ -925,6 +925,7 @@
 ##.block-advertisement-banner-block
 ##.block-advertising
 ##.block_app > .block_app_item
+##.bn-link[href^="/jump/"]
 ##.body > script + div[style*="135px;"]
 ##.bodyads
 ##.bordered-ad
@@ -4144,6 +4145,7 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 /js/rotator.js
 /js/rourouwu.js$script
 /js/sp_ad.js$script
+/js/tj.js
 /js/tongji.js?v=
 /js/wap2-jm-ms-ld.js?ver=
 /js/wap2-jm-ms.js?ver=$~third-party,script
@@ -4294,6 +4296,7 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 /s/s/sum.php
 /sad3.js?$third-party
 /sbar.json?key=
+/script/tj.js
 /scripts/AdService_
 /scripts/ad/hyou.js
 /scripts/ads/*
@@ -5151,6 +5154,7 @@ bilibili.com#@#.is-rcmd > div:only-child
 bing.com###BottomAppPro
 bing.com###b_results > li:has([data-ans*="BrandZoneAds"])
 bing.com###b_results > li:has(a[h$=",Ads"])
+bing.com###b_results > li:has(span[data-partnertag="LocationSuperTop"])
 bing.com###b_results > li[style*="padding-bottom: 8px;"][style*="235, 235, 235"]
 bing.com###banner
 bing.com###bingBrand
