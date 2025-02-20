@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: MSL0H8o840Atud5luMaBug
+! Checksum: 7bRqSSWqik4WEQ1b149xFg
 ! Title: 拦截黄色网站转跳
-! Version: 20250204191812
-! Last modified: 2025-02-04 19:18:12
-! Total Count: 520
+! Version: 20250220170418
+! Last modified: 2025-02-20 17:04:18
+! Total Count: 524
 .*tad.cn/?c=ggmou$document
 .*tad.cn/?c=ggmou$~third-party
 .alb.aliyuncs.com:*/*/gougou.html?k=$document
@@ -412,6 +412,8 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||jugaohr.cn^$~third-party
 ||jumping001.com^$document
 ||jumping001.com^$~third-party
+||klgyds.com^$document
+||klgyds.com^$~third-party
 ||kop02.com^$document
 ||kop02.com^$~third-party
 ||lamao.life^$document
@@ -430,6 +432,8 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||mzgcst.mbibioe.cn^$~third-party
 ||ofgsqic.cn^$document
 ||ofgsqic.cn^$~third-party
+||pczjt.com^$document
+||pczjt.com^$~third-party
 ||pf.lalalalalals.com^$document
 ||pf.lalalalalals.com^$~third-party
 ||psf805.xyz^$document
