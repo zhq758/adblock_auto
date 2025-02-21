@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 7bRqSSWqik4WEQ1b149xFg
+! Checksum: /xO0T8URcvUKBDeF/xH1LA
 ! Title: 拦截黄色网站转跳
-! Version: 20250220170418
-! Last modified: 2025-02-20 17:04:18
-! Total Count: 524
+! Version: 20250221235222
+! Last modified: 2025-02-21 23:52:22
+! Total Count: 530
 .*tad.cn/?c=ggmou$document
 .*tad.cn/?c=ggmou$~third-party
 .alb.aliyuncs.com:*/*/gougou.html?k=$document
@@ -332,6 +332,8 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||bkdp*.xyz^$~third-party
 ||blmlt.szjunda.cn^$document
 ||blmlt.szjunda.cn^$~third-party
+||bskibefs.com^$document
+||bskibefs.com^$~third-party
 ||buyu*9.com^$document
 ||buyu*9.com^$~third-party
 ||buyu0000.com^$document
@@ -354,6 +356,8 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||daohan15.com^$~third-party
 ||daohan3.com^$document
 ||daohan3.com^$~third-party
+||dbgaming.com^$document
+||dbgaming.com^$~third-party
 ||dfgsdfgr.xyz^$document
 ||dfgsdfgr.xyz^$~third-party
 ||dfyl.eeeeehfghrq555^$document
@@ -416,6 +420,8 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||klgyds.com^$~third-party
 ||kop02.com^$document
 ||kop02.com^$~third-party
+||kytyhy.vip^$document
+||kytyhy.vip^$~third-party
 ||lamao.life^$document
 ||lamao.life^$~third-party
 ||lgecqrb.com^$document
