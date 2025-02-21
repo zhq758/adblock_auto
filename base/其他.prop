@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: GwvxFomdBQPVSUCKhzu9vA
+! Checksum: 6dLumsY2pIRoA5WR8wIAPQ
 ! Title: 自用去广告Adblock规则
-! Version: 20250222000250
-! Last modified: 2025-02-22 00:02:51
-! Total Count: 7968
+! Version: 20250222015223
+! Last modified: 2025-02-22 01:52:23
+! Total Count: 7971
 ###ADbox
 ###Ad-Container
 ###Ad-Content
@@ -5145,7 +5145,6 @@ bilibili.com##.banner-card
 bilibili.com##.bili-dyn-ads
 bilibili.com##.bili-video-card:has(.bili-video-card__info--ad) > .bili-video-card__wrap
 bilibili.com##.bili-video-card:has(.bili-video-card__info--creative-ad) > .bili-video-card__wrap
-bilibili.com##.desktop-download-tip
 bilibili.com##.download-entry
 bilibili.com##.eva-banner
 bilibili.com##.eva-extension-body > .bili-video-card:has(.bili-video-card__info--ad)
@@ -6511,6 +6510,8 @@ wuzhuiso.com###mohe-hotnews_right
 wuzhuiso.com###side > div.download-browser:last-child
 www.baidu.com,3g.baidu.com,m.baidu.com,m5.baidu.com##.na-ec-waterfall
 www.baidu.com,3g.baidu.com,m.baidu.com,m5.baidu.com##.news-list-wrapper
+www.bilibili.com##.desktop-download-tip
+www.bilibili.com##.feed-card:has(.bili-video-card:not(div:has([class*="cover"])))
 www.jkv.app##.app-links
 www.jkv.app##.apps-bt
 www.zhihu.com,zhihu.com##.AppMagicBanner
@@ -7771,6 +7772,8 @@ zol.com.cn##[data-bottom-fixed] > img[style]
 ||tongji.click^
 ||tongji.trafficmanager.net^$third-party,other
 ||tongjiniao.com^
+||toothbond.com/js/head.js
+||toothbond.com/js/top.js
 ||toutiaoimg.com^$image,domain=350xs.com
 ||tpic.kszvmqo.cn^$third-party
 ||tpic.mhslbqk.cn^
