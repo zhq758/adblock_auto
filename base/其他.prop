@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: PhcB3/8gJr8/TTh2Kbwyzg
+! Checksum: /jHwtIGLy9UOmTeAvCkKOw
 ! Title: 自用去广告Adblock规则
-! Version: 20250221153221
-! Last modified: 2025-02-21 15:32:21
-! Total Count: 7965
+! Version: 20250221202029
+! Last modified: 2025-02-21 20:20:29
+! Total Count: 7963
 ###ADbox
 ###Ad-Container
 ###Ad-Content
@@ -2188,7 +2188,6 @@
 ##a[href][target="_blank"] > img[alt][src^="/static/resources/old/images/AD/"]
 ##a[href][target="_blank"] > img[id*="GGADIMG"]
 ##a[href][target="_blank"] > img[referrerpolicy="no-referrer"][src*=".yximgs.com/"]
-##a[href][target="_blank"] > img[src*=".cos.ap-"][src*=".myqcloud.com/"][src$=".gif"][alt]
 ##a[href][target="_blank"] > img[src*="//jusotop.com/"][alt]
 ##a[href][target="_blank"] > img[src*="cn-chengdu.aliyuncs.com/"][alt]
 ##a[href][target="_blank"] > img[src*="img.souche.com"][src$=".gif"]
@@ -7128,7 +7127,6 @@ zol.com.cn##[data-bottom-fixed] > img[style]
 ||code.yykalopyy.com^$third-party
 ||comm.app.autohome.com.cn^
 ||concedederaserskyline.com^
-||cos.ap-*.myqcloud.com^$third-party
 ||cowcuo.xyz^
 ||cpmrevenuegate.com^
 ||cpro.baidustatic.com^
