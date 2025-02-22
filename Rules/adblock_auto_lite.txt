@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Checksum: PR2maef9a/WIDRRjzSQ8kQ
-! Title: 混合规则精简版(更新日期2025-02-22 16:13:47)
-! Version: 20250222161347
+! Checksum: nWImRJsNp42aTEWvNg0Gdg
+! Title: 混合规则精简版(更新日期2025-02-22 19:59:28)
+! Version: 20250222195928
 ! Expires: 12 hours (update frequency)
-! Last modified: 2025-02-22 16:13:47
-! Total Count: 50241
-! Blocked Filters: 50241
+! Last modified: 2025-02-22 19:59:28
+! Total Count: 50243
+! Blocked Filters: 50243
 ! Description: 合并于各种知名的Adblock规则，适用于移动端轻量的浏览器，例如 VIA / Rian / B仔浏览器
 ! Homepage: https://lingeringsound.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
@@ -3975,7 +3975,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 |javascript:*window.location
 !<<<<<通配符规则 结束>>>>>
 
-!<<<<<域名规则>>>>>31632
+!<<<<<域名规则>>>>>31634
 |http*://*?$third-party,domain=forums.socialmediagirls.com|pornhub.com|redtube.com|tube8.com|youporn.com|youporngay.com
 |http://$image,third-party,domain=pornhub.com|redtube.com|redtube.net|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com|you-porn.com|youpornru.com|youporn.fyi
 |https://m.frgls.com/js/*.js?v=
@@ -18543,6 +18543,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||hedungirgassi.xyz^
 ||heefothust.net^
 ||heejuchee.net^
+||heemphaers.com^
 ||heeraiwhubee.net^
 ||heerosha.com^
 ||hefei.cc/templates/default/index_ad
@@ -18858,6 +18859,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||hltfs.com^$script,third-party
 ||hltoon.com/hanman/static/dist/ppm/js/foot
 ||hltv.org/img/*&s=
+||hlzncxmu.icu^
 ||hmafhczsos.com^
 ||hmeqpjky.xyz^
 ||hmghmg.com/tb
