@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 6dLumsY2pIRoA5WR8wIAPQ
+! Checksum: 6ASbmXPREqb8QEj0tSfs7A
 ! Title: 自用去广告Adblock规则
-! Version: 20250222015223
-! Last modified: 2025-02-22 01:52:23
-! Total Count: 7971
+! Version: 20250222125235
+! Last modified: 2025-02-22 12:52:36
+! Total Count: 7989
 ###ADbox
 ###Ad-Container
 ###Ad-Content
@@ -533,6 +533,14 @@
 ###top_ad
 ###topstuff > #tads
 ###total_banner
+###typead1
+###typead2
+###typead3
+###typead4
+###typead5
+###typead6
+###typead7
+###typead8
 ###video + [id^="rd"][data-v-app]
 ###video-ad
 ###video-ads
@@ -3129,6 +3137,7 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 .com/YX/*/*.gif$third-party,image
 .com/ZB/*/*.gif$third-party,image
 .com/ad-provider.js$third-party
+.com/allin3d.js?17$third-party
 .com/api/getPos?jspath=/$~third-party
 .com/api/ipv4check?mark
 .com/api/senddata?$third-party
@@ -3136,6 +3145,7 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 .com/assets/public/chart.1.js$script,~third-party
 .com/bokan/bokan.js$script
 .com/candy*.js$third-party
+.com/co/*?t=0.$third-party
 .com/css/click_*.js$script,~third-party
 .com/dh/*/*.gif$third-party,image
 .com/dl/*/*.gif$third-party,image
@@ -3144,6 +3154,7 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 .com/ev/*?type=impressions
 .com/facaishen.js
 .com/facaishen1.js
+.com/float_down.js?17$third-party
 .com/gu1ding.js$script,~third-party
 .com/happyxia.js
 .com/hx/*/*.gif$third-party,image
@@ -3158,6 +3169,7 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 .com/redirect-zone/
 .com/rs/to/*?n=cbh&p=false&t=*$third-party
 .com/s/*.xc$third-party
+.com/sad*.js?17$third-party
 .com/safu/safu.js?$~third-party
 .com/safu/safu.php?$~third-party
 .com/sc/*?n=$third-party
@@ -3169,6 +3181,7 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 .com/tj?p=*zh-CN$~third-party
 .com/tong*ji.js$script
 .com/track/pv?id=
+.com/typeadd.js?17$third-party
 .com/vh1/$third-party
 .com/vh2/$third-party
 .com/vh3/$third-party
@@ -5058,6 +5071,7 @@ avple.tv##.MuiSkeleton-root
 avple.tv##.jss13
 avple.tv##.jss20
 avtik.com###player > .player-wrapper + section
+ayjxcs.com,cqzuoer.com,fybys.com,hellorlgzf7sn.com,hskjjglo.com,jiabaide.cn,jmyts.com,jpyy2.com,qiqione.com,tjrongze.com,vv3nwjk.com,xdxtz4j3a.com##img.line_banner[src*="data:"]:upward(4)
 b.quark.cn##.video-info
 bad.news##.download-app-fixed
 bad.news##div[class]:has(> [href*="/app/download"])
@@ -6262,6 +6276,9 @@ so.com##div[id^="guang-"]
 so.com##div[id^="mohe-biu_360"] > .g-card
 so.com##li[data-cpc_query]
 so.com##li[data-id^="cm_display_init_text_"]
+socolive.eseht.com##^script:has-text(Math.floor)
+socolive.eseht.com##div.wrap > *:has(.col-sm-3.col-xs-3)
+socolive.eseht.com##script:has-text(Math.floor)
 sogi.com.tw###ad
 sogi.com.tw###cookie-bar
 sogou.com###PZL
@@ -6465,7 +6482,6 @@ vk.com,vk.ru###system_msg
 vod2046.fun##[style]:not([class]):has(a[href*="/c.php?s"])
 voflix.com##[class*="module-adslist"]
 voflix.com##img[importance="low"][onclick*="window.open"][src][lazyload]
-vv3nwjk.com,jpyy2.com##img.line_banner[src*="data:"]:upward(4)
 vxxx.com###player-1 > div[style="display:flex !important"] > div
 vxxx.com##.video-page-content + div[class]
 vxxx.com##.video-page-content-left + div[class]:last-child
@@ -7168,6 +7184,7 @@ zol.com.cn##[data-bottom-fixed] > img[style]
 ||dcba.zle.com^
 ||deliver.ptgncdn.com^
 ||demand.supply^$script
+||demoscope.net/statics/js/n*.js?v=
 ||detentsclonks.com^
 ||dfes68.com^
 ||dflkndkzf.com^$third-party
@@ -7764,6 +7781,7 @@ zol.com.cn##[data-bottom-fixed] > img[style]
 ||thisav.com/pop?url=
 ||thyn.renzhen8.cn^$third-party
 ||tianzhangs.com/*/*/gg*.js?
+||timluluhaha.com^
 ||ting13.cc/public/tingshu/foor.js
 ||tinghao8.com/assets/publish/$script
 ||tinghaolook.com/assets/publish/$script
