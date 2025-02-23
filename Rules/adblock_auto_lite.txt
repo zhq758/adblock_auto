@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Checksum: +E7EhVvYBrPLaR4hjsZU4g
-! Title: 混合规则精简版(更新日期2025-02-23 00:12:10)
-! Version: 20250223001210
+! Checksum: p96B+Ncib+Q6RAtV3ck6zg
+! Title: 混合规则精简版(更新日期2025-02-23 08:50:21)
+! Version: 20250223085022
 ! Expires: 12 hours (update frequency)
-! Last modified: 2025-02-23 00:12:10
-! Total Count: 50246
-! Blocked Filters: 50246
+! Last modified: 2025-02-23 08:50:22
+! Total Count: 50252
+! Blocked Filters: 50252
 ! Description: 合并于各种知名的Adblock规则，适用于移动端轻量的浏览器，例如 VIA / Rian / B仔浏览器
 ! Homepage: https://lingeringsound.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
@@ -3976,7 +3976,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 |javascript:*window.location
 !<<<<<通配符规则 结束>>>>>
 
-!<<<<<域名规则>>>>>31635
+!<<<<<域名规则>>>>>31641
 |http*://*?$third-party,domain=forums.socialmediagirls.com|pornhub.com|redtube.com|tube8.com|youporn.com|youporngay.com
 |http://$image,third-party,domain=pornhub.com|redtube.com|redtube.net|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com|you-porn.com|youpornru.com|youporn.fyi
 |https://m.frgls.com/js/*.js?v=
@@ -20742,6 +20742,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||jqtree.com^
 ||jquery.envi-met.com.cn^
 ||jqueryoi.com^
+||jrblfv.icu^
 ||jrj.com.cn/h5Ad?
 ||jrj.com.cn/s?z=
 ||jrjimg.cn/ad/
@@ -21263,6 +21264,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||khedastrilium.com^
 ||khengrull.com^
 ||khesuts.com^
+||khoqetslh.com^
 ||khrtac.xiangha.com^
 ||kiaughsviner.com^
 ||kibmswncw.com^
@@ -28414,6 +28416,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||s3t3d2y8.afcdn.net^
 ||s7feh.top^
 ||s7tu.com/images/*.gif
+||s7vf.cn^
 ||s8.pw^$third-party
 ||s83.fun^
 ||s8bbs.com/ad/
@@ -32647,6 +32650,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||vdo.ai^$third-party
 ||vdopia.com^
 ||vdoqomz.icu^
+||vdpwuxmo.icu^
 ||vdsdsf2.fun^
 ||vdzna.com^
 ||ve6k5.top^
@@ -34565,6 +34569,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||xpicj8.cc^
 ||xpj08.oss-cn-beijing.aliyuncs.com^
 ||xpjcg.oss-accelerate.aliyuncs.com^
+||xplbxx.icu^
 ||xplme.xyz^
 ||xporn.in^
 ||xpornotubes.com/ponrtube.html
@@ -34649,6 +34654,7 @@ zhaotianbao1.cn/*/ywy*.apk$~third-party
 ||xwdjnj.xyz^
 ||xwdsp.com^
 ||xwlketvkzf.com^
+||xwma.cn^
 ||xwqvytuiko.com^
 ||xwvnhe.cn^
 ||xwzbpkku-i.site^
