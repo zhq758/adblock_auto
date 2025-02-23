@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 9OcA+6HxyJQExfOIxx+iKQ
+! Checksum: m7ZlZ7ecZfIraR5ouxikQg
 ! Title: 自用去广告Adblock规则
-! Version: 20250223102617
-! Last modified: 2025-02-23 10:26:17
-! Total Count: 8005
+! Version: 20250223105948
+! Last modified: 2025-02-23 10:59:48
+! Total Count: 8007
 ###ADbox
 ###Ad-Container
 ###Ad-Content
@@ -2223,6 +2223,7 @@
 ##a[href^="https://adthree.top"]
 ##a[href^="https://adultfriendfinder.com"]
 ##a[href^="https://aibozhu.com"]
+##a[href^="https://api.66wzk.com/api/jump?"]
 ##a[href^="https://apk1.led-rymx.com"]
 ##a[href^="https://apk2.led-rymx.com"]
 ##a[href^="https://app.kmtgsopq.com?agentId="][target="_blank"]
@@ -7136,6 +7137,7 @@ zol.com.cn##[data-bottom-fixed] > img[style]
 ||ckufcni.click^
 ||cl.sexstories-all.com^
 ||clarity.ms^
+||clb*.top/Public/static/js/common-v2.js
 ||clck.adskeeper.com^
 ||click.aliexpress.com^
 ||click.freepopnews.skin^
