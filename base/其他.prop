@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: RDcyvZ3k3EZh1YUA0cR9sA
+! Checksum: 9OcA+6HxyJQExfOIxx+iKQ
 ! Title: 自用去广告Adblock规则
-! Version: 20250223101345
-! Last modified: 2025-02-23 10:13:45
-! Total Count: 7999
+! Version: 20250223102617
+! Last modified: 2025-02-23 10:26:17
+! Total Count: 8005
 ###ADbox
 ###Ad-Container
 ###Ad-Content
@@ -4530,6 +4530,12 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 123pan.com##.baidu-banner-container
 123pan.com##.banner-container-pc
 123pan.com##[class*="adv-container"]
+131400.best,vikacg.com,vikacg.xyz##.download-btn
+131400.best,vikacg.com,vikacg.xyz##.openapp-footer
+131400.best,vikacg.com,vikacg.xyz##a[href^="http"] > img[src*="/assets/main/"]
+131400.best,vikacg.com,vikacg.xyz##a[href^="http"] > img[src*="/assets/next/"]
+131400.best,vikacg.com,vikacg.xyz##div.card:has(a[target="_blank"][href*="/?code="])
+131400.best,vikacg.com,vikacg.xyz##div:not([id]):not([class]):not([style]) > div[id]:has(img[src*=".gif"])
 16honeys.com###adDisplaySection
 16honeys.com###adSpot
 16honeys.com,iporntv.net###ad-container
@@ -4766,6 +4772,7 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 ://api.*.com/sh/to/$third-party,xmlhttprequest
 ://ayq*nsx.icu/*.js$third-party,script
 ://cdn.*.xyz/xsxs.js$third-party
+://cf*cdn*/static/js/f*.js$third-party
 ://cf*cdn.net^$domain=wuqiantz.top|wuqianvz.top
 ://chaturbate.com$third-party
 ://creative.*.com/widgets/v4/Universal
@@ -7947,7 +7954,6 @@ zol.com.cn##[data-bottom-fixed] > img[style]
 ||xzvahr.xyz^
 ||xzwtbdtq.xyz^
 ||y87.me^$third-party
-||yaacdn.com/static/js/*.js$script
 ||yadro.ru^
 ||yads.yahoo.co.jp^
 ||yads.yjtag.yahoo.co.jp^
