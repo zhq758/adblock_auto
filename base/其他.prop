@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: m7ZlZ7ecZfIraR5ouxikQg
+! Checksum: 1cb+mQgReBPvCAQWM+55gg
 ! Title: 自用去广告Adblock规则
-! Version: 20250223105948
-! Last modified: 2025-02-23 10:59:48
-! Total Count: 8007
+! Version: 20250223133239
+! Last modified: 2025-02-23 13:32:39
+! Total Count: 8012
 ###ADbox
 ###Ad-Container
 ###Ad-Content
@@ -4129,6 +4129,7 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 /js/btdigg.js
 /js/chunk-vendors.js?$third-party,script
 /js/common/gg.js
+/js/cpa.js
 /js/cpc2_dl.js
 /js/cpc2_i.js
 /js/cpc2_rp.js
@@ -4154,6 +4155,7 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 /js/ggjs.js
 /js/ggtop.js
 /js/guanggao_gg.js
+/js/hf.js
 /js/hfee*.js?v=$~third-party
 /js/hfss*.js?v=$~third-party
 /js/home/ad/ad.
@@ -4167,6 +4169,7 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 /js/re-ads-
 /js/rotator.js
 /js/rourouwu.js$script
+/js/sp.js$~third-party
 /js/sp_ad.js$script
 /js/tj.js
 /js/tongji.js?v=
@@ -4846,6 +4849,7 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 ://vlets.*.cyou$third-party
 ://vlets.*.shop$third-party
 ://vlets.*.xyz$third-party
+://www.nunuyy*/xx/*.js
 ://xxsmad*.com
 ://yin*.zgpingshu.com
 ://yunyunyun$domain=hhh806.com
@@ -7918,6 +7922,7 @@ zol.com.cn##[data-bottom-fixed] > img[style]
 ||xero.porn/videoAd
 ||xfohaxohrjr.com^
 ||xgroovy.com/rtb2.php?$third-party
+||xhdel.com/xx/*.js
 ||xhzysh.com/runtime/ad$~third-party
 ||xiakeaa.com/css/js/tools.js
 ||xiangzishop.com^$third-party
