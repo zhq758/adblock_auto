@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 4Xk8kq5Vu8Xz5KFcCRi43w
+! Checksum: mIBXj0gjT5U7F+sj4Rl1pA
 ! Title: 自用去广告Adblock规则
-! Version: 20250223194137
-! Last modified: 2025-02-23 19:41:38
-! Total Count: 8014
+! Version: 20250223231911
+! Last modified: 2025-02-23 23:19:11
+! Total Count: 8017
 ###ADbox
 ###Ad-Container
 ###Ad-Content
@@ -7637,6 +7637,8 @@ zol.com.cn##[data-bottom-fixed] > img[style]
 ||otheve.beacon.qq.com^
 ||oumobook.com/click
 ||outlook.live.com/ows/*/OutlookOptions/AdsAggregate
+||p*-ad-sign.byteimg.com^$domain=douyin.com
+||p*-ad.byteimg.com^$domain=douyin.com
 ||p.pdatago.com^
 ||padmp4.cc/js/foot.js
 ||padmp4.com/js/foot.js
@@ -7770,6 +7772,7 @@ zol.com.cn##[data-bottom-fixed] > img[style]
 ||smbuka.com/t1j.js
 ||smkezc.com^
 ||so.com/adx/
+||so.douyin.com/list
 ||sodata.k12kc.com^
 ||sofire.bdstatic.com^
 ||solengmen.com/assets/publish/$script
