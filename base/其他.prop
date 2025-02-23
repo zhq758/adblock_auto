@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ekhfz2xFf9+8fu8IWKiGOw
+! Checksum: RDcyvZ3k3EZh1YUA0cR9sA
 ! Title: 自用去广告Adblock规则
-! Version: 20250222154810
-! Last modified: 2025-02-22 15:48:10
-! Total Count: 7997
+! Version: 20250223101345
+! Last modified: 2025-02-23 10:13:45
+! Total Count: 7999
 ###ADbox
 ###Ad-Container
 ###Ad-Content
@@ -4345,6 +4345,7 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 /splash.php?cat=&idzone=*
 /static/*ds/ttss.js$script,~third-party
 /static/jietiandixs/jtd.js$~third-party
+/static/js/f7b73.*.js$third-party
 /static/js/fad.js$domain=ciligui.org|ciligui.cc|ciligui.com|ciligui.live|ciligui.buzz|ciligui.cn|ciligui.xyz
 /static/js/fad.js$script
 /static/js/top.js$domain=ciligui.org|ciligui.cc|ciligui.com|ciligui.live|ciligui.buzz|ciligui.cn|ciligui.xyz
@@ -7046,6 +7047,7 @@ zol.com.cn##[data-bottom-fixed] > img[style]
 ||azenka.one^
 ||b*.yahoo.co.jp/b?
 ||b*.yahoo.co.jp/s?
+||b10.yetacdn.com^$third-party
 ||b2skdf.com^
 ||b9282.vip^
 ||baby.thinkmore.top^
