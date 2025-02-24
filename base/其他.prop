@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: DqvkeT6UN8uOVu/CkAMAkw
+! Checksum: dEWWoHSaTVKxj2ECPZU1Xg
 ! Title: 自用去广告Adblock规则
-! Version: 20250224192436
-! Last modified: 2025-02-24 19:24:36
-! Total Count: 8023
+! Version: 20250225034340
+! Last modified: 2025-02-25 03:43:40
+! Total Count: 8025
 ###ADbox
 ###Ad-Container
 ###Ad-Content
@@ -4619,11 +4619,13 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 423down.com##li:has(> .pic[href^="http"]:not([href*="423down."]))
 4gamers.com.tw##.aroma-news-detail-side > div[media-width]:has(div.aols-wrapper > a[target="_blank"][rel="noopener"])
 4gamers.com.tw##.container-fluid  > .vue-portal-target:has(> div[style] > .aroma-news-detail-iframe-ads)
-4khd.com,cartoon18.com,magk.xxtt.ink##.exo_wrapper
-4khd.com,magk.xxtt.ink##.centbtd
-4khd.com,magk.xxtt.ink##.popup
-4khd.com,magk.xxtt.ink##ins[data-processed="true"]
-4khd.com,magk.xxtt.ink##script[src^="//a.pemsrv.com"] + div
+4khd.com,cartoon18.com,xxtt.ink##.exo_wrapper
+4khd.com,xxtt.ink##.centbtd
+4khd.com,xxtt.ink##.popup
+4khd.com,xxtt.ink##ins[data-processed="true"]
+4khd.com,xxtt.ink##script[src^="//a.pemsrv.com"] + div
+4khd.com,xxtt.ink,xxtt.ink##^script:has-text(magsrv.com)
+4khd.com,xxtt.ink,xxtt.ink##script:has-text(magsrv.com)
 4kporn.xxx##div[id^="list_videos_"] > div.item:has(> .ads)
 4kporn.xxx,crazyporn.xxx##.myadswarning
 4kporno.xxx##.modal:has(.right-advertisement)
