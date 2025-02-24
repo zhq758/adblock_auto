@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: mIBXj0gjT5U7F+sj4Rl1pA
+! Checksum: DqvkeT6UN8uOVu/CkAMAkw
 ! Title: 自用去广告Adblock规则
-! Version: 20250223231911
-! Last modified: 2025-02-23 23:19:11
-! Total Count: 8017
+! Version: 20250224192436
+! Last modified: 2025-02-24 19:24:36
+! Total Count: 8023
 ###ADbox
 ###Ad-Container
 ###Ad-Content
@@ -3937,6 +3937,7 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 /css/js/tools.js$script,~third-party,~stylesheet
 /cu.php?s=$popup
 /ddbd/*f.js$~third-party,script
+/ddbd/f1*.js$~third-party
 /display/ads/*
 /dygg_
 /dyn_banner.
@@ -4782,6 +4783,7 @@ $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.
 ://cf*cdn.net^$domain=wuqiantz.top|wuqianvz.top
 ://chaturbate.com$third-party
 ://creative.*.com/widgets/v4/Universal
+://creative.*/widget*.js$third-party
 ://dl.hdslb.com/mobile/latest/android64/*apk
 ://dm*/static/js/footer.js$~third-party
 ://douban.zuixindy*/app.js
@@ -5572,6 +5574,7 @@ hentaistream.com##div[id^="adx_ad-"]
 hentaiworld.tv##.swiper-slide:has(> a[target="_blank"])
 hkcards.com#@##ad-slot
 hoho.tv##[class^="hoho-ad"],[data-ad-client]
+homejav.com###hj-container
 hotntubes.com##li.adcls_small
 hsex.buzz,hsex.com,hsex.icu,hsex.live,hsex.men,hsex.party,hsex.tv##iframe[data-src^="//go."]
 hsg001.com,hsg003.com,hsg004.com##div[style*="center"]:has(.lazy-load)
@@ -6026,6 +6029,7 @@ player.twitch.tv##.video-player__container div[class^="Layout-"]:has(> span[data
 po18wen.com,po18co.com##div[id] + p + script + div[id]
 po18wen.net##[style*="pointer-events: none;"]
 po18wen.net##img[style="border: 1px inset #00FF00"]
+popjav.in##div[style]:not([class]):not([id]):has(iframe[src*="//creative"])
 porn-w.org##.align-items-center.list-row:has(.col:empty)
 porn.co##.adde_modal-overlay
 porn.co##.adde_modal_detector
@@ -6423,6 +6427,7 @@ ting13.cc###roll_app
 ting13.cc##a[href="/app/index.html"]
 ting2.com##p:has([href*="/xiazai/"])
 tinghaobook.com,haitangkan.com,tinghaobook.com,nosadfun.com,ebook8.com,soosadfun.com,mylewen.com,haitangdushu.com,sadhub.org,mobidushu.com,fuwen123.com,lengmen.org,newhaitang.com,tinghaodebook.com,haitangdushu.com,myshenye.com,myfeiyanqing.com,tinghaodebook.com,zongcai666.com,iyungong.com,lookmht.com,peakread.com,lengmenread.com##[style*="0vw"][style*="0vh"][style*="0px"],[style*="z-index"][style*="background:"]
+tktube.com##div.fp-player > *:has(iframe):not([class^="fp"])
 tmioe.com##.zpgimg
 tnaflix.com##.bannerBlock
 tnaflix.com##.rbsd
@@ -7869,6 +7874,7 @@ zol.com.cn##[data-bottom-fixed] > img[style]
 ||v*.qudou100.com^$script
 ||v.vgbhujklp.xyz^
 ||vcvbnmto.xyz^$third-party
+||video.sacdnssedge.com/video/*mp4$domain=homejav.com
 ||vikiporn.com/js/license.*.js
 ||vikiporn.com/plugin.js
 ||vindexmesode.com^
