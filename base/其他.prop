@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: dEWWoHSaTVKxj2ECPZU1Xg
+! Checksum: 3Plwpn9MrvJ00SZZ5hxP+w
 ! Title: 自用去广告Adblock规则
-! Version: 20250225034340
-! Last modified: 2025-02-25 03:43:40
-! Total Count: 8025
+! Version: 20250225110301
+! Last modified: 2025-02-25 11:03:01
+! Total Count: 8045
 ###ADbox
 ###Ad-Container
 ###Ad-Content
@@ -1006,6 +1006,8 @@
 ##.ex_pu_iframe
 ##.exco-container
 ##.exo-ad-ins-container
+##.exo-native-widget
+##.exo-native-widget-outer-container
 ##.exo_wrapper
 ##.external-ad
 ##.external-add
@@ -1966,6 +1968,7 @@
 ##[id^="bfad"]
 ##[id^="common"].bf_qy.common
 ##[id^="div-gpt-ad"]
+##[id^="exo-native-widget"]
 ##[id^="google_ads_iframe"]
 ##[id^="mhbottom_ad"]
 ##[id^="player-advertising"]
@@ -7213,6 +7216,7 @@ zol.com.cn##[data-bottom-fixed] > img[style]
 ||dayu778.com/assets/publish/$script
 ||dbwmpqd.cn^
 ||dcba.zle.com^
+||deeginews.com^
 ||deliver.ptgncdn.com^
 ||demand.supply^$script
 ||demoscope.net/statics/js/n*.js?v=
@@ -7334,6 +7338,7 @@ zol.com.cn##[data-bottom-fixed] > img[style]
 ||goadsexchange.com^$third-party
 ||goasrv.com^
 ||godpvqnszo.com^$third-party
+||gofenews.com^
 ||goo.kkjshsj.com^
 ||google-analytics.com^
 ||google.com/ads/search/app?
@@ -7346,6 +7351,7 @@ zol.com.cn##[data-bottom-fixed] > img[style]
 ||googletagmanager.com^
 ||gov-cn.website^
 ||guchihyfa.pro^
+||guesswhatnews.com^
 ||guifudi.com^
 ||gxxtky.com/js/p.js
 ||gyqifa.com^$third-party
@@ -7393,6 +7399,7 @@ zol.com.cn##[data-bottom-fixed] > img[style]
 ||huayiyuan.hk^
 ||hubiazhi.com^
 ||humble-gap.com^$third-party
+||huronews.com^
 ||hwjyingshi.xyz^
 ||hxdqsvw.cn^
 ||hzk6.fun^
@@ -7441,6 +7448,7 @@ zol.com.cn##[data-bottom-fixed] > img[style]
 ||javhd.com/sb/
 ||javhdporn.net/wp-content/themes/kingtube/assets/js/fun.js
 ||jcylrv.iask.com.cn^
+||jemonews.com^
 ||jewruta.top^
 ||jianpian.vip^
 ||jievf.cn^
@@ -7554,14 +7562,19 @@ zol.com.cn##[data-bottom-fixed] > img[style]
 ||liudarexian.com/moon/*25.js
 ||ln.tian-ting.ink^
 ||log.m.sm.cn^
+||lookinews.com^
+||loopanews.com^
+||lootynews.com^
 ||lorswhowishe.com^
 ||lppgjf.xyz^
 ||lqglqq.com^$third-party
 ||lskjwica.cn^
 ||ltadmycmy.com^
+||luronews.com^
 ||lwksxs.com^$third-party
 ||lwonclbench.com^$third-party
 ||lworihhcab.com^
+||lycheenews.com^
 ||m.ad-expo.com/*/*.js?v=
 ||m.biqooge.com/js/wap.js
 ||ma3ion.com^$third-party
@@ -7718,10 +7731,12 @@ zol.com.cn##[data-bottom-fixed] > img[style]
 ||redirectingat.com^$popup
 ||redirectlinker.com^$popup
 ||redirectvoluum.com^$popup
+||reminews.com^
 ||rexsrv.com^
 ||rfeablduda.com^
 ||riamiavid.com^
 ||rkgwzfwjgk.com^$third-party
+||rookinews.com^
 ||route34.cn^
 ||rouwenge.vip/astyle/$script
 ||rouwhapt.com^
@@ -7751,7 +7766,9 @@ zol.com.cn##[data-bottom-fixed] > img[style]
 ||sediacademy.ca/js/dp.js
 ||sedoparking.com^
 ||sejieboxapi.yingyangdj.com^
+||selornews.com^
 ||sentry-cdn.com^$domain=adblock-tester.com|d3ward.github.io
+||seponews.com^
 ||sewen8.life/ad
 ||sexad.net^
 ||sfkldbkldgdgh.com^
@@ -7763,6 +7780,7 @@ zol.com.cn##[data-bottom-fixed] > img[style]
 ||shfsdvc.com^
 ||show.apiimg.com/*/*.php$third-party
 ||siduohua.top^
+||sifenews.com^
 ||similarpresence.com^
 ||simplewebanalysis.com^
 ||sinodan.link/js/js4.js?v=
@@ -7806,6 +7824,7 @@ zol.com.cn##[data-bottom-fixed] > img[style]
 ||tc.dqpumx.com^
 ||td.easysavemore.com^
 ||td.sxwqhotel.com^
+||tegronews.com^
 ||tfosrv.com^
 ||tg.s4te24u.com^
 ||tg.wmqfey.com^$third-party
@@ -7905,6 +7924,7 @@ zol.com.cn##[data-bottom-fixed] > img[style]
 ||weathercn.com/*/*/*/*/*.js
 ||web-oao.ssp.yahoo.com/admax/
 ||weixiaoke.top^
+||wemakebestnews.com^
 ||wendypha.com^$third-party
 ||wetuu8r.com^
 ||whois.pconline.com.cn^$third-party
