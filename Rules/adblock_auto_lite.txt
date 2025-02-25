@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: pC53HWAgLIh7yXfJ3rJ1dQ
-! Title: 混合规则精简版(更新日期2025-02-25 11:08:49)
-! Version: 20250225110849
+! Checksum: ooGSzRL2jK2G1lZW9RMiVQ
+! Title: 混合规则精简版(更新日期2025-02-25 16:15:42)
+! Version: 20250225161542
 ! Expires: 12 hours (update frequency)
-! Last modified: 2025-02-25 11:08:49
+! Last modified: 2025-02-25 16:15:42
 ! Total Count: 49597
 ! Blocked Filters: 49597
 ! Description: 合并于各种知名的Adblock规则，适用于移动端轻量的浏览器，例如 VIA / Rian / B仔浏览器
@@ -40839,6 +40839,7 @@ otakotaku.com##div[id^="im-ADS_"]
 otakuma.net###affiliate-list
 otakuma.net###main-article-single > div[align="center"]:has(> a[href^="https://hb.afl.rakuten.co.jp/"])
 otakuma.net##body .banner-adsense
+otona-hokenshitsu.jp,resemara.xbiz.jp,revolve-ysy.jp##.bfb_imgBanner
 otona-life.com##.ad_minh_sp
 otonanswer.jp##.side-box-repeat > div[style="min-height: 280px;"]
 otonanswer.jp##.side-box-repeat > div[style="min-height: 315px;"]
@@ -41759,7 +41760,6 @@ republicworld.com##.lbmobile
 republicworld.com##.mainWrapper > .headerContainer ~ div[style^="overflow: hidden; justify-content: center;"]
 republicworld.com##div.py-6:has(> .adWidget)
 republicworld.com,www-republicworld-com.cdn.ampproject.org##div[class^="ads_"]
-resemara.xbiz.jp,revolve-ysy.jp##.bfb_imgBanner
 reshu.by,sdamgia.ru##div[class$="-BlockDetect"]
 retail.ru##.markup__commercial
 retinaboys.com###screen_block
