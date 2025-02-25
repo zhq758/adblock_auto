@@ -139,7 +139,8 @@ bilibili\.com##\.is-rcmd[[:space:]]>[[:space:]]div:only-child$
 ! mycloud
 ^##a\[href\]\[target\=\"_blank\"\][[:space:]]>[[:space:]]img\[src\*\=\"\.cos\.ap-\"\]\[src\*\=\"\.myqcloud\.com\/\"\]\[src\$\=\"\.gif\"\]\[alt\]$
 ^\|\|cos\.ap-\*\.myqcloud\.com\^\$third-party$
-
+! 用不到的广告
+^\|\|.*\.(deegi|gofe|guesswhat|huro|jemo|looki|loopa|looty|luro|lychee|remi|rooki|selor|sepo|sife|tegro|wemakebest)news\.com\^$
 
 
 
